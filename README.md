@@ -24,12 +24,36 @@
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   },
+   "38":{
+  "id": "38",
+  "name": "TNT SPORT 1",
+  "description": "Tnt Sports 1 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct...",
+  "live_url": "http://51.254.199.122:8080/TeennTeeeS1/index.m3u8",
+  "thumbnail": "https://od.lk/s/M18yOTc5OTA0NjBf/RMCone.jpg",
+  "categorie": "SPORTS",
+  "facebook": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "youtube": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
+  },
    "2":{
   "id": "2",
   "name": "RMC 2",
   "description": "RMC 2 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct",
   "live_url": "http://51.254.199.122:8080/SARMC2/index.m3u8",
   "thumbnail": "https://od.lk/s/M18yOTc5OTA0Njdf/RMCtwo.png",
+  "categorie": "SPORTS",
+  "facebook": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "youtube": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
+  },
+   "39":{
+  "id": "39",
+  "name": "TNT SPORT 2",
+  "description": "Tnt Sports 1 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct...",
+  "live_url": "http://51.254.199.122:8080/TeennTeeeS2/index.m3u8",
+  "thumbnail": "https://od.lk/s/M18yOTc5OTA0NjBf/RMCone.jpg",
   "categorie": "SPORTS",
   "facebook": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "youtube": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
