@@ -7,6 +7,10 @@
   "live_url":"https://fl2.moveonjoy.com/BEIN_SPORTS/index.m3u8",
   "thumbnail":"https://od.lk/s/M18yNTkxODU4MzBf/beinone.png",
   "categorie":"SPORTS",
+  "facebook": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "youtube": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   },
   "1":{
   "id": "1",
@@ -15,6 +19,10 @@
   "live_url": "http://51.254.199.122:8080/SARMC1/index.m3u8",
   "thumbnail": "https://od.lk/s/M18yOTc5OTA0NjBf/RMCone.jpg",
   "categorie": "SPORTS",
+  "facebook": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "youtube": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   },
    "38":{
   "id": "38",
@@ -35,6 +43,10 @@
   "live_url": "http://51.254.199.122:8080/SARMC2/index.m3u8",
   "thumbnail": "https://od.lk/s/M18yOTc5OTA0Njdf/RMCtwo.png",
   "categorie": "SPORTS",
+  "facebook": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "youtube": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac" 
   },
    "39":{
   "id": "39",
@@ -43,6 +55,10 @@
   "live_url": "http://51.254.199.122:8080/TeennTeeeS2/index.m3u8",
   "thumbnail": "https://od.lk/s/M18yOTc5OTA0NjBf/RMCone.jpg",
   "categorie": "SPORTS",
+  "facebook": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "youtube": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   },
    "3":{
   "id": "3",
