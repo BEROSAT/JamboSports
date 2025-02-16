@@ -4,13 +4,9 @@
   "id":"1",
   "name":"BEIN SPORTS 1",
   "description":"Bein Sports 1 est un réseau de télévision thématique privé du BeIn Media Group diffusant en France et consacré au sport. Ce réseau regroupe trois chaînes : BeIn Sports 1, BeIn Sports 2, BeIn Sports 3, ainsi qu'un multiplex BeIn Sports Max composé de 7 chaînes (BeIn Sports Max 4 à 10) permettant de couvrir plusieurs événements sportifs en simultané1. Le réseau international, piloté depuis Paris, est présidé en France par Yousef Al-Obaidly, qui avait notamment lancé la chaîne avec Charles Biétry. Florent Houzot occupe le poste de directeur de la rédaction. L'offre payante par abonnement au câble, satellite ou à télévision par Internet comprend trois chaînes en continu et sept canaux en multiplex de retransmissions en direct (BeIn Sports Max) dévolus à la diffusion des événements comme la retransmission de la Ligue 1, la Ligue des champions ou encore la Ligue Europa en football. BeIn Sports a dépassé les 2 millions d'abonnés en France et revendique au 13 septembre 2015, 2,5 millions d'abonnés2,3. Le 7 août 2014, les dirigeants annoncent qu'une troisième chaîne sera créée le 15 septembre 2014, nommée beIn Sports 34. Elle sera consacrée à tous les sports (handball, volley, tennis, athlétisme...). Cependant, lorsqu'il y aura plusieurs matchs de football en simultané, beIn Sports 3 diffusera également du football. Fin juin, à l'occasion de l'Euro 2016, beIn Sports annonce avoir atteint les 3 millions d'abonnés5. En septembre 2017, beIn Sports annonce avoir atteint les ,5 millions d'abonnés..",
-  "live_url":"http://125.209.88.166:45793/BRN/beINSP11.stream/playlist.m3u8",
+  "live_url":"https://fl2.moveonjoy.com/BEIN_SPORTS/index.m3u8",
   "thumbnail":"https://od.lk/s/M18yNTkxODU4MzBf/beinone.png",
   "categorie":"SPORTS",
-  "facebook":"https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
-  "youtube":"https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
-  "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
-  "website":"https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   },
   "1":{
   "id": "1",
@@ -19,10 +15,6 @@
   "live_url": "http://51.254.199.122:8080/SARMC1/index.m3u8",
   "thumbnail": "https://od.lk/s/M18yOTc5OTA0NjBf/RMCone.jpg",
   "categorie": "SPORTS",
-  "facebook": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
-  "youtube": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
-  "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
-  "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   },
    "38":{
   "id": "38",
@@ -43,10 +35,6 @@
   "live_url": "http://51.254.199.122:8080/SARMC2/index.m3u8",
   "thumbnail": "https://od.lk/s/M18yOTc5OTA0Njdf/RMCtwo.png",
   "categorie": "SPORTS",
-  "facebook": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
-  "youtube": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
-  "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
-  "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   },
    "39":{
   "id": "39",
@@ -55,10 +43,6 @@
   "live_url": "http://51.254.199.122:8080/TeennTeeeS2/index.m3u8",
   "thumbnail": "https://od.lk/s/M18yOTc5OTA0NjBf/RMCone.jpg",
   "categorie": "SPORTS",
-  "facebook": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
-  "youtube": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
-  "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
-  "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   },
    "3":{
   "id": "3",
@@ -167,6 +151,14 @@
   "youtube": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
+  },
+    "11":{
+  "id": "11",
+  "name": "ESPN 2",
+  "description": "ESPN Deporte tv est une chaine de sports qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato.",
+  "live_url": "http://fl5.moveonjoy.com/ESPN_2/index.m3u8",
+  "thumbnail": "https://od.lk/s/NDZfNjA1OTExNjhf/espndeporte.png",
+  "categorie": "SPORTS",
   },
   "12":{
   "id": "12",
