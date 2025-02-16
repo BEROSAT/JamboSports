@@ -11,7 +11,8 @@
   "youtube": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
-  },
+  }
+}
   "1":{
   "id": "1",
   "name": "RMC 1",
