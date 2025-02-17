@@ -383,7 +383,19 @@
   "youtube": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
-  } 
+  },
+  "31":{
+  "id": "31",
+  "name": "SHARJAH-SPORTS",
+  "description": "RPM TV est une chaîne de télévision de divertissement",
+  "live_url": "http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8",
+  "thumbnail": "https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8",
+  "categorie": "SPORTS",
+  "facebook": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "youtube": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
+  }
 }
 
 
