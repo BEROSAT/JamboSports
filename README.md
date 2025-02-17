@@ -311,7 +311,79 @@
   "youtube": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
-  }
+  },
+  "25":{
+  "id": "25",
+  "name": "BEIN-S 2",
+  "description": "RPM TV est une chaîne de télévision de divertissement",
+  "live_url": "https://het122a.4rouwanda-shop.store/live/69854211/index.m3u8",
+  "thumbnail": "https://od.lk/s/M18yNTkxODU4MThf/beintwo.png",
+  "categorie": "SPORTS",
+  "facebook": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "youtube": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
+  },
+  "26":{
+  "id": "26",
+  "name": "BEIN-S 4",
+  "description": "RPM TV est une chaîne de télévision de divertissement",
+  "live_url": "https://het112a.4rouwanda-shop.store/live/9787488847/index.m3u8",
+  "thumbnail": "https://od.lk/s/M18yNTkxODU4MThf/beintwo.png",
+  "categorie": "SPORTS",
+  "facebook": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "youtube": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
+  },
+  "27":{
+  "id": "27",
+  "name": "BEIN-S 5",
+  "description": "RPM TV est une chaîne de télévision de divertissement",
+  "live_url": "https://het109a.4rouwanda-shop.store/live/610303030/index.m3u8",
+  "thumbnail": "https://od.lk/s/M18yNTkxODU4MThf/beintwo.png",
+  "categorie": "SPORTS",
+  "facebook": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "youtube": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
+  },
+  "28":{
+  "id": "28",
+  "name": "BEIN-S 6",
+  "description": "RPM TV est une chaîne de télévision de divertissement",
+  "live_url": "https://het125a.4rouwanda-shop.store/live/1515000000/index.m3u8",
+  "thumbnail": "https://od.lk/s/M18yNTkxODU4MThf/beintwo.png",
+  "categorie": "SPORTS",
+  "facebook": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "youtube": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
+  },
+  "29":{
+  "id": "29",
+  "name": "BEIN-S 1 A",
+  "description": "RPM TV est une chaîne de télévision de divertissement",
+  "live_url": "https://het123a.4rouwanda-shop.store/live/918454578001/index.m3u8",
+  "thumbnail": "https://od.lk/s/M18yNTkxODU4MThf/beintwo.png",
+  "categorie": "SPORTS",
+  "facebook": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "youtube": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
+  },
+  "30":{
+  "id": "30",
+  "name": "BEIN-S 1 B",
+  "description": "RPM TV est une chaîne de télévision de divertissement",
+  "live_url": "https://het123a.4rouwanda-shop.store/live/918454578001/index.m3u8",
+  "thumbnail": "https://od.lk/s/M18yNTkxODU4MThf/beintwo.png",
+  "categorie": "SPORTS",
+  "facebook": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "youtube": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
+  } 
 }
 
 
