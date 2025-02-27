@@ -554,10 +554,10 @@
   },
   "67":{
   "id": "68",
-  "name": "MAX SPORT 3",
+  "name": "AFRO SPORTS",
   "description": "1268",
-  "live_url": "http://raalbatros.serv00.net/Gledai.php?ID=maxsport3",
-  "thumbnail": "https://od.lk/s/NDZfNzgxNjA2NDBf/maxsport3.jpg",
+  "live_url": "https://newproxy3.vidivu.tv/vidivu_afrosport/index.m3u8",
+  "thumbnail": "https://od.lk/s/NDZfNzgzMzg4MjZf/afroSport.png",
   "categorie": "SPORTS"
   }
 }
