@@ -562,7 +562,7 @@
   },
   "68":{
   "id": "69",
-  "name": "SSC 1 SPORTS,
+  "name": "SSC 1 SPORTS",
   "description": "1269",
   "live_url": "https://www.ipslow.com/tv/canal.php?id=ssc1",
   "thumbnail": "https://od.lk/s/NDZfNzgzMzg4MjZf/afroSport.png",
