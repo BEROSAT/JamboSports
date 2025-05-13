@@ -559,6 +559,14 @@
   "live_url": "https://newproxy3.vidivu.tv/vidivu_afrosport/index.m3u8",
   "thumbnail": "https://od.lk/s/NDZfNzgzMzg4MjZf/afroSport.png",
   "categorie": "SPORTS"
+  },
+  "68":{
+  "id": "69",
+  "name": "SSC 1 SPORTS,
+  "description": "1269",
+  "live_url": "https://www.ipslow.com/tv/canal.php?id=ssc1",
+  "thumbnail": "https://od.lk/s/NDZfNzgzMzg4MjZf/afroSport.png",
+  "categorie": "SPORTS"
   }
 }
 
