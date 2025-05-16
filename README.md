@@ -567,6 +567,46 @@
   "live_url": "https://www.ipslow.com/tv/canal.php?id=ssc1",
   "thumbnail": "https://od.lk/s/NDZfNzgzMzg4MjZf/afroSport.png",
   "categorie": "SPORTS"
+  },
+  "69":{
+  "id": "70",
+  "name": "SPORTS 1",
+  "description": "1270",
+  "live_url": "http://176.123.6.108:25461/live/100808848/journalsat/1945.m3u8",
+  "thumbnail": "https://od.lk/s/NDZfNzgzMzg4MjZf/afroSport.png",
+  "categorie": "SPORTS"
+  },
+  "70":{
+  "id": "71",
+  "name": "SPORTS 2",
+  "description": "1271",
+  "live_url": "http://130.193.166.18/cache/Bein-Prem-1-HEVC/master.m3u8",
+  "thumbnail": "https://od.lk/s/NDZfNzgzMzg4MjZf/afroSport.png",
+  "categorie": "SPORTS"
+  },
+  "71":{
+  "id": "72",
+  "name": "SPORTS 3",
+  "description": "1272",
+  "live_url": "http://vu-ott.com:8080/live/mag00:1A:79:40:4B:9F/1l4PQfYaCN/7313.m3u8",
+  "thumbnail": "https://od.lk/s/NDZfNzgzMzg4MjZf/afroSport.png",
+  "categorie": "SPORTS"
+  },
+  "72":{
+  "id": "73",
+  "name": "SPORTS 4",
+  "description": "1273",
+  "live_url": "http://93.157.62.180:80/Supersport2/playlist.m3u8",
+  "thumbnail": "https://od.lk/s/NDZfNzgzMzg4MjZf/afroSport.png",
+  "categorie": "SPORTS"
+  },
+  "73":{
+  "id": "74",
+  "name": "SPORTS 5",
+  "description": "1274",
+  "live_url": "http://207.110.52.61:8080/s/hls/5/293/canal_plus_sport_polska_250/1/1/tracks-v1a1/mono.m3u8",
+  "thumbnail": "https://od.lk/s/NDZfNzgzMzg4MjZf/afroSport.png",
+  "categorie": "SPORTS"
   }
 }
 
