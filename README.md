@@ -49,7 +49,6 @@
   "id": "6",
   "name": "ARENA PREMIUM 2",
   "number":"1206",
-  "number":"1201",
   "description": "1206",
   "live_url": "http://42490-fred.oot-mx.me:80/live/63d576d12c/747308777cbd/110736.m3u8",
   "thumbnail": "https://od.lk/s/NDZfNjA2MDI3MThf/arenasport2.png",
@@ -166,6 +165,7 @@
   "18":{
   "id": "19",
   "name": "M+ LALIGA",
+  "number":"1219"
   "description": "1219",
   "live_url": "https://www.oha.to/play/2428779244/index.m3u8",
   "thumbnail": "https://od.lk/s/NDZfNjA1OTEzODNf/mplusliga.png",
@@ -403,11 +403,7 @@
   "description":"1245",
   "live_url":"https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8",
   "thumbnail":"https://od.lk/s/NDZfNzgxNjAzMTNf/beinextra.jpg",
-  "categorie":"SPORTS",
-  "facebook":"https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
-  "youtube":"https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
-  "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
-  "website":"https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
+  "categorie":"SPORTS"
   },
   "45":{
   "id":"46",
