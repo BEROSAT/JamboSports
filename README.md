@@ -647,7 +647,7 @@
   "live_url": "http://vu-ott.com:8080/live/mag00:1A:79:40:4B:9F/1l4PQfYaCN/7313.m3u8",
   "thumbnail": "https://od.lk/s/NDZfNzgzMzg4MjZf/afroSport.png",
   "categorie": "SPORTS"
-  }
+  },
   "72":{
   "id": "73",
   "name": "SPORTS 4",
@@ -656,7 +656,7 @@
   "live_url": "http://93.157.62.180:80/Supersport2/playlist.m3u8",
   "thumbnail": "https://od.lk/s/NDZfNzgzMzg4MjZf/afroSport.png",
   "categorie": "SPORTS"
-  }
+  },
   "73":{
   "id": "74",
   "name": "SPORTS 5",
@@ -665,7 +665,7 @@
   "live_url": "http://207.110.52.61:8080/s/hls/5/293/canal_plus_sport_polska_250/1/1/tracks-v1a1/mono.m3u8",
   "thumbnail": "https://od.lk/s/NDZfNzgzMzg4MjZf/afroSport.png",
   "categorie": "SPORTS"
-  },
+  }
 }
 
 
