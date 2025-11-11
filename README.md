@@ -11,6 +11,78 @@
   },
   "1":{
   "id":"2",
+  "name":"NINJA WARRIOR",
+  "number":"1201",
+  "description":"American Ninja Warrior est la chaine sportive de divertissement des competions Olympic et autres",
+  "live_url":"https://amg00654-itv-amg00654c27-rakuten-uk-5295.playouts.now.amagi.tv/playlist.m3u8",
+  "thumbnail":"https://od.lk/s/NDZfODg2MjI2MTJf/americanNinja.jpeg",
+  "categorie":"SPORTS"
+  },
+  "1":{
+  "id":"2",
+  "name":"NW SPORT 1",
+  "number":"1201",
+  "description":"New World Sport est la chaine sportive qui se focalise au championnat international.",
+  "live_url":"https://video1.getstreamhosting.com:1936/8130/8130/playlist.m3u8",
+  "thumbnail":"https://od.lk/s/NDZfODgyNDUzNjRf/NWSport1.png",
+  "categorie":"SPORTS"
+  },
+  "1":{
+  "id":"2",
+  "name":"WWE WRISTLING",
+  "number":"1201",
+  "description":"WWE TV la chaine sportive qui se focalise au combats",
+  "live_url":"http://fl1.moveonjoy.com/WWE/index.m3u8",
+  "thumbnail":"https://od.lk/s/NDZfODY5MzQ2NzBf/wwe.jpg",
+  "categorie":"SPORTS"
+  },
+  "1":{
+  "id":"2",
+  "name":"STRONGMAN TV",
+  "number":"1201",
+  "description":"Strongman Champion's League la chaine sportive qui se focalise au championnat international...",
+  "live_url":"https://rightsboosterltd-scl-1-se.samsung.wurl.tv/playlist.m3u8",
+  "thumbnail":"https://od.lk/s/NDZfODcwMzc5Njhf/strongmantv.jpg",
+  "categorie":"SPORTS"
+  },
+  "1":{
+  "id":"2",
+  "name":"PREMIERE SPORTS 1",
+  "number":"1201",
+  "description":"Premiere Sports 1 la chaine sportive qui se focalise au championnat international...",
+  "live_url":"https://cdn4.skygo.mn/live/disk1/SPSPrime/HLSv3-FTA/SPSPrime.m3u8",
+  "thumbnail":"https://od.lk/s/NDZfODY5ODU3MDZf/premieresports1.png",
+  "categorie":"SPORTS"
+  },
+  "1":{
+  "id":"2",
+  "name":"PREMIERE SPORTS 2",
+  "number":"1201",
+  "description":"Premiere Sports 2 la chaine sportive qui se focalise au championnat international...",
+  "live_url":"https://cdn4.skygo.mn/live/disk1/SPSPlay/HLS-FTA/SPSPlay.m3u8",
+  "thumbnail":"https://od.lk/s/NDZfODY5ODU3MDhf/premieresports2.jpg",
+  "categorie":"SPORTS"
+  },
+  "1":{
+  "id":"2",
+  "name":"PREMIERE SPORTS 4",
+  "number":"1201",
+  "description":"Premiere Sports 4 la chaine sportive qui se focalise au championnat international...",
+  "live_url":"https://cdn4.skygo.mn/live/disk1/SPSFight/HLSv3-FTA/SPSFight.m3u8",
+  "thumbnail":"https://od.lk/s/NDZfODY5ODU5NThf/prmiersport4.png",
+  "categorie":"SPORTS"
+  },
+  "1":{
+  "id":"2",
+  "name":"PREMIERE SPORTS 5",
+  "number":"1201",
+  "description":"Premiere Sports 5 la chaine sportive qui se focalise au championnat international...",
+  "live_url":"https://cdn4.skygo.mn/live/disk1/SPSPlus/HLSv3-FTA/SPSPlus.m3u8",
+  "thumbnail":"https://od.lk/s/NDZfODY5ODU5NTZf/premiersport5.png",
+  "categorie":"SPORTS"
+  },
+  "1":{
+  "id":"2",
   "name":"SUPER SPORT SPL",
   "number":"1201",
   "description":"Super SPORT SPL la chaine sportive qui se focalise au championnat international...",
@@ -26,6 +98,15 @@
   "live_url": "http://145.239.5.177/564/index.m3u8",
   "thumbnail": "https://od.lk/s/NDZfODU0OTE5OTRf/supersportfootball.jpg",
   "categorie": "SPORTS"
+  },
+  "1":{
+  "id":"2",
+  "name":"SUPER SPORT SPL",
+  "number":"1201",
+  "description":"American Ninja Warrior est la chaine sportive de divertissement des competions Olympic et autres",
+  "live_url":"https://amg00654-itv-amg00654c27-rakuten-uk-5295.playouts.now.amagi.tv/playlist.m3u8",
+  "thumbnail":"https://od.lk/s/NDZfODg2MjI2MTJf/americanNinja.jpeg",
+  "categorie":"SPORTS"
   },
   "3":{
   "id":"4",
@@ -54,6 +135,33 @@
   "thumbnail": "https://od.lk/s/NDZfODQwNTA2ODNf/sSportsCrickets.jpeg",
   "categorie": "SPORTS"
   },
+  "1":{
+  "id":"2",
+  "name":"ZIGO SPORTS 1",
+  "number":"1201",
+  "description":"Zigo SPORTS 1 est une chaine de sports qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
+  "live_url":"https://tvsen6.aynaott.com/btSport1/index.m3u8",
+  "thumbnail":"https://od.lk/s/NDZfODY5ODc0NDVf/ziggo1.jpg",
+  "categorie":"SPORTS"
+  },
+  "1":{
+  "id":"2",
+  "name":"ZIGO SPORTS 2",
+  "number":"1201",
+  "description":"Zigo SPORTS 2 est une chaine de sports qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
+  "live_url":"http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2561/index.m3u8",
+  "thumbnail":"https://od.lk/s/NDZfODY5ODc0NDZf/ziggo2.png",
+  "categorie":"SPORTS"
+  },
+  "1":{
+  "id":"2",
+  "name":"ZIGO SPORTS 3",
+  "number":"1201",
+  "description":"Zigo SPORTS 3 est une chaine de sports qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
+  "live_url":"http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2559/index.m3u8",
+  "thumbnail":"https://od.lk/s/NDZfODY5ODc0NDdf/ziggo3.png",
+  "categorie":"SPORTS"
+  },
   "6":{
   "id": "7",
   "name": "+SPORT 360",
@@ -79,6 +187,24 @@
   "description":"Infos Sports est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct.",
   "live_url":"http://212.102.60.80/Infosport/index.m3u8",
   "thumbnail":"https://od.lk/s/NDZfODU1MjYzMzRf/infosports.png",
+  "categorie":"SPORTS"
+  },
+  "1":{
+  "id":"2",
+  "name":"COSMOTE SPORT 1",
+  "number":"1201",
+  "description":"COSMOTE SPORT 1 est une chaine de sports qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
+  "live_url":"https://kusnadipepenk.github.io/ntn/ele1.m3u8",
+  "thumbnail":"https://od.lk/s/NDZfODY5ODcxNDdf/cosmotetv.jpg",
+  "categorie":"SPORTS"
+  },
+  "1":{
+  "id":"2",
+  "name":"X-SPORT",
+  "number":"1201",
+  "description":"COSMOTE SPORT 1 est une chaine de sports qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
+  "live_url":"http://iptv.prosto.tv:7000/ch109/video.m3u8",
+  "thumbnail":"https://od.lk/s/NDZfODY5ODcwNTVf/xsports.jpg",
   "categorie":"SPORTS"
   },
   "9":{
@@ -171,6 +297,19 @@
   "thumbnail": "https://od.lk/s/M18yODQzNTU3NTJf/match.jpeg",
   "categorie": "SPORTS"
   },
+  "1":{
+  "id":"2",
+  "name":"X-SPORT",
+  "number":"1201",
+  "description":"COSMOTE SPORT 1 est une chaine de sports qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
+  "live_url":"http://iptv.prosto.tv:7000/ch109/video.m3u8",
+  "thumbnail":"https://od.lk/s/NDZfODY5ODcwNTVf/xsports.jpg",
+  "categorie":"SPORTS"
+  },
+
+
+
+  
   "19":{
   "id":"20",
   "name":"RMC 1 SPORT",
