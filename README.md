@@ -4,7 +4,7 @@
   "id": "1",
   "name": "PERSIANA SPORT 1",
   "number":"1201",
-  "description": "1201",
+  "description": "Persiana Sports est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct....",
   "live_url": "https://spstr.abntv.live/hls/psstream.m3u8",
   "thumbnail": "https://od.lk/s/NDZfNzgxNjA1NDBf/persiana1.jpg",
   "categorie": "SPORTS"
@@ -18,8 +18,8 @@
   "thumbnail":"https://od.lk/s/NDZfODg2MjI2MTJf/americanNinja.jpeg",
   "categorie":"SPORTS"
   },
-  "1":{
-  "id":"2",
+  "2":{
+  "id":"3",
   "name":"NW SPORT 1",
   "number":"1201",
   "description":"New World Sport est la chaine sportive qui se focalise au championnat international.",
@@ -27,8 +27,8 @@
   "thumbnail":"https://od.lk/s/NDZfODgyNDUzNjRf/NWSport1.png",
   "categorie":"SPORTS"
   },
-  "1":{
-  "id":"2",
+  "3":{
+  "id":"4",
   "name":"WWE WRISTLING",
   "number":"1201",
   "description":"WWE TV la chaine sportive qui se focalise au combats",
@@ -36,8 +36,8 @@
   "thumbnail":"https://od.lk/s/NDZfODY5MzQ2NzBf/wwe.jpg",
   "categorie":"SPORTS"
   },
-  "1":{
-  "id":"2",
+  "4":{
+  "id":"5",
   "name":"STRONGMAN TV",
   "number":"1201",
   "description":"Strongman Champion's League la chaine sportive qui se focalise au championnat international...",
@@ -45,8 +45,8 @@
   "thumbnail":"https://od.lk/s/NDZfODcwMzc5Njhf/strongmantv.jpg",
   "categorie":"SPORTS"
   },
-  "1":{
-  "id":"2",
+  "5":{
+  "id":"6",
   "name":"PREMIERE SPORTS 1",
   "number":"1201",
   "description":"Premiere Sports 1 la chaine sportive qui se focalise au championnat international...",
@@ -54,8 +54,8 @@
   "thumbnail":"https://od.lk/s/NDZfODY5ODU3MDZf/premieresports1.png",
   "categorie":"SPORTS"
   },
-  "1":{
-  "id":"2",
+  "6":{
+  "id":"7",
   "name":"PREMIERE SPORTS 2",
   "number":"1201",
   "description":"Premiere Sports 2 la chaine sportive qui se focalise au championnat international...",
@@ -63,8 +63,8 @@
   "thumbnail":"https://od.lk/s/NDZfODY5ODU3MDhf/premieresports2.jpg",
   "categorie":"SPORTS"
   },
-  "1":{
-  "id":"2",
+  "7":{
+  "id":"8",
   "name":"PREMIERE SPORTS 4",
   "number":"1201",
   "description":"Premiere Sports 4 la chaine sportive qui se focalise au championnat international...",
@@ -72,8 +72,8 @@
   "thumbnail":"https://od.lk/s/NDZfODY5ODU5NThf/prmiersport4.png",
   "categorie":"SPORTS"
   },
-  "1":{
-  "id":"2",
+  "8":{
+  "id":"9",
   "name":"PREMIERE SPORTS 5",
   "number":"1201",
   "description":"Premiere Sports 5 la chaine sportive qui se focalise au championnat international...",
@@ -81,8 +81,8 @@
   "thumbnail":"https://od.lk/s/NDZfODY5ODU5NTZf/premiersport5.png",
   "categorie":"SPORTS"
   },
-  "1":{
-  "id":"2",
+  "9":{
+  "id":"10",
   "name":"SUPER SPORT SPL",
   "number":"1201",
   "description":"Super SPORT SPL la chaine sportive qui se focalise au championnat international...",
@@ -90,8 +90,8 @@
   "thumbnail":"https://od.lk/s/NDZfODU0OTE5OTVf/supersportspl.jpg",
   "categorie":"SPORTS"
   },
-  "2":{
-  "id": "3",
+  "10":{
+  "id": "11",
   "name": "SUPER SPORT FOOTBALL",
   "number":"1203",
   "description": "Super SPORT Football la chaine sportive qui se focalise au championnat international....",
@@ -99,8 +99,8 @@
   "thumbnail": "https://od.lk/s/NDZfODU0OTE5OTRf/supersportfootball.jpg",
   "categorie": "SPORTS"
   },
-  "1":{
-  "id":"2",
+  "11":{
+  "id":"12",
   "name":"SUPER SPORT SPL",
   "number":"1201",
   "description":"American Ninja Warrior est la chaine sportive de divertissement des competions Olympic et autres",
@@ -108,8 +108,8 @@
   "thumbnail":"https://od.lk/s/NDZfODg2MjI2MTJf/americanNinja.jpeg",
   "categorie":"SPORTS"
   },
-  "3":{
-  "id":"4",
+  "12":{
+  "id":"13",
   "name":"SUPER SPORT FIFA",
   "number":"1204",
   "description":"Super SPORT la chaine sportive qui se focalise au championnat international....",
@@ -117,8 +117,8 @@
   "thumbnail":"https://od.lk/s/NDZfODU0ODYzNzBf/supersporthd.jpeg",
   "categorie":"SPORTS"
   },
-  "4":{
-  "id": "5",
+  "13":{
+  "id": "14",
   "name": "SUPER SPORT 4",
   "number":"1205",
   "description": "Super SPORT la chaine sportive qui se focalise au championnat international...",
@@ -126,8 +126,8 @@
   "thumbnail": "https://od.lk/s/NDZfODU0ODYzNjZf/supersport.jpeg",
   "categorie": "SPORTS"
   },
-  "5":{
-  "id": "6",
+  "14":{
+  "id": "15",
   "name": "SUPER SPORT CRICKET",
   "number":"1206",
   "description": "Super SPORT Cricketest la chaine sportive qui se focalise au championnat international ....",
@@ -135,8 +135,8 @@
   "thumbnail": "https://od.lk/s/NDZfODQwNTA2ODNf/sSportsCrickets.jpeg",
   "categorie": "SPORTS"
   },
-  "1":{
-  "id":"2",
+  "15":{
+  "id":"16",
   "name":"ZIGO SPORTS 1",
   "number":"1201",
   "description":"Zigo SPORTS 1 est une chaine de sports qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
@@ -144,8 +144,8 @@
   "thumbnail":"https://od.lk/s/NDZfODY5ODc0NDVf/ziggo1.jpg",
   "categorie":"SPORTS"
   },
-  "1":{
-  "id":"2",
+  "16":{
+  "id":"17",
   "name":"ZIGO SPORTS 2",
   "number":"1201",
   "description":"Zigo SPORTS 2 est une chaine de sports qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
@@ -153,8 +153,8 @@
   "thumbnail":"https://od.lk/s/NDZfODY5ODc0NDZf/ziggo2.png",
   "categorie":"SPORTS"
   },
-  "1":{
-  "id":"2",
+  "17":{
+  "id":"18",
   "name":"ZIGO SPORTS 3",
   "number":"1201",
   "description":"Zigo SPORTS 3 est une chaine de sports qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
@@ -162,8 +162,8 @@
   "thumbnail":"https://od.lk/s/NDZfODY5ODc0NDdf/ziggo3.png",
   "categorie":"SPORTS"
   },
-  "6":{
-  "id": "7",
+  "18":{
+  "id": "19",
   "name": "+SPORT 360",
   "number":"1207",
   "description": "+SPORT 360 la chaine sportive qui se focalise au championnat international ....",
@@ -171,8 +171,8 @@
   "thumbnail": "https://od.lk/s/NDZfODU1MjQyNTFf/sport360.png",
   "categorie": "SPORTS"
   },
-  "7":{
-  "id":"8",
+  "19":{
+  "id":"20",
   "name":"CANAL+ SPORTS",
   "number":"1208",
   "description":"Canal Plus Sports la chaine sportive qui se focalise au championnat international",
@@ -180,8 +180,8 @@
   "thumbnail":"https://od.lk/s/NDZfODU1MjQ2MDhf/canalsports.png",
   "categorie":"SPORTS"
   },
-  "8":{
-  "id":"9",
+  "21":{
+  "id":"22",
   "name":"INFO SPORTS",
   "number":"1209",
   "description":"Infos Sports est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct.",
@@ -189,8 +189,8 @@
   "thumbnail":"https://od.lk/s/NDZfODU1MjYzMzRf/infosports.png",
   "categorie":"SPORTS"
   },
-  "1":{
-  "id":"2",
+  "22":{
+  "id":"23",
   "name":"COSMOTE SPORT 1",
   "number":"1201",
   "description":"COSMOTE SPORT 1 est une chaine de sports qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
@@ -198,8 +198,8 @@
   "thumbnail":"https://od.lk/s/NDZfODY5ODcxNDdf/cosmotetv.jpg",
   "categorie":"SPORTS"
   },
-  "1":{
-  "id":"2",
+  "23":{
+  "id":"24",
   "name":"X-SPORT",
   "number":"1201",
   "description":"COSMOTE SPORT 1 est une chaine de sports qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
@@ -207,8 +207,8 @@
   "thumbnail":"https://od.lk/s/NDZfODY5ODcwNTVf/xsports.jpg",
   "categorie":"SPORTS"
   },
-  "9":{
-  "id":"10",
+  "24":{
+  "id":"25",
   "name":"BEIN SPORT 1 FR",
   "number":"1210",
   "description":"Bein Sports 1 est un réseau de télévision thématique privé du BeIn Media Group diffusant en France et consacré au sport. Ce réseau regroupe trois chaînes : BeIn Sports 1, BeIn Sports 2, BeIn Sports 3, ainsi qu'un multiplex BeIn Sports Max composé de 7 chaînes (BeIn Sports Max 4 à 10) permettant de couvrir plusieurs événements sportifs en simultané1. Le réseau international, piloté depuis Paris, est présidé en France par Yousef Al-Obaidly, qui avait notamment lancé la chaîne avec Charles Biétry. Florent Houzot occupe le poste de directeur de la rédaction. L'offre payante par abonnement au câble, satellite ou à télévision par Internet comprend trois chaînes en continu et sept canaux en multiplex de retransmissions en direct (BeIn Sports Max) dévolus à la diffusion des événements comme la retransmission de la Ligue 1, la Ligue des champions ou encore la Ligue Europa en football. BeIn Sports a dépassé les 2 millions d'abonnés en France et revendique au 13 septembre 2015, 2,5 millions d'abonnés2,3. Le 7 août 2014, les dirigeants annoncent qu'une troisième chaîne sera créée le 15 septembre 2014, nommée beIn Sports 34. Elle sera consacrée à tous les sports (handball, volley, tennis, athlétisme...). Cependant, lorsqu'il y aura plusieurs matchs de football en simultané, beIn Sports 3 diffusera également du football. Fin juin, à l'occasion de l'Euro 2016, beIn Sports annonce avoir atteint les 3 millions d'abonnés5. En septembre 2017, beIn Sports annonce avoir atteint les ,5 millions d'abonnés....",
@@ -216,8 +216,8 @@
   "thumbnail":"https://od.lk/s/M18yNTkxODU4MzBf/beinone.png",
   "categorie":"SPORTS"
   },
-  "10":{
-  "id": "11",
+  "25":{
+  "id": "26",
   "name": "BEIN SPORT 1 EN",
   "number":"1211",
   "description": "Bein Sports 1 est un réseau de télévision thématique privé du BeIn Media Group diffusant en France et consacré au sport. Ce réseau regroupe trois chaînes : BeIn Sports 1, BeIn Sports 2, BeIn Sports 3, ainsi qu'un multiplex BeIn Sports Max composé de 7 chaînes (BeIn Sports Max 4 à 10) permettant de couvrir plusieurs événements sportifs en simultané1. Le réseau international, piloté depuis Paris, est présidé en France par Yousef Al-Obaidly, qui avait notamment lancé la chaîne avec Charles Biétry. Florent Houzot occupe le poste de directeur de la rédaction. L'offre payante par abonnement au câble, satellite ou à télévision par Internet comprend trois chaînes en continu et sept canaux en multiplex de retransmissions en direct (BeIn Sports Max) dévolus à la diffusion des événements comme la retransmission de la Ligue 1, la Ligue des champions ou encore la Ligue Europa en football. BeIn Sports a dépassé les 2 millions d'abonnés en France et revendique au 13 septembre 2015, 2,5 millions d'abonnés2,3. Le 7 août 2014, les dirigeants annoncent qu'une troisième chaîne sera créée le 15 septembre 2014, nommée beIn Sports 34. Elle sera consacrée à tous les sports (handball, volley, tennis, athlétisme...). Cependant, lorsqu'il y aura plusieurs matchs de football en simultané, beIn Sports 3 diffusera également du football. Fin juin, à l'occasion de l'Euro 2016, beIn Sports annonce avoir atteint les 3 millions d'abonnés5. En septembre 2017, beIn Sports annonce avoir atteint les ,5 millions d'abonnés...",
@@ -225,8 +225,8 @@
   "thumbnail": "https://od.lk/s/M18yNTkxODU4MzBf/beinone.png",
   "categorie": "SPORTS"
   },
-  "11":{
-  "id":"12",
+  "26":{
+  "id":"27",
   "name":"BEIN SPORTS 1",
   "number":"1212",
   "description":"Bein Sports 1 est un réseau de télévision thématique privé du BeIn Media Group diffusant en France et consacré au sport. Ce réseau regroupe trois chaînes : BeIn Sports 1, BeIn Sports 2, BeIn Sports 3, ainsi qu'un multiplex BeIn Sports Max composé de 7 chaînes (BeIn Sports Max 4 à 10) permettant de couvrir plusieurs événements sportifs en simultané1. Le réseau international, piloté depuis Paris, est présidé en France par Yousef Al-Obaidly, qui avait notamment lancé la chaîne avec Charles Biétry. Florent Houzot occupe le poste de directeur de la rédaction. L'offre payante par abonnement au câble, satellite ou à télévision par Internet comprend trois chaînes en continu et sept canaux en multiplex de retransmissions en direct (BeIn Sports Max) dévolus à la diffusion des événements comme la retransmission de la Ligue 1, la Ligue des champions ou encore la Ligue Europa en football. BeIn Sports a dépassé les 2 millions d'abonnés en France et revendique au 13 septembre 2015, 2,5 millions d'abonnés2,3. Le 7 août 2014, les dirigeants annoncent qu'une troisième chaîne sera créée le 15 septembre 2014, nommée beIn Sports 34. Elle sera consacrée à tous les sports (handball, volley, tennis, athlétisme...). Cependant, lorsqu'il y aura plusieurs matchs de football en simultané, beIn Sports 3 diffusera également du football. Fin juin, à l'occasion de l'Euro 2016, beIn Sports annonce avoir atteint les 3 millions d'abonnés5. En septembre 2017, beIn Sports annonce avoir atteint les ,5 millions d'abonnés...",
@@ -234,8 +234,8 @@
   "thumbnail":"https://od.lk/s/M18yNTkxODU4MzBf/beinone.png",
   "categorie":"SPORTS"
   },
-  "12":{
-  "id": "13",
+  "27":{
+  "id": "28",
   "name": "BEIN SPORT 1 AR",
   "number":"1213",
   "description": "Bein Sports 1 est un réseau de télévision thématique privé du BeIn Media Group diffusant en France et consacré au sport. Ce réseau regroupe trois chaînes : BeIn Sports 1, BeIn Sports 2, BeIn Sports 3, ainsi qu'un multiplex BeIn Sports Max composé de 7 chaînes (BeIn Sports Max 4 à 10) permettant de couvrir plusieurs événements sportifs en simultané1. Le réseau international, piloté depuis Paris, est présidé en France par Yousef Al-Obaidly, qui avait notamment lancé la chaîne avec Charles Biétry. Florent Houzot occupe le poste de directeur de la rédaction. L'offre payante par abonnement au câble, satellite ou à télévision par Internet comprend trois chaînes en continu et sept canaux en multiplex de retransmissions en direct (BeIn Sports Max) dévolus à la diffusion des événements comme la retransmission de la Ligue 1, la Ligue des champions ou encore la Ligue Europa en football. BeIn Sports a dépassé les 2 millions d'abonnés en France et revendique au 13 septembre 2015, 2,5 millions d'abonnés2,3. Le 7 août 2014, les dirigeants annoncent qu'une troisième chaîne sera créée le 15 septembre 2014, nommée beIn Sports 34. Elle sera consacrée à tous les sports (handball, volley, tennis, athlétisme...). Cependant, lorsqu'il y aura plusieurs matchs de football en simultané, beIn Sports 3 diffusera également du football. Fin juin, à l'occasion de l'Euro 2016, beIn Sports annonce avoir atteint les 3 millions d'abonnés5. En septembre 2017, beIn Sports annonce avoir atteint les ,5 millions d'abonnés.",
@@ -243,8 +243,8 @@
   "thumbnail": "https://od.lk/s/M18yNTkxODU4MzBf/beinone.png",
   "categorie": "SPORTS"
   },
-  "13":{
-  "id": "14",
+  "28":{
+  "id": "29",
   "name": "BEIN SPORT 2",
   "number":"1214", 
   "description": "BEIN EXTRAS 2 est un réseau de télévision thématique privé du BeIn Media Group diffusant en France et consacré au sport. Ce réseau regroupe trois chaînes : BeIn Sports 1, BeIn Sports 2, BeIn Sports 3, ainsi qu'un multiplex BeIn Sports Max composé de 7 chaînes (BeIn Sports Max 4 à 10) permettant de couvrir plusieurs événements sportifs en simultané1. Le réseau international, piloté depuis Paris, est présidé en France par Yousef Al-Obaidly, qui avait notamment lancé la chaîne avec Charles Biétry. Florent Houzot occupe le poste de directeur de la rédaction. L'offre payante par abonnement au câble, satellite ou à télévision par Internet comprend trois chaînes en continu et sept canaux en multiplex de retransmissions en direct (BeIn Sports Max) dévolus à la diffusion des événements comme la retransmission de la Ligue 1, la Ligue des champions ou encore la Ligue Europa en football. BeIn Sports a dépassé les 2 millions d'abonnés en France et revendique au 13 septembre 2015, 2,5 millions d'abonnés2,3. Le 7 août 2014, les dirigeants annoncent qu'une troisième chaîne sera créée le 15 septembre 2014, nommée beIn Sports 34. Elle sera consacrée à tous les sports (handball, volley, tennis, athlétisme...). Cependant, lorsqu'il y aura plusieurs matchs de football en simultané, beIn Sports 3 diffusera également du football. Fin juin, à l'occasion de l'Euro 2016, beIn Sports annonce avoir atteint les 3 millions d'abonnés5. En septembre 2017, beIn Sports annonce avoir atteint les ,5 millions d'abonnés",
@@ -252,8 +252,8 @@
   "thumbnail": "https://od.lk/s/M18yNTkxODU4MThf/beintwo.png",
   "categorie": "SPORTS"
   },
-  "14":{
-  "id": "15",
+  "29":{
+  "id": "30",
   "name": "BEIN SPORT 2 EN",
   "number":"1215", 
   "description": "BEIN EXTRAS 2 est un réseau de télévision thématique privé du BeIn Media Group diffusant en France et consacré au sport. Ce réseau regroupe trois chaînes : BeIn Sports 1, BeIn Sports 2, BeIn Sports 3, ainsi qu'un multiplex BeIn Sports Max composé de 7 chaînes (BeIn Sports Max 4 à 10) permettant de couvrir plusieurs événements sportifs en simultané1. Le réseau international, piloté depuis Paris, est présidé en France par Yousef Al-Obaidly, qui avait notamment lancé la chaîne avec Charles Biétry. Florent Houzot occupe le poste de directeur de la rédaction. L'offre payante par abonnement au câble, satellite ou à télévision par Internet comprend trois chaînes en continu et sept canaux en multiplex de retransmissions en direct (BeIn Sports Max) dévolus à la diffusion des événements comme la retransmission de la Ligue 1, la Ligue des champions ou encore la Ligue Europa en football. BeIn Sports a dépassé les 2 millions d'abonnés en France et revendique au 13 septembre 2015, 2,5 millions d'abonnés2,3. Le 7 août 2014, les dirigeants annoncent qu'une troisième chaîne sera créée le 15 septembre 2014, nommée beIn Sports 34. Elle sera consacrée à tous les sports (handball, volley, tennis, athlétisme...). Cependant, lorsqu'il y aura plusieurs matchs de football en simultané, beIn Sports 3 diffusera également du football. Fin juin, à l'occasion de l'Euro 2016, beIn Sports annonce avoir atteint les 3 millions d'abonnés5. En septembre 2017, beIn Sports annonce avoir atteint les ,5 millions d'abonnés.",
@@ -261,8 +261,8 @@
   "thumbnail": "https://od.lk/s/M18yNTkxODU4MThf/beintwo.png",
   "categorie": "SPORTS"
   },
-  "15":{
-  "id": "16",
+  "30":{
+  "id": "31",
   "name": "BEIN SPORT 3",
   "number":"1216", 
   "description": "BEIN EXTRAS 3 est un réseau de télévision thématique privé du BeIn Media Group diffusant en France et consacré au sport. Ce réseau regroupe trois chaînes : BeIn Sports 1, BeIn Sports 2, BeIn Sports 3, ainsi qu'un multiplex BeIn Sports Max composé de 7 chaînes (BeIn Sports Max 4 à 10) permettant de couvrir plusieurs événements sportifs en simultané1. Le réseau international, piloté depuis Paris, est présidé en France par Yousef Al-Obaidly, qui avait notamment lancé la chaîne avec Charles Biétry. Florent Houzot occupe le poste de directeur de la rédaction. L'offre payante par abonnement au câble, satellite ou à télévision par Internet comprend trois chaînes en continu et sept canaux en multiplex de retransmissions en direct (BeIn Sports Max) dévolus à la diffusion des événements comme la retransmission de la Ligue 1, la Ligue des champions ou encore la Ligue Europa en football. BeIn Sports a dépassé les 2 millions d'abonnés en France et revendique au 13 septembre 2015, 2,5 millions d'abonnés2,3. Le 7 août 2014, les dirigeants annoncent qu'une troisième chaîne sera créée le 15 septembre 2014, nommée beIn Sports 34. Elle sera consacrée à tous les sports (handball, volley, tennis, athlétisme...). Cependant, lorsqu'il y aura plusieurs matchs de football en simultané, beIn Sports 3 diffusera également du football. Fin juin, à l'occasion de l'Euro 2016, beIn Sports annonce avoir atteint les 3 millions d'abonnés5. En septembre 2017, beIn Sports annonce avoir atteint les ,5 millions d'abonnés.",
@@ -270,8 +270,8 @@
   "thumbnail": "https://od.lk/s/NDZfODU1MjYyMTdf/beinsport3.png",
   "categorie": "SPORTS"
   },
-  "16":{
-  "id": "17",
+  "31":{
+  "id": "32",
   "name": "BEIN SPORT 4",
   "number":"1217",  
   "description": "BEIN SPORTS 4 est un réseau de télévision thématique privé du BeIn Media Group diffusant en France et consacré au sport. Ce réseau regroupe trois chaînes : BeIn Sports 1, BeIn Sports 2, BeIn Sports 3, ainsi qu'un multiplex BeIn Sports Max composé de 7 chaînes (BeIn Sports Max 4 à 10) permettant de couvrir plusieurs événements sportifs en simultané1. Le réseau international, piloté depuis Paris, est présidé en France par Yousef Al-Obaidly, qui avait notamment lancé la chaîne avec Charles Biétry. Florent Houzot occupe le poste de directeur de la rédaction. L'offre payante par abonnement au câble, satellite ou à télévision par Internet comprend trois chaînes en continu et sept canaux en multiplex de retransmissions en direct (BeIn Sports Max) dévolus à la diffusion des événements comme la retransmission de la Ligue 1, la Ligue des champions ou encore la Ligue Europa en football. BeIn Sports a dépassé les 2 millions d'abonnés en France et revendique au 13 septembre 2015, 2,5 millions d'abonnés2,3. Le 7 août 2014, les dirigeants annoncent qu'une troisième chaîne sera créée le 15 septembre 2014, nommée beIn Sports 34. Elle sera consacrée à tous les sports (handball, volley, tennis, athlétisme...). Cependant, lorsqu'il y aura plusieurs matchs de football en simultané, beIn Sports 3 diffusera également du football. Fin juin, à l'occasion de l'Euro 2016, beIn Sports annonce avoir atteint les 3 millions d'abonnés5. En septembre 2017, beIn Sports annonce avoir atteint les ,5 millions d'abonnés.",
@@ -279,8 +279,8 @@
   "thumbnail": "https://od.lk/s/M18yNjUzMDQ5NzNf/beinfour.png",
   "categorie": "SPORTS"
   },
-  "17":{
-  "id": "18",
+  "32":{
+  "id": "33",
   "name": "BEIN SPORT 5",
   "number":"1218",
   "description": "BEIN SPORTS 5 est un réseau de télévision thématique privé du BeIn Media Group diffusant en France et consacré au sport. Ce réseau regroupe trois chaînes : BeIn Sports 1, BeIn Sports 2, BeIn Sports 3, ainsi qu'un multiplex BeIn Sports Max composé de 7 chaînes (BeIn Sports Max 4 à 10) permettant de couvrir plusieurs événements sportifs en simultané1. Le réseau international, piloté depuis Paris, est présidé en France par Yousef Al-Obaidly, qui avait notamment lancé la chaîne avec Charles Biétry. Florent Houzot occupe le poste de directeur de la rédaction. L'offre payante par abonnement au câble, satellite ou à télévision par Internet comprend trois chaînes en continu et sept canaux en multiplex de retransmissions en direct (BeIn Sports Max) dévolus à la diffusion des événements comme la retransmission de la Ligue 1, la Ligue des champions ou encore la Ligue Europa en football. BeIn Sports a dépassé les 2 millions d'abonnés en France et revendique au 13 septembre 2015, 2,5 millions d'abonnés2,3. Le 7 août 2014, les dirigeants annoncent qu'une troisième chaîne sera créée le 15 septembre 2014, nommée beIn Sports 34. Elle sera consacrée à tous les sports (handball, volley, tennis, athlétisme...). Cependant, lorsqu'il y aura plusieurs matchs de football en simultané, beIn Sports 3 diffusera également du football. Fin juin, à l'occasion de l'Euro 2016, beIn Sports annonce avoir atteint les 3 millions d'abonnés5. En septembre 2017, beIn Sports annonce avoir atteint les ,5 millions d'abonnés.",
@@ -288,8 +288,8 @@
   "thumbnail": "https://od.lk/s/M18yNjUzMDQ4MzFf/beinfive",
   "categorie": "SPORTS"
   },
-  "18":{
-  "id": "19",
+  "33":{
+  "id": "34",
   "name": "MATCH ARENA",
   "number":"1219",
   "description": "MATCH ARENA est la chaine sportive de la russie qui se focalise au championnat international aves des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
@@ -297,8 +297,8 @@
   "thumbnail": "https://od.lk/s/M18yODQzNTU3NTJf/match.jpeg",
   "categorie": "SPORTS"
   },
-  "1":{
-  "id":"2",
+  "34":{
+  "id":"35",
   "name":"X-SPORT",
   "number":"1201",
   "description":"COSMOTE SPORT 1 est une chaine de sports qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
@@ -306,12 +306,59 @@
   "thumbnail":"https://od.lk/s/NDZfODY5ODcwNTVf/xsports.jpg",
   "categorie":"SPORTS"
   },
+  
+  "35":{
+  "id":"36",
+  "name":"FIFA +",
+  "number":"1201",
+  "description":"Fifa Plus est une chaine de sports qui se focalise au championnat fifa international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
+  "live_url":"https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8",
+  "thumbnail":"https://od.lk/s/NDZfODY5ODcwNTVf/xsports.jpg",
+  "categorie":"SPORTS"
+  },
+  "36":{
+  "id":"37,
+  "name":"FIFA+ ITALY",
+  "number":"1201",
+  "description":"FIFA+ Italy est une chaine de sports qui se focalise au championnat fifa international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
+  "live_url":"https://5d95f7d7.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWl0X0ZJRkFQbHVzSXRhbGlhbl9ITFM/playlist.m3u8",
+  "thumbnail":"https://od.lk/s/NDZfODY5ODcwNTVf/xsports.jpg",
+  "categorie":"SPORTS"
+  },
+  "37":{
+  "id":"38",
+  "name":"FIFA+ SPAIN",
+  "number":"1201",
+  "description":"FIFA+ Spain est une chaine de sports qui se focalise au championnat fifa international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
+  "live_url":"https://d63fabad.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX0ZJRkFQbHVzU3BhbmlzaF9ITFM/playlist.m3u8",
+  "thumbnail":"https://od.lk/s/NDZfODY5ODcwNTVf/xsports.jpg",
+  "categorie":"SPORTS"
+  },
+  "38":{
+  "id":"39",
+  "name":"FIFA+ GERMAN",
+  "number":"1201",
+  "description":"FIFA+ German est une chaine de sports qui se focalise au championnat fifa international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
+  "live_url":"https://4397879b.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWRlX0ZJRkFQbHVzR2VybWFuX0hMUw/playlist.m3u8",
+  "thumbnail":"https://od.lk/s/NDZfODY5ODcwNTVf/xsports.jpg",
+  "categorie":"SPORTS"
+  },
+  "39":{
+  "id":"40",
+  "name":"FIFA+ FRENCH",
+  "number":"1201",
+  "description":"FIFA+ French est une chaine de sports qui se focalise au championnat fifa international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
+  "live_url":"https://37b4c228.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWZyX0ZJRkFQbHVzRnJlbmNoX0hMUw/playlist.m3u8",
+  "thumbnail":"https://od.lk/s/NDZfODY5ODcwNTVf/xsports.jpg",
+  "categorie":"SPORTS"
+  },
+
 
 
 
   
-  "19":{
-  "id":"20",
+  "40":{
+  "id":"41",
   "name":"RMC 1 SPORT",
   "number":"1220",
   "description":"RMC 1 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct...",
@@ -319,8 +366,8 @@
   "thumbnail":"https://od.lk/s/M18yOTc5OTA0NjBf/RMCone.jpg",
   "categorie":"SPORTS"
   },
-  "20":{
-  "id":"21",
+  "41":{
+  "id":"42",
   "name":"RMC 2 SPORTS",
   "number":"1221",
   "description":"RMC 2 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct...",
@@ -328,8 +375,8 @@
   "thumbnail":"https://od.lk/s/M18yOTc5OTA0Njdf/RMCtwo.png",
   "categorie":"SPORTS"
   },
-  "21":{
-  "id":"22",
+  "42":{
+  "id":"43",
   "name":"TNT SPORTS 1",
   "number":"1222",
   "description":"TNT SPORTS est une chaine de sports qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato.",
@@ -337,8 +384,8 @@
   "thumbnail":"https://od.lk/s/NDZfODUyODk5NTJf/tntsports.jpeg",
   "categorie":"SPORTS"
   },
-  "22":{
-  "id":"23",
+  "43":{
+  "id":"44",
   "name":"TNT SPORTS 2",
   "number":"1223",
   "description":"TNT SPORTS est une chaine de sports qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato.",
@@ -346,8 +393,8 @@
   "thumbnail":"https://od.lk/s/NDZfODUyOTAwMzlf/tntsports2.jpeg",
   "categorie":"SPORTS"
   },
-  "23":{
-  "id":"24",
+  "44":{
+  "id":"45",
   "name":"PTV SPORTS",
   "number":"1224",
   "description":"PTV SPORTS est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct...",
@@ -355,8 +402,8 @@
   "thumbnail":"https://od.lk/s/NDZfODQyMzI0OTFf/ptvsports.jpeg",
   "categorie":"SPORTS"
   },
-  "24":{
-  "id": "25",
+  "45":{
+  "id": "46",
   "name": "PERSIANA SPORT 1",
   "number":"1225",
   "description": "PERSIANA SPORT 1 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct....",
@@ -364,8 +411,8 @@
   "thumbnail": "https://od.lk/s/NDZfNzgxNjA1NDBf/persiana1.jpg",
   "categorie": "SPORTS"
   },
-  "25":{
-  "id": "26",
+  "46":{
+  "id": "47",
   "name": "AFRICA 24 SPORTS",
   "number":"1226",
   "description": "Africa 24 SPORT est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct..",
@@ -373,8 +420,8 @@
   "thumbnail": "https://od.lk/s/NDZfODM5NjU2ODlf/africa24sports.jpeg",
   "categorie": "SPORTS"
   },
-  "26":{
-  "id": "27",
+  "47":{
+  "id": "48",
   "name": "SKY ACTION",
   "number":"1227",
   "description": "Sky Sports Sports tv est une chaine de sports.",
@@ -382,8 +429,8 @@
   "thumbnail": "https://od.lk/s/NDZfODUyOTAyMTBf/skyaction.jpg",
   "categorie": "SPORTS"
   },
-  "27":{
-  "id": "28",
+  "48":{
+  "id": "49",
   "name": "AFRO SPORTS",
   "number":"1228",
   "description": "AFRO SPORTS est la chaine sportive qui se focalise au championnat Africain avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct...",
@@ -391,8 +438,8 @@
   "thumbnail": "https://od.lk/s/NDZfNzgzMzg4MjZf/afroSport.png",
   "categorie": "SPORTS"
   },
-  "28":{
-  "id": "29",
+  "49":{
+  "id": "50",
   "name": "EUROSPORTS FR",
   "number":"1229",
   "description": "EUROSPORTS tv est une chaine de sports qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
@@ -400,8 +447,8 @@
   "thumbnail": "https://od.lk/s/NDZfNjA1OTE2Mjhf/eurosports.png",
   "categorie": "SPORTS"
   },
-  "29":{
-  "id": "30",
+  "50":{
+  "id": "51",
   "name": "EUROSPORTS EN",
   "number":"1230",
   "description": "EUROSPORTS tv est une chaine de sports qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
@@ -409,8 +456,8 @@
   "thumbnail": "https://od.lk/s/NDZfODU1MjY3MjFf/eurosports1.jpeg",
   "categorie": "SPORTS"
   },
-  "30":{
-  "id": "31",
+  "51":{
+  "id": "52",
   "name": "EUROSPORTS 2 FR",
   "number":"1231",
   "description": "EUROSPORTS 2 tv est une chaine de sports qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
@@ -418,8 +465,8 @@
   "thumbnail": "https://od.lk/s/NDZfODU1MjY3MjJf/eurosports2.png",
   "categorie": "SPORTS"
   },
-  "31":{
-  "id": "32",
+  "52":{
+  "id": "53",
   "name": "EUROSPORTS 2 EN",
   "number":"1232",
   "description": "EUROSPORTS 2 tv est une chaine de sports qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
@@ -427,7 +474,413 @@
   "thumbnail": "https://od.lk/s/NDZfODU1MjY3NDRf/eurosports3.png",
   "categorie": "SPORTS"
   },
-  "32":{
+  "53":{
+  "id":"54",
+  "name":"BEIN SPORTS 5",
+  "number":"1237",
+  "description":"SONY SPORTS TEN 5 est la chaine sportive qui se focalise au championnat Africain avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct....",
+  "live_url":"https://tataplay.slivcdn.com/hls/live/2020593-b/SONYSIXHD/master_3500.m3u8",
+  "thumbnail":"https://od.lk/s/NDZfODM4NDk3NzFf/Sony_TEN5HD.jpeg",
+  "categorie":"SPORTS"
+  },
+  "54":{
+  "id":"55",
+  "name":"BEIN SPORTS 1",
+  "number":"1238",
+  "description":"1238",
+  "live_url":"http://kstv.us/live/jgarcia31/224178522/12554.m3u8",
+  "thumbnail":"https://od.lk/s/M18yNTkxODU4MzBf/beinone.png",
+  "categorie":"SPORTS"
+  },
+  "55":{
+  "id":"56",
+  "name":"L'EQUIPE LIVE 1",
+  "number":"1239",
+  "description":"L'EQUIPE LIVE 1 TV est la chaine sportive qui se focalise aux Sports..",
+  "live_url":"https://jmp2.uk/sam-FRBC4200004XH.m3u8",
+  "thumbnail":"https://od.lk/s/NDZfNzgxNTc2Mjhf/lequipelive1.png",
+  "categorie":"SPORTS"
+  },
+  "56":{
+  "id":"57",
+  "name":"L'EQUIPE LIVE 2",
+  "number":"1240",
+  "description":"L'EQUIPE LIVE 2 TV est la chaine sportive qui se focalise aux Sports..",
+  "live_url":"https://jmp2.uk/sam-FRBC4200005X2.m3u8",
+  "thumbnail":"https://od.lk/s/NDZfNzgxNjA1MDVf/equipe2.jpg",
+  "categorie":"SPORTS"
+  },
+  "57":{
+  "id":"58",
+  "name":"BEIN EXTRAS",
+  "number":"1241",
+  "description":"BEIN EXTRAS est un réseau de télévision thématique privé du BeIn Media Group diffusant en France et consacré au sport. Ce réseau regroupe trois chaînes : BeIn Sports 1, BeIn Sports 2, BeIn Sports 3, ainsi qu'un multiplex BeIn Sports Max composé de 7 chaînes (BeIn Sports Max 4 à 10) permettant de couvrir plusieurs événements sportifs en simultané1. Le réseau international, piloté depuis Paris, est présidé en France par Yousef Al-Obaidly, qui avait notamment lancé la chaîne avec Charles Biétry. Florent Houzot occupe le poste de directeur de la rédaction. L'offre payante par abonnement au câble, satellite ou à télévision par Internet comprend trois chaînes en continu et sept canaux en multiplex de retransmissions en direct (BeIn Sports Max) dévolus à la diffusion des événements comme la retransmission de la Ligue 1, la Ligue des champions ou encore la Ligue Europa en football. BeIn Sports a dépassé les 2 millions d'abonnés en France et revendique au 13 septembre 2015, 2,5 millions d'abonnés2,3. Le 7 août 2014, les dirigeants annoncent qu'une troisième chaîne sera créée le 15 septembre 2014, nommée beIn Sports 34. Elle sera consacrée à tous les sports (handball, volley, tennis, athlétisme...). Cependant, lorsqu'il y aura plusieurs matchs de football en simultané, beIn Sports 3 diffusera également du football. Fin juin, à l'occasion de l'Euro 2016, beIn Sports annonce avoir atteint les 3 millions d'abonnés5. En septembre 2017, beIn Sports annonce avoir atteint les ,5 millions d'abonnés.",
+  "live_url":"https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8",
+  "thumbnail":"https://od.lk/s/M18yNjMzNzE3MzFf/bein_extra.png",
+  "categorie":"SPORTS"
+  },
+  "58":{
+  "id":"59",
+  "name":"MATH 1",
+  "number":"1242",
+  "description":"1242",
+  "live_url":"http://iptv-hls.idc.md:8200/hls/77/live1.m3u8",
+  "thumbnail":"https://od.lk/s/NDZfNzgxNjAyNTFf/mtch1.png",
+  "categorie":"SPORTS"
+  },
+  "59":{
+  "id":"60",
+  "name":"EUROSPORTS 1",
+  "number":"1243",
+  "description":"1243",
+  "live_url":"http://185.189.225.157/EuroSport1/index.m3u8",
+  "thumbnail":"https://od.lk/s/NDZfNzgxNjAyODRf/eurosports.jpg",
+  "categorie":"SPORTS"
+  },
+  "60":{
+  "id":"61",
+  "name":"REAL MADRID TV",
+  "number":"1244",
+  "description":"1244",
+  "live_url":"https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8",
+  "thumbnail":"https://od.lk/s/NDZfNzgxNjAzMDJf/realmadrid.jpg",
+  "categorie":"SPORTS"
+  },
+  "61":{
+  "id":"62",
+  "name":"BEIN EXTRA",
+  "number":"1245",
+  "description":"1245",
+  "live_url":"https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8",
+  "thumbnail":"https://od.lk/s/NDZfNzgxNjAzMTNf/beinextra.jpg",
+  "categorie":"SPORTS"
+  },
+  "62":{
+  "id":"63",
+  "name":"TSN 1",
+  "number":"1246",
+  "description":"1246",
+  "live_url":"https://fl1.moveonjoy.com/TSN_1/index.m3u8",
+  "thumbnail":"https://od.lk/s/NDZfNzgxNjAzMzNf/tsn1.png",
+  "categorie":"SPORTS"
+  }, 
+  "63":{
+  "id":"64",
+  "name":"TSN 2",
+  "number":"1247",
+  "description":"1247",
+  "live_url":"https://fl1.moveonjoy.com/TSN_2/index.m3u8",
+  "thumbnail":"https://od.lk/s/NDZfNzgxNjAzNjJf/tsn2.png",
+  "categorie":"SPORTS"
+  }, 
+  "64":{
+  "id":"65",
+  "name":"TSN 3",
+  "number":"1248",
+  "description":"1248",
+  "live_url":"https://fl1.moveonjoy.com/TSN_3/index.m3u8",
+  "thumbnail":"https://od.lk/s/NDZfNzgxNjA0MDhf/tsn3.png",
+  "categorie":"SPORTS"
+  }, 
+  "65":{
+  "id":"66",
+  "name":"TSN 4",
+  "number":"1249",
+  "description":"1249",
+  "live_url":"https://fl1.moveonjoy.com/TSN_4/index.m3u8",
+  "thumbnail":"https://od.lk/s/NDZfNzgxNjA0MjFf/tsn4.png",
+  "categorie":"SPORTS"
+  }, 
+  "66":{
+  "id":"67",
+  "name":"TSN 5",
+  "number":"1250",
+  "description":"1250",
+  "live_url":"https://fl1.moveonjoy.com/TSN_5/index.m3u8",
+  "thumbnail":"https://od.lk/s/NDZfNzgxNjA0NDZf/tsn5.png",
+  "categorie":"SPORTS"
+  },
+  "67":{
+  "id": "68",
+  "name": "LAX SPORTS",
+  "number":"1251",
+  "description": "1251",
+  "live_url": "https://1840769862.rsc.cdn77.org/FTF/LSN_SCTE.m3u8",
+  "thumbnail": "https://od.lk/s/M18yODMwNzA4Nzhf/lax.jpg",
+  "categorie": "SPORTS"
+  },
+  "68":{
+  "id": "69",
+  "name": "SPORTS TV",
+  "number":"1252",
+  "description": "1252",
+  "live_url": "http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8",
+  "thumbnail": "https://od.lk/s/M18yODEzNTI0OTZf/sporttv.jpg",
+  "categorie": "SPORTS"
+  },
+  "69":{
+  "id": "70",
+  "name": "TAJIKISTAN SPORT",
+  "number":"1253",
+  "description": "1253",
+  "live_url": "https://live.teleradiocom.tj/8/3m.m3u8",
+  "thumbnail": "https://od.lk/s/NDZfNjA1OTQ5ODdf/Tajikistan.png",
+  "categorie": "SPORTS"
+  },
+  "570:{
+  "id": "71",
+  "name": "REDBULL TV",
+  "number":"1254",
+  "description": "1254",
+  "live_url": "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8",
+  "thumbnail": "https://od.lk/s/NDZfNjA1OTUxODZf/redbull.png",
+  "categorie": "SPORTS"
+  },
+  "72":{
+  "id": "73",
+  "name": "SHARJAH-SPORTS",
+  "number":"1261",
+  "description": "1261",
+  "live_url": "http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8",
+  "thumbnail": "https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8",
+  "categorie": "SPORTS"
+  },
+  "73":{
+  "id": "74",
+  "name": "FOX SPORTS 1",
+  "number":"1262",
+  "description": "1262",
+  "live_url": "http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8",
+  "thumbnail": "https://od.lk/s/NDZfNzgxNjA0Njhf/foxsport1.png",
+  "categorie": "SPORTS"
+  },
+  "74":{
+  "id": "75",
+  "name": "SPORT NETWORK",
+  "number":"1263",
+  "description": "1263",
+  "live_url": "https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Fast-Studios-Womens-Sports.m3u8",
+  "thumbnail": "https://od.lk/s/NDZfNzgxNjA0ODZf/sportnetwork.png",
+  "categorie": "SPORTS"
+  },
+  "75":{
+  "id": "76",
+  "name": "AIO SPORT",
+  "number":"1264",
+  "description": "1264",
+  "live_url": "https://cdn-azd2046.telewebion.com/ek/tv3/live/720p/index.m3u8",
+  "thumbnail": "https://od.lk/s/NDZfNzgxNjA1NTdf/AIOSPORT.jpg",
+  "categorie": "SPORTS"
+  },
+  "76":{
+  "id": "77",
+  "name": "SHARJJAH SPORT",
+  "number":"1265",
+  "description": "1265",
+  "live_url": "https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8",
+  "thumbnail": "https://od.lk/s/NDZfNzgxNjA1Njdf/SHARJJAH.jpg",
+  "categorie": "SPORTS"
+  },
+  "77":{
+  "id": "78",
+  "name": "ARENA SPORT 3",
+  "number":"1266", 
+  "description": "1266",
+  "live_url": "http://109.105.201.198/ARENASPORT3/video.m3u8?token=test",
+  "thumbnail": "https://od.lk/s/NDZfNjA2MDI5MTVf/arenapremium3.png",
+  "categorie": "SPORTS"
+  },
+  "78":{
+  "id": "79",
+  "name": "MAX SPORT 3",
+  "number":"1267",
+  "description": "1267",
+  "live_url": "http://raalbatros.serv00.net/Gledai.php?ID=maxsport3",
+  "thumbnail": "https://od.lk/s/NDZfNzgxNjA2NDBf/maxsport3.jpg",
+  "categorie": "SPORTS"
+  },
+  "79":{
+  "id": "80",
+  "name": "AFRO SPORTS",
+  "number":"1268",
+  "description": "1268",
+  "live_url": "https://newproxy3.vidivu.tv/vidivu_afrosport/index.m3u8",
+  "thumbnail": "https://od.lk/s/NDZfNzgzMzg4MjZf/afroSport.png",
+  "categorie": "SPORTS"
+  },
+  "81":{
+  "id": "82",
+  "name": "SSC 1 SPORTS",
+  "number":"1269",
+  "description": "1269",
+  "live_url": "https://www.ipslow.com/tv/canal.php?id=ssc1",
+  "thumbnail": "https://od.lk/s/NDZfNzgzMzg4MjZf/afroSport.png",
+  "categorie": "SPORTS"
+  },
+  "82":{
+  "id": "83",
+  "name": "SPORTS 1",
+  "number":"1270",
+  "description": "1270",
+  "live_url": "http://176.123.6.108:25461/live/100808848/journalsat/1945.m3u8",
+  "thumbnail": "https://od.lk/s/NDZfNzgzMzg4MjZf/afroSport.png",
+  "categorie": "SPORTS"
+  },
+  "83":{
+  "id": "84",
+  "name": "SPORTS 2",
+  "number":"1271",
+  "description": "1271",
+  "live_url": "http://130.193.166.18/cache/Bein-Prem-1-HEVC/master.m3u8",
+  "thumbnail": "https://od.lk/s/NDZfNzgzMzg4MjZf/afroSport.png",
+  "categorie": "SPORTS"
+  },
+  "84":{
+  "id": "85",
+  "name": "SPORTS 3",
+  "number":"1272",
+  "description": "1272",
+  "live_url": "http://vu-ott.com:8080/live/mag00:1A:79:40:4B:9F/1l4PQfYaCN/7313.m3u8",
+  "thumbnail": "https://od.lk/s/NDZfNzgzMzg4MjZf/afroSport.png",
+  "categorie": "SPORTS"
+  },
+  "85":{
+  "id": "86",
+  "name": "SPORTS 4",
+  "number":"1273",
+  "description": "1273",
+  "live_url": "http://93.157.62.180:80/Supersport2/playlist.m3u8",
+  "thumbnail": "https://od.lk/s/NDZfNzgzMzg4MjZf/afroSport.png",
+  "categorie": "SPORTS"
+  },
+  "86":{
+  "id": "87",
+  "name": "SPORTS 5",
+  "number":"1274",
+  "description": "1274",
+  "live_url": "http://207.110.52.61:8080/s/hls/5/293/canal_plus_sport_polska_250/1/1/tracks-v1a1/mono.m3u8",
+  "thumbnail": "https://od.lk/s/NDZfNzgzMzg4MjZf/afroSport.png",
+  "categorie": "SPORTS"
+  },
+  "87":{
+  "id": "88",
+  "name": "NFL NETWORK",
+  "number":"1274",
+  "description": "NFL NETWORK SPORTS est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct....",
+  "live_url": "https://fl1.moveonjoy.com/NFL_NETWORK/index.m3u8",
+  "thumbnail": "https://od.lk/s/NDZfODY5NzkyMjVf/nflnetwork.png",
+  "categorie": "SPORTS"
+  },
+  "88":{
+  "id": "89",
+  "name": "HNL NETWORK",
+  "number":"1274",
+  "description": "HNL NETWORK SPORTS est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct....",
+  "live_url": "https://fl1.moveonjoy.com/NHL_NETWORK/index.m3u8",
+  "thumbnail": "https://od.lk/s/NDZfODY5ODAxOTNf/nhlnetwork.jpg",
+  "categorie": "SPORTS"
+  },
+  "89":{
+  "id": "90",
+  "name": "SPORTSMAN CHANNEL",
+  "number":"1274",
+  "description": "SPORTSMAN CHANNEL SPORTS est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct.....",
+  "live_url": "https://fl1.moveonjoy.com/SPORTSMAN_CHANNEL/index.m3u8",
+  "thumbnail": "https://od.lk/s/NDZfODY5ODExOTBf/SPORTSMAN.jpg",
+  "categorie": "SPORTS"
+  },
+  "90":{
+  "id": "91",
+  "name": "SPORTSNET TV",
+  "number":"1274",
+  "description": "SportsNet New York  SPORTS est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct....",
+  "live_url": "https://fl1.moveonjoy.com/SNY/index.m3u8",
+  "thumbnail": "https://od.lk/s/NDZfODY5ODIyNjBf/sportsnet.png",
+  "categorie": "SPORTS"
+  },
+  "91":{
+  "id": "92",
+  "name": "ESPN DEPORTE",
+  "number":"1274",
+  "description": "ESPN DEPORTE Sports tv est une chaine de sports.",
+  "live_url": "https://fl1.moveonjoy.com/ESPN_U/index.m3u8",
+  "thumbnail": "https://od.lk/s/NDZfNjA1OTExNjhf/espndeporte.png",
+  "categorie": "SPORTS"
+  },
+  "92":{
+  "id": "93",
+  "name": "ESPN NEWS",
+  "number":"1274",
+  "description": "ESPN DEPORTE Sports tv est une chaine de sports.",
+  "live_url": "https://fl1.moveonjoy.com/ESPN_NEWS/index.m3u8",
+  "thumbnail": "https://od.lk/s/NDZfNjA1OTExNjhf/espndeporte.png",
+  "categorie": "SPORTS"
+  },
+  "93":{
+  "id": "94",
+  "name": "CBS SPORTS",
+  "number":"1274",
+  "description": "CBS SPORTS TV est la chaine sportive qui se focalise aux Sports..",
+  "live_url": "https://fl1.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8",
+  "thumbnail": "https://od.lk/s/NDZfODY5NzE5OTdf/cbssports.jpg",
+  "categorie": "SPORTS"
+  },
+  "94":{
+  "id": "95",
+  "name": "FOX SPORTS 1",
+  "number":"1274",
+  "description": "FOX SPORTS 1 TV est la chaine sportive qui se focalise aux Sports..",
+  "live_url": "http://fl1.moveonjoy.com/FOX_Sports_1/index.m3u8",
+  "thumbnail": "https://od.lk/s/NDZfNzgxNjA0Njhf/foxsport1.png",
+  "categorie": "SPORTS"
+  },
+  "95":{
+  "id": "96",
+  "name": "NBA TV",
+  "number":"1274",
+  "description": "NBA TV est la chaine sportive qui se focalise aux Sports..",
+  "live_url": "https://fl1.moveonjoy.com/NBA_TV/index.m3u8",
+  "thumbnail": "https://od.lk/s/NDZfODY5NzcxOTlf/nbatv.png",
+  "categorie": "SPORTS"
+  },
+  "96":{
+  "id": "97",
+  "name": "GOLF TV",
+  "number":"1274",
+  "description": "Golf TV est la chaine sportive qui se focalise aux Sports..",
+  "live_url": "https://fl1.moveonjoy.com/GOLF/index.m3u8",
+  "thumbnail": "https://od.lk/s/NDZfODY5NzUzODVf/golftv.jpg",
+  "categorie": "SPORTS"
+  },
+  "97":{
+  "id": "98",
+  "name": "MLB NETWORK",
+  "number":"1274",
+  "description": "MLB Network TV est la chaine sportive qui se focalise aux Sports.",
+  "live_url": "https://fl1.moveonjoy.com/MLB_NETWORK/index.m3u8",
+  "thumbnail": "https://od.lk/s/NDZfODY5NzU4ODhf/mlbnetwork.png",
+  "categorie": "SPORTS"
+  },
+  "98":{
+  "id": "99",
+  "name": "FANDUEL SPORTS",
+  "number":"1274",
+  "description": "FanDuel Sports Network tv est une chaine de sports.",
+  "live_url": "https://fl1.moveonjoy.com/PAC_12/index.m3u8",
+  "thumbnail": "https://od.lk/s/NDZfODY5NzQ1NzZf/Fanduel.jpg",
+  "categorie": "SPORTS"
+  }
+}
+
+
+
+
+
+
+
+
+
+ "32":{
   "id": "33",
   "name": "SONY TEN 1",
   "number":"1233",
@@ -463,168 +916,7 @@
   "thumbnail":"https://od.lk/s/NDZfODM4NDk3Njlf/Sony_TEN4HD.jpeg",
   "categorie":"SPORTS"
   },
-  "36":{
-  "id":"37",
-  "name":"BEIN SPORTS 5",
-  "number":"1237",
-  "description":"SONY SPORTS TEN 5 est la chaine sportive qui se focalise au championnat Africain avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct....",
-  "live_url":"https://tataplay.slivcdn.com/hls/live/2020593-b/SONYSIXHD/master_3500.m3u8",
-  "thumbnail":"https://od.lk/s/NDZfODM4NDk3NzFf/Sony_TEN5HD.jpeg",
-  "categorie":"SPORTS"
-  },
-  "37":{
-  "id":"38",
-  "name":"BEIN SPORTS 1",
-  "number":"1238",
-  "description":"1238",
-  "live_url":"http://kstv.us/live/jgarcia31/224178522/12554.m3u8",
-  "thumbnail":"https://od.lk/s/M18yNTkxODU4MzBf/beinone.png",
-  "categorie":"SPORTS"
-  },
-  "38":{
-  "id":"39",
-  "name":"L'EQUIPE LIVE 1",
-  "number":"1239",
-  "description":"L'EQUIPE LIVE 1 TV est la chaine sportive qui se focalise aux Sports..",
-  "live_url":"https://jmp2.uk/sam-FRBC4200004XH.m3u8",
-  "thumbnail":"https://od.lk/s/NDZfNzgxNTc2Mjhf/lequipelive1.png",
-  "categorie":"SPORTS"
-  },
-  "39":{
-  "id":"40",
-  "name":"L'EQUIPE LIVE 2",
-  "number":"1240",
-  "description":"L'EQUIPE LIVE 2 TV est la chaine sportive qui se focalise aux Sports..",
-  "live_url":"https://jmp2.uk/sam-FRBC4200005X2.m3u8",
-  "thumbnail":"https://od.lk/s/NDZfNzgxNjA1MDVf/equipe2.jpg",
-  "categorie":"SPORTS"
-  },
-  "40":{
-  "id":"41",
-  "name":"BEIN EXTRAS",
-  "number":"1241",
-  "description":"BEIN EXTRAS est un réseau de télévision thématique privé du BeIn Media Group diffusant en France et consacré au sport. Ce réseau regroupe trois chaînes : BeIn Sports 1, BeIn Sports 2, BeIn Sports 3, ainsi qu'un multiplex BeIn Sports Max composé de 7 chaînes (BeIn Sports Max 4 à 10) permettant de couvrir plusieurs événements sportifs en simultané1. Le réseau international, piloté depuis Paris, est présidé en France par Yousef Al-Obaidly, qui avait notamment lancé la chaîne avec Charles Biétry. Florent Houzot occupe le poste de directeur de la rédaction. L'offre payante par abonnement au câble, satellite ou à télévision par Internet comprend trois chaînes en continu et sept canaux en multiplex de retransmissions en direct (BeIn Sports Max) dévolus à la diffusion des événements comme la retransmission de la Ligue 1, la Ligue des champions ou encore la Ligue Europa en football. BeIn Sports a dépassé les 2 millions d'abonnés en France et revendique au 13 septembre 2015, 2,5 millions d'abonnés2,3. Le 7 août 2014, les dirigeants annoncent qu'une troisième chaîne sera créée le 15 septembre 2014, nommée beIn Sports 34. Elle sera consacrée à tous les sports (handball, volley, tennis, athlétisme...). Cependant, lorsqu'il y aura plusieurs matchs de football en simultané, beIn Sports 3 diffusera également du football. Fin juin, à l'occasion de l'Euro 2016, beIn Sports annonce avoir atteint les 3 millions d'abonnés5. En septembre 2017, beIn Sports annonce avoir atteint les ,5 millions d'abonnés.",
-  "live_url":"https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8",
-  "thumbnail":"https://od.lk/s/M18yNjMzNzE3MzFf/bein_extra.png",
-  "categorie":"SPORTS"
-  },
-  "41":{
-  "id":"42",
-  "name":"MATH 1",
-  "number":"1242",
-  "description":"1242",
-  "live_url":"http://iptv-hls.idc.md:8200/hls/77/live1.m3u8",
-  "thumbnail":"https://od.lk/s/NDZfNzgxNjAyNTFf/mtch1.png",
-  "categorie":"SPORTS"
-  },
-  "42":{
-  "id":"43",
-  "name":"EUROSPORTS 1",
-  "number":"1243",
-  "description":"1243",
-  "live_url":"http://185.189.225.157/EuroSport1/index.m3u8",
-  "thumbnail":"https://od.lk/s/NDZfNzgxNjAyODRf/eurosports.jpg",
-  "categorie":"SPORTS"
-  },
-  "43":{
-  "id":"44",
-  "name":"REAL MADRID TV",
-  "number":"1244",
-  "description":"1244",
-  "live_url":"https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8",
-  "thumbnail":"https://od.lk/s/NDZfNzgxNjAzMDJf/realmadrid.jpg",
-  "categorie":"SPORTS"
-  },
-  "44":{
-  "id":"45",
-  "name":"BEIN EXTRA",
-  "number":"1245",
-  "description":"1245",
-  "live_url":"https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8",
-  "thumbnail":"https://od.lk/s/NDZfNzgxNjAzMTNf/beinextra.jpg",
-  "categorie":"SPORTS"
-  },
-  "45":{
-  "id":"46",
-  "name":"TSN 1",
-  "number":"1246",
-  "description":"1246",
-  "live_url":"http://212.102.60.231/TSN_1/index.m3u8",
-  "thumbnail":"https://od.lk/s/NDZfNzgxNjAzMzNf/tsn1.png",
-  "categorie":"SPORTS"
-  }, 
-  "46":{
-  "id":"47",
-  "name":"TSN 2",
-  "number":"1247",
-  "description":"1247",
-  "live_url":"http://212.102.60.231/TSN_2/index.m3u8",
-  "thumbnail":"https://od.lk/s/NDZfNzgxNjAzNjJf/tsn2.png",
-  "categorie":"SPORTS"
-  }, 
-  "47":{
-  "id":"48",
-  "name":"TSN 3",
-  "number":"1248",
-  "description":"1248",
-  "live_url":"http://212.102.60.231/TSN_3/index.m3u8",
-  "thumbnail":"https://od.lk/s/NDZfNzgxNjA0MDhf/tsn3.png",
-  "categorie":"SPORTS"
-  }, 
-  "48":{
-  "id":"49",
-  "name":"TSN 4",
-  "number":"1249",
-  "description":"1249",
-  "live_url":"http://212.102.60.231/TSN_4/index.m3u8",
-  "thumbnail":"https://od.lk/s/NDZfNzgxNjA0MjFf/tsn4.png",
-  "categorie":"SPORTS"
-  }, 
-  "49":{
-  "id":"50",
-  "name":"TSN 5",
-  "number":"1250",
-  "description":"1250",
-  "live_url":"http://212.102.60.231/TSN_5/index.m3u8",
-  "thumbnail":"https://od.lk/s/NDZfNzgxNjA0NDZf/tsn5.png",
-  "categorie":"SPORTS"
-  },
-  "50":{
-  "id": "51",
-  "name": "LAX SPORTS",
-  "number":"1251",
-  "description": "1251",
-  "live_url": "https://1840769862.rsc.cdn77.org/FTF/LSN_SCTE.m3u8",
-  "thumbnail": "https://od.lk/s/M18yODMwNzA4Nzhf/lax.jpg",
-  "categorie": "SPORTS"
-  },
-  "51":{
-  "id": "52",
-  "name": "SPORTS TV",
-  "number":"1252",
-  "description": "1252",
-  "live_url": "http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8",
-  "thumbnail": "https://od.lk/s/M18yODEzNTI0OTZf/sporttv.jpg",
-  "categorie": "SPORTS"
-  },
-  "52":{
-  "id": "53",
-  "name": "TAJIKISTAN SPORT",
-  "number":"1253",
-  "description": "1253",
-  "live_url": "https://live.teleradiocom.tj/8/3m.m3u8",
-  "thumbnail": "https://od.lk/s/NDZfNjA1OTQ5ODdf/Tajikistan.png",
-  "categorie": "SPORTS"
-  },
-  "53":{
-  "id": "54",
-  "name": "REDBULL TV",
-  "number":"1254",
-  "description": "1254",
-  "live_url": "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8",
-  "thumbnail": "https://od.lk/s/NDZfNjA1OTUxODZf/redbull.png",
-  "categorie": "SPORTS"
-  },
+
   "54":{
   "id": "55",
   "name": "BEIN-S 2",
@@ -679,132 +971,5 @@
   "thumbnail": "https://od.lk/s/M18yNjUzMDY4OTRf/beinoneok",
   "categorie": "SPORTS"
   },
-  "60":{
-  "id": "61",
-  "name": "SHARJAH-SPORTS",
-  "number":"1261",
-  "description": "1261",
-  "live_url": "http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8",
-  "thumbnail": "https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8",
-  "categorie": "SPORTS"
-  },
-  "61":{
-  "id": "62",
-  "name": "FOX SPORTS 1",
-  "number":"1262",
-  "description": "1262",
-  "live_url": "http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8",
-  "thumbnail": "https://od.lk/s/NDZfNzgxNjA0Njhf/foxsport1.png",
-  "categorie": "SPORTS"
-  },
-  "62":{
-  "id": "63",
-  "name": "SPORT NETWORK",
-  "number":"1263",
-  "description": "1263",
-  "live_url": "https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Fast-Studios-Womens-Sports.m3u8",
-  "thumbnail": "https://od.lk/s/NDZfNzgxNjA0ODZf/sportnetwork.png",
-  "categorie": "SPORTS"
-  },
-  "63":{
-  "id": "64",
-  "name": "AIO SPORT",
-  "number":"1264",
-  "description": "1264",
-  "live_url": "https://cdn-azd2046.telewebion.com/ek/tv3/live/720p/index.m3u8",
-  "thumbnail": "https://od.lk/s/NDZfNzgxNjA1NTdf/AIOSPORT.jpg",
-  "categorie": "SPORTS"
-  },
-  "64":{
-  "id": "65",
-  "name": "SHARJJAH SPORT",
-  "number":"1265",
-  "description": "1265",
-  "live_url": "https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8",
-  "thumbnail": "https://od.lk/s/NDZfNzgxNjA1Njdf/SHARJJAH.jpg",
-  "categorie": "SPORTS"
-  },
-  "65":{
-  "id": "66",
-  "name": "ARENA SPORT 3",
-  "number":"1266", 
-  "description": "1266",
-  "live_url": "http://109.105.201.198/ARENASPORT3/video.m3u8?token=test",
-  "thumbnail": "https://od.lk/s/NDZfNjA2MDI5MTVf/arenapremium3.png",
-  "categorie": "SPORTS"
-  },
-  "66":{
-  "id": "67",
-  "name": "MAX SPORT 3",
-  "number":"1267",
-  "description": "1267",
-  "live_url": "http://raalbatros.serv00.net/Gledai.php?ID=maxsport3",
-  "thumbnail": "https://od.lk/s/NDZfNzgxNjA2NDBf/maxsport3.jpg",
-  "categorie": "SPORTS"
-  },
-  "67":{
-  "id": "68",
-  "name": "AFRO SPORTS",
-  "number":"1268",
-  "description": "1268",
-  "live_url": "https://newproxy3.vidivu.tv/vidivu_afrosport/index.m3u8",
-  "thumbnail": "https://od.lk/s/NDZfNzgzMzg4MjZf/afroSport.png",
-  "categorie": "SPORTS"
-  },
-  "68":{
-  "id": "69",
-  "name": "SSC 1 SPORTS",
-  "number":"1269",
-  "description": "1269",
-  "live_url": "https://www.ipslow.com/tv/canal.php?id=ssc1",
-  "thumbnail": "https://od.lk/s/NDZfNzgzMzg4MjZf/afroSport.png",
-  "categorie": "SPORTS"
-  },
-  "69":{
-  "id": "70",
-  "name": "SPORTS 1",
-  "number":"1270",
-  "description": "1270",
-  "live_url": "http://176.123.6.108:25461/live/100808848/journalsat/1945.m3u8",
-  "thumbnail": "https://od.lk/s/NDZfNzgzMzg4MjZf/afroSport.png",
-  "categorie": "SPORTS"
-  },
-  "70":{
-  "id": "71",
-  "name": "SPORTS 2",
-  "number":"1271",
-  "description": "1271",
-  "live_url": "http://130.193.166.18/cache/Bein-Prem-1-HEVC/master.m3u8",
-  "thumbnail": "https://od.lk/s/NDZfNzgzMzg4MjZf/afroSport.png",
-  "categorie": "SPORTS"
-  },
-  "71":{
-  "id": "72",
-  "name": "SPORTS 3",
-  "number":"1272",
-  "description": "1272",
-  "live_url": "http://vu-ott.com:8080/live/mag00:1A:79:40:4B:9F/1l4PQfYaCN/7313.m3u8",
-  "thumbnail": "https://od.lk/s/NDZfNzgzMzg4MjZf/afroSport.png",
-  "categorie": "SPORTS"
-  },
-  "72":{
-  "id": "73",
-  "name": "SPORTS 4",
-  "number":"1273",
-  "description": "1273",
-  "live_url": "http://93.157.62.180:80/Supersport2/playlist.m3u8",
-  "thumbnail": "https://od.lk/s/NDZfNzgzMzg4MjZf/afroSport.png",
-  "categorie": "SPORTS"
-  },
-  "73":{
-  "id": "74",
-  "name": "SPORTS 5",
-  "number":"1274",
-  "description": "1274",
-  "live_url": "http://207.110.52.61:8080/s/hls/5/293/canal_plus_sport_polska_250/1/1/tracks-v1a1/mono.m3u8",
-  "thumbnail": "https://od.lk/s/NDZfNzgzMzg4MjZf/afroSport.png",
-  "categorie": "SPORTS"
-  }
-}
 
 
