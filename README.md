@@ -332,7 +332,7 @@
   "live_url":"https://tvsen5.aynaott.com/PtvSports/index.m3u8",
   "thumbnail":"https://od.lk/s/NDZfODQyMzI0OTFf/ptvsports.jpeg",
   "categorie":"SPORTS"
-  }
+  },
   "37":{
   "id": "38",
   "name": "AFRICA 24 SPORTS",
