@@ -297,15 +297,6 @@
   "thumbnail": "https://od.lk/s/M18yODQzNTU3NTJf/match.jpeg",
   "categorie": "SPORTS"
   },
-  "33":{
-  "id":"34",
-  "name":"X-SPORT",
-  "number":"1201",
-  "description":"COSMOTE SPORT 1 est une chaine de sports qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
-  "live_url":"http://iptv.prosto.tv:7000/ch109/video.m3u8",
-  "thumbnail":"https://od.lk/s/NDZfODY5ODcwNTVf/xsports.jpg",
-  "categorie":"SPORTS"
-  },
   "34":{
   "id":"35",
   "name":"FIFA +",
@@ -468,15 +459,6 @@
   "thumbnail": "https://od.lk/s/NDZfODU1MjY3NDRf/eurosports3.png",
   "categorie": "SPORTS"
   },
-  "52":{
-  "id":"53",
-  "name":"BEIN SPORTS 5",
-  "number":"1237",
-  "description":"SONY SPORTS TEN 5 est la chaine sportive qui se focalise au championnat Africain avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct....",
-  "live_url":"https://tataplay.slivcdn.com/hls/live/2020593-b/SONYSIXHD/master_3500.m3u8",
-  "thumbnail":"https://od.lk/s/NDZfODM4NDk3NzFf/Sony_TEN5HD.jpeg",
-  "categorie":"SPORTS"
-  },
   "53":{
   "id":"54",
   "name":"BEIN SPORTS 1",
@@ -502,6 +484,15 @@
   "description":"L'EQUIPE LIVE 2 TV est la chaine sportive qui se focalise aux Sports..",
   "live_url":"https://jmp2.uk/sam-FRBC4200005X2.m3u8",
   "thumbnail":"https://od.lk/s/NDZfNzgxNjA1MDVf/equipe2.jpg",
+  "categorie":"SPORTS"
+  },
+  "60":{
+  "id":"61",
+  "name":"BEIN EXTRA",
+  "number":"1245",
+  "description":"1245",
+  "live_url":"https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8",
+  "thumbnail":"https://od.lk/s/NDZfNzgxNjAzMTNf/beinextra.jpg",
   "categorie":"SPORTS"
   },
   "56":{
@@ -538,15 +529,6 @@
   "description":"1244",
   "live_url":"https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8",
   "thumbnail":"https://od.lk/s/NDZfNzgxNjAzMDJf/realmadrid.jpg",
-  "categorie":"SPORTS"
-  },
-  "60":{
-  "id":"61",
-  "name":"BEIN EXTRA",
-  "number":"1245",
-  "description":"1245",
-  "live_url":"https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8",
-  "thumbnail":"https://od.lk/s/NDZfNzgxNjAzMTNf/beinextra.jpg",
   "categorie":"SPORTS"
   },
   "61":{
@@ -699,15 +681,6 @@
   "number":"1268",
   "description": "1268",
   "live_url": "https://newproxy3.vidivu.tv/vidivu_afrosport/index.m3u8",
-  "thumbnail": "https://od.lk/s/NDZfNzgzMzg4MjZf/afroSport.png",
-  "categorie": "SPORTS"
-  },
-  "79":{
-  "id": "80",
-  "name": "SSC 1 SPORTS",
-  "number":"1269",
-  "description": "1269",
-  "live_url": "https://www.ipslow.com/tv/canal.php?id=ssc1",
   "thumbnail": "https://od.lk/s/NDZfNzgzMzg4MjZf/afroSport.png",
   "categorie": "SPORTS"
   },
