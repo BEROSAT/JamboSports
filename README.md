@@ -332,22 +332,9 @@
   "live_url":"https://tvsen5.aynaott.com/PtvSports/index.m3u8",
   "thumbnail":"https://od.lk/s/NDZfODQyMzI0OTFf/ptvsports.jpeg",
   "categorie":"SPORTS"
-  },
+  }
   "37":{
   "id": "38",
-  "name": "PERSIANA SPORT 1",
-  "number":"1225",
-  "description": "PERSIANA SPORT 1 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct....",
-  "live_url": "https://spstr.abntv.live/hls/psstream.m3u8",
-  "thumbnail": "https://od.lk/s/NDZfNzgxNjA1NDBf/persiana1.jpg",
-  "categorie": "SPORTS"
-  }
-}
-
-
-
-  "38":{
-  "id": "39",
   "name": "AFRICA 24 SPORTS",
   "number":"1226",
   "description": "Africa 24 SPORT est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct..",
@@ -355,8 +342,8 @@
   "thumbnail": "https://od.lk/s/NDZfODM5NjU2ODlf/africa24sports.jpeg",
   "categorie": "SPORTS"
   },
-  "39":{
-  "id": "40",
+  "38":{
+  "id": "39",
   "name": "SKY ACTION",
   "number":"1227",
   "description": "Sky Sports Sports tv est une chaine de sports.",
@@ -364,8 +351,8 @@
   "thumbnail": "https://od.lk/s/NDZfODUyOTAyMTBf/skyaction.jpg",
   "categorie": "SPORTS"
   },
-  "40":{
-  "id": "41",
+  "39":{
+  "id": "40",
   "name": "AFRO SPORTS",
   "number":"1228",
   "description": "AFRO SPORTS est la chaine sportive qui se focalise au championnat Africain avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct...",
@@ -373,8 +360,8 @@
   "thumbnail": "https://od.lk/s/NDZfNzgzMzg4MjZf/afroSport.png",
   "categorie": "SPORTS"
   },
-  "41":{
-  "id": "42",
+  "40":{
+  "id": "41",
   "name": "EUROSPORTS FR",
   "number":"1229",
   "description": "EUROSPORTS tv est une chaine de sports qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
@@ -382,8 +369,8 @@
   "thumbnail": "https://od.lk/s/NDZfNjA1OTE2Mjhf/eurosports.png",
   "categorie": "SPORTS"
   },
-  "42":{
-  "id": "43",
+  "41":{
+  "id": "42",
   "name": "EUROSPORTS EN",
   "number":"1230",
   "description": "EUROSPORTS tv est une chaine de sports qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
@@ -391,8 +378,8 @@
   "thumbnail": "https://od.lk/s/NDZfODU1MjY3MjFf/eurosports1.jpeg",
   "categorie": "SPORTS"
   },
-  "43":{
-  "id": "44",
+  "42":{
+  "id": "43",
   "name": "EUROSPORTS 2 FR",
   "number":"1231",
   "description": "EUROSPORTS 2 tv est une chaine de sports qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
@@ -400,8 +387,8 @@
   "thumbnail": "https://od.lk/s/NDZfODU1MjY3MjJf/eurosports2.png",
   "categorie": "SPORTS"
   },
-  "44":{
-  "id": "45",
+  "43":{
+  "id": "44",
   "name": "EUROSPORTS 2 EN",
   "number":"1232",
   "description": "EUROSPORTS 2 tv est une chaine de sports qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
@@ -409,8 +396,8 @@
   "thumbnail": "https://od.lk/s/NDZfODU1MjY3NDRf/eurosports3.png",
   "categorie": "SPORTS"
   },
-  "45":{
-  "id":"46",
+  "44":{
+  "id":"45",
   "name":"L'EQUIPE LIVE 1",
   "number":"1239",
   "description":"L'EQUIPE LIVE 1 TV est la chaine sportive qui se focalise aux Sports..",
@@ -418,8 +405,8 @@
   "thumbnail":"https://od.lk/s/NDZfNzgxNTc2Mjhf/lequipelive1.png",
   "categorie":"SPORTS"
   },
-  "46":{
-  "id":"47",
+  "45":{
+  "id":"46",
   "name":"L'EQUIPE LIVE 2",
   "number":"1240",
   "description":"L'EQUIPE LIVE 2 TV est la chaine sportive qui se focalise aux Sports..",
@@ -427,8 +414,8 @@
   "thumbnail":"https://od.lk/s/NDZfNzgxNjA1MDVf/equipe2.jpg",
   "categorie":"SPORTS"
   },
-  "47":{
-  "id":"48",
+  "46":{
+  "id":"47",
   "name":"BEIN EXTRA",
   "number":"1245",
   "description":"BEIN EXTRAS est un réseau de télévision thématique privé du BeIn Media Group diffusant en France et consacré au sport. Ce réseau regroupe trois chaînes : BeIn Sports 1, BeIn Sports 2, BeIn Sports 3, ainsi qu'un multiplex BeIn Sports Max composé de 7 chaînes (BeIn Sports Max 4 à 10) permettant de couvrir plusieurs événements sportifs en simultané1. Le réseau international, piloté depuis Paris, est présidé en France par Yousef Al-Obaidly, qui avait notamment lancé la chaîne avec Charles Biétry. Florent Houzot occupe le poste de directeur de la rédaction. L'offre payante par abonnement au câble, satellite ou à télévision par Internet comprend trois chaînes en continu et sept canaux en multiplex de retransmissions en direct (BeIn Sports Max) dévolus à la diffusion des événements comme la retransmission de la Ligue 1, la Ligue des champions ou encore la Ligue Europa en football. BeIn Sports a dépassé les 2 millions d'abonnés en France et revendique au 13 septembre 2015, 2,5 millions d'abonnés2,3. Le 7 août 2014, les dirigeants annoncent qu'une troisième chaîne sera créée le 15 septembre 2014, nommée beIn Sports 34. Elle sera consacrée à tous les sports (handball, volley, tennis, athlétisme...). Cependant, lorsqu'il y aura plusieurs matchs de football en simultané, beIn Sports 3 diffusera également du football. Fin juin, à l'occasion de l'Euro 2016, beIn Sports annonce avoir atteint les 3 millions d'abonnés5. En septembre 2017, beIn Sports annonce avoir atteint les ,5 millions d'abonnés",
@@ -436,15 +423,20 @@
   "thumbnail":"https://od.lk/s/NDZfNzgxNjAzMTNf/beinextra.jpg",
   "categorie":"SPORTS"
   },
-  "48":{
-  "id":"49",
+  "47":{
+  "id":"48",
   "name":"BEIN EXTRAS",
   "number":"1241",
   "description":"BEIN EXTRAS est un réseau de télévision thématique privé du BeIn Media Group diffusant en France et consacré au sport. Ce réseau regroupe trois chaînes : BeIn Sports 1, BeIn Sports 2, BeIn Sports 3, ainsi qu'un multiplex BeIn Sports Max composé de 7 chaînes (BeIn Sports Max 4 à 10) permettant de couvrir plusieurs événements sportifs en simultané1. Le réseau international, piloté depuis Paris, est présidé en France par Yousef Al-Obaidly, qui avait notamment lancé la chaîne avec Charles Biétry. Florent Houzot occupe le poste de directeur de la rédaction. L'offre payante par abonnement au câble, satellite ou à télévision par Internet comprend trois chaînes en continu et sept canaux en multiplex de retransmissions en direct (BeIn Sports Max) dévolus à la diffusion des événements comme la retransmission de la Ligue 1, la Ligue des champions ou encore la Ligue Europa en football. BeIn Sports a dépassé les 2 millions d'abonnés en France et revendique au 13 septembre 2015, 2,5 millions d'abonnés2,3. Le 7 août 2014, les dirigeants annoncent qu'une troisième chaîne sera créée le 15 septembre 2014, nommée beIn Sports 34. Elle sera consacrée à tous les sports (handball, volley, tennis, athlétisme...). Cependant, lorsqu'il y aura plusieurs matchs de football en simultané, beIn Sports 3 diffusera également du football. Fin juin, à l'occasion de l'Euro 2016, beIn Sports annonce avoir atteint les 3 millions d'abonnés5. En septembre 2017, beIn Sports annonce avoir atteint les ,5 millions d'abonnés.",
   "live_url":"https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8",
   "thumbnail":"https://od.lk/s/M18yNjMzNzE3MzFf/bein_extra.png",
   "categorie":"SPORTS"
-  },
+  }
+}
+
+
+
+
   "49":{
   "id":"50",
   "name":"MATH 1",
