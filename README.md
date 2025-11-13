@@ -308,6 +308,31 @@
   },
   "34":{
   "id":"35",
+  "name":"L'EQUIPE LIVE 1",
+  "number":"1239",
+  "description":"L'EQUIPE LIVE 1 TV est la chaine sportive qui se focalise aux Sports..",
+  "live_url":"https://dshn8inoshngm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gac2i63dmu8b7/LEquipe_FR.m3u8",
+  "thumbnail":"https://od.lk/s/NDZfNzgxNTc2Mjhf/lequipelive1.png",
+  "categorie":"SPORTS"
+  },
+  "35":{
+  "id":"36",
+  "name":"L'EQUIPE LIVE 2",
+  "number":"1240",
+  "description":"L'EQUIPE LIVE 2 TV est la chaine sportive qui se focalise aux Sports..",
+  "live_url":"https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/eqpe/equipe.m3u8",
+  "thumbnail":"https://od.lk/s/NDZfNzgxNjA1MDVf/equipe2.jpg",
+  "categorie":"SPORTS"
+  }
+}
+
+
+
+
+
+
+  "34":{
+  "id":"35",
   "name":"TNT SPORTS 1",
   "number":"1222",
   "description":"TNT SPORTS est une chaine de sports qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato.",
@@ -395,24 +420,6 @@
   "live_url": "http://185.189.225.157/EuroSport2/index.m3u8",
   "thumbnail": "https://od.lk/s/NDZfODU1MjY3NDRf/eurosports3.png",
   "categorie": "SPORTS"
-  },
-  "44":{
-  "id":"45",
-  "name":"L'EQUIPE LIVE 1",
-  "number":"1239",
-  "description":"L'EQUIPE LIVE 1 TV est la chaine sportive qui se focalise aux Sports..",
-  "live_url":"https://dshn8inoshngm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gac2i63dmu8b7/LEquipe_FR.m3u8",
-  "thumbnail":"https://od.lk/s/NDZfNzgxNTc2Mjhf/lequipelive1.png",
-  "categorie":"SPORTS"
-  },
-  "45":{
-  "id":"46",
-  "name":"L'EQUIPE LIVE 2",
-  "number":"1240",
-  "description":"L'EQUIPE LIVE 2 TV est la chaine sportive qui se focalise aux Sports..",
-  "live_url":"https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/eqpe/equipe.m3u8",
-  "thumbnail":"https://od.lk/s/NDZfNzgxNjA1MDVf/equipe2.jpg",
-  "categorie":"SPORTS"
   },
   "46":{
   "id":"47",
