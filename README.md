@@ -118,34 +118,7 @@
   "categorie": "SPORTS"
   },
   "13":{
-  "id":"14",
-  "name":"ZIGO SPORTS 1",
-  "number":"1201",
-  "description":"Zigo SPORTS 1 est une chaine de sports qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
-  "live_url":"https://tvsen6.aynaott.com/btSport1/index.m3u8",
-  "thumbnail":"https://od.lk/s/NDZfODY5ODc0NDVf/ziggo1.jpg",
-  "categorie":"SPORTS"
-  },
-  "14":{
-  "id":"15",
-  "name":"ZIGO SPORTS 2",
-  "number":"1201",
-  "description":"Zigo SPORTS 2 est une chaine de sports qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
-  "live_url":"http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2561/index.m3u8",
-  "thumbnail":"https://od.lk/s/NDZfODY5ODc0NDZf/ziggo2.png",
-  "categorie":"SPORTS"
-  },
-  "15":{
-  "id":"16",
-  "name":"ZIGO SPORTS 3",
-  "number":"1201",
-  "description":"Zigo SPORTS 3 est une chaine de sports qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
-  "live_url":"http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2559/index.m3u8",
-  "thumbnail":"https://od.lk/s/NDZfODY5ODc0NDdf/ziggo3.png",
-  "categorie":"SPORTS"
-  },
-  "16":{
-  "id": "17",
+  "id": "14",
   "name": "+SPORT 360",
   "number":"1207",
   "description": "+SPORT 360 la chaine sportive qui se focalise au championnat international ....",
@@ -153,8 +126,8 @@
   "thumbnail": "https://od.lk/s/NDZfODU1MjQyNTFf/sport360.png",
   "categorie": "SPORTS"
   },
-  "17":{
-  "id":"18",
+  "14":{
+  "id":"15",
   "name":"CANAL+ SPORTS",
   "number":"1208",
   "description":"Canal Plus Sports la chaine sportive qui se focalise au championnat international",
@@ -162,21 +135,17 @@
   "thumbnail":"https://od.lk/s/NDZfODU1MjQ2MDhf/canalsports.png",
   "categorie":"SPORTS"
   },
-  "18":{
-  "id":"19",
+  "15":{
+  "id":"16",
   "name":"INFO SPORTS",
   "number":"1209",
   "description":"Infos Sports est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct.",
   "live_url":"http://212.102.60.80/Infosport/index.m3u8",
   "thumbnail":"https://od.lk/s/NDZfODU1MjYzMzRf/infosports.png",
   "categorie":"SPORTS"
-  }
-}
-
-
-
-  "20":{
-  "id":"21",
+  },
+  "16":{
+  "id":"17",
   "name":"COSMOTE SPORT 1",
   "number":"1201",
   "description":"COSMOTE SPORT 1 est une chaine de sports qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
@@ -184,17 +153,17 @@
   "thumbnail":"https://od.lk/s/NDZfODY5ODcxNDdf/cosmotetv.jpg",
   "categorie":"SPORTS"
   },
-  "21":{
-  "id":"22",
+  "17":{
+  "id":"18",
   "name":"X-SPORT",
   "number":"1201",
-  "description":"COSMOTE SPORT 1 est une chaine de sports qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
+  "description":"X-SPORT 1 est une chaine de sports qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
   "live_url":"http://iptv.prosto.tv:7000/ch109/video.m3u8",
   "thumbnail":"https://od.lk/s/NDZfODY5ODcwNTVf/xsports.jpg",
   "categorie":"SPORTS"
   },
-  "22":{
-  "id":"23",
+  "18":{
+  "id":"19",
   "name":"BEIN SPORT 1 FR",
   "number":"1210",
   "description":"Bein Sports 1 est un réseau de télévision thématique privé du BeIn Media Group diffusant en France et consacré au sport. Ce réseau regroupe trois chaînes : BeIn Sports 1, BeIn Sports 2, BeIn Sports 3, ainsi qu'un multiplex BeIn Sports Max composé de 7 chaînes (BeIn Sports Max 4 à 10) permettant de couvrir plusieurs événements sportifs en simultané1. Le réseau international, piloté depuis Paris, est présidé en France par Yousef Al-Obaidly, qui avait notamment lancé la chaîne avec Charles Biétry. Florent Houzot occupe le poste de directeur de la rédaction. L'offre payante par abonnement au câble, satellite ou à télévision par Internet comprend trois chaînes en continu et sept canaux en multiplex de retransmissions en direct (BeIn Sports Max) dévolus à la diffusion des événements comme la retransmission de la Ligue 1, la Ligue des champions ou encore la Ligue Europa en football. BeIn Sports a dépassé les 2 millions d'abonnés en France et revendique au 13 septembre 2015, 2,5 millions d'abonnés2,3. Le 7 août 2014, les dirigeants annoncent qu'une troisième chaîne sera créée le 15 septembre 2014, nommée beIn Sports 34. Elle sera consacrée à tous les sports (handball, volley, tennis, athlétisme...). Cependant, lorsqu'il y aura plusieurs matchs de football en simultané, beIn Sports 3 diffusera également du football. Fin juin, à l'occasion de l'Euro 2016, beIn Sports annonce avoir atteint les 3 millions d'abonnés5. En septembre 2017, beIn Sports annonce avoir atteint les ,5 millions d'abonnés....",
@@ -202,17 +171,17 @@
   "thumbnail":"https://od.lk/s/M18yNTkxODU4MzBf/beinone.png",
   "categorie":"SPORTS"
   },
-  "23":{
-  "id": "24",
+  "19":{
+  "id": "20",
   "name": "BEIN SPORT 1 EN",
   "number":"1211",
   "description": "Bein Sports 1 est un réseau de télévision thématique privé du BeIn Media Group diffusant en France et consacré au sport. Ce réseau regroupe trois chaînes : BeIn Sports 1, BeIn Sports 2, BeIn Sports 3, ainsi qu'un multiplex BeIn Sports Max composé de 7 chaînes (BeIn Sports Max 4 à 10) permettant de couvrir plusieurs événements sportifs en simultané1. Le réseau international, piloté depuis Paris, est présidé en France par Yousef Al-Obaidly, qui avait notamment lancé la chaîne avec Charles Biétry. Florent Houzot occupe le poste de directeur de la rédaction. L'offre payante par abonnement au câble, satellite ou à télévision par Internet comprend trois chaînes en continu et sept canaux en multiplex de retransmissions en direct (BeIn Sports Max) dévolus à la diffusion des événements comme la retransmission de la Ligue 1, la Ligue des champions ou encore la Ligue Europa en football. BeIn Sports a dépassé les 2 millions d'abonnés en France et revendique au 13 septembre 2015, 2,5 millions d'abonnés2,3. Le 7 août 2014, les dirigeants annoncent qu'une troisième chaîne sera créée le 15 septembre 2014, nommée beIn Sports 34. Elle sera consacrée à tous les sports (handball, volley, tennis, athlétisme...). Cependant, lorsqu'il y aura plusieurs matchs de football en simultané, beIn Sports 3 diffusera également du football. Fin juin, à l'occasion de l'Euro 2016, beIn Sports annonce avoir atteint les 3 millions d'abonnés5. En septembre 2017, beIn Sports annonce avoir atteint les ,5 millions d'abonnés...",
-  "live_url": "https://fl4.moveonjoy.com/BEIN_SPORTS/index.m3u8",
+  "live_url": "https://fl1.moveonjoy.com/BEIN_SPORTS/index.m3u8",
   "thumbnail": "https://od.lk/s/M18yNTkxODU4MzBf/beinone.png",
   "categorie": "SPORTS"
   },
-  "24":{
-  "id":"25",
+  "20":{
+  "id":"21",
   "name":"BEIN SPORTS 1",
   "number":"1212",
   "description":"Bein Sports 1 est un réseau de télévision thématique privé du BeIn Media Group diffusant en France et consacré au sport. Ce réseau regroupe trois chaînes : BeIn Sports 1, BeIn Sports 2, BeIn Sports 3, ainsi qu'un multiplex BeIn Sports Max composé de 7 chaînes (BeIn Sports Max 4 à 10) permettant de couvrir plusieurs événements sportifs en simultané1. Le réseau international, piloté depuis Paris, est présidé en France par Yousef Al-Obaidly, qui avait notamment lancé la chaîne avec Charles Biétry. Florent Houzot occupe le poste de directeur de la rédaction. L'offre payante par abonnement au câble, satellite ou à télévision par Internet comprend trois chaînes en continu et sept canaux en multiplex de retransmissions en direct (BeIn Sports Max) dévolus à la diffusion des événements comme la retransmission de la Ligue 1, la Ligue des champions ou encore la Ligue Europa en football. BeIn Sports a dépassé les 2 millions d'abonnés en France et revendique au 13 septembre 2015, 2,5 millions d'abonnés2,3. Le 7 août 2014, les dirigeants annoncent qu'une troisième chaîne sera créée le 15 septembre 2014, nommée beIn Sports 34. Elle sera consacrée à tous les sports (handball, volley, tennis, athlétisme...). Cependant, lorsqu'il y aura plusieurs matchs de football en simultané, beIn Sports 3 diffusera également du football. Fin juin, à l'occasion de l'Euro 2016, beIn Sports annonce avoir atteint les 3 millions d'abonnés5. En septembre 2017, beIn Sports annonce avoir atteint les ,5 millions d'abonnés...",
@@ -220,8 +189,8 @@
   "thumbnail":"https://od.lk/s/M18yNTkxODU4MzBf/beinone.png",
   "categorie":"SPORTS"
   },
-  "25":{
-  "id": "26",
+  "21":{
+  "id": "22",
   "name": "BEIN SPORT 1 AR",
   "number":"1213",
   "description": "Bein Sports 1 est un réseau de télévision thématique privé du BeIn Media Group diffusant en France et consacré au sport. Ce réseau regroupe trois chaînes : BeIn Sports 1, BeIn Sports 2, BeIn Sports 3, ainsi qu'un multiplex BeIn Sports Max composé de 7 chaînes (BeIn Sports Max 4 à 10) permettant de couvrir plusieurs événements sportifs en simultané1. Le réseau international, piloté depuis Paris, est présidé en France par Yousef Al-Obaidly, qui avait notamment lancé la chaîne avec Charles Biétry. Florent Houzot occupe le poste de directeur de la rédaction. L'offre payante par abonnement au câble, satellite ou à télévision par Internet comprend trois chaînes en continu et sept canaux en multiplex de retransmissions en direct (BeIn Sports Max) dévolus à la diffusion des événements comme la retransmission de la Ligue 1, la Ligue des champions ou encore la Ligue Europa en football. BeIn Sports a dépassé les 2 millions d'abonnés en France et revendique au 13 septembre 2015, 2,5 millions d'abonnés2,3. Le 7 août 2014, les dirigeants annoncent qu'une troisième chaîne sera créée le 15 septembre 2014, nommée beIn Sports 34. Elle sera consacrée à tous les sports (handball, volley, tennis, athlétisme...). Cependant, lorsqu'il y aura plusieurs matchs de football en simultané, beIn Sports 3 diffusera également du football. Fin juin, à l'occasion de l'Euro 2016, beIn Sports annonce avoir atteint les 3 millions d'abonnés5. En septembre 2017, beIn Sports annonce avoir atteint les ,5 millions d'abonnés.",
@@ -229,8 +198,8 @@
   "thumbnail": "https://od.lk/s/M18yNTkxODU4MzBf/beinone.png",
   "categorie": "SPORTS"
   },
-  "26":{
-  "id": "27",
+  "22":{
+  "id": "23",
   "name": "BEIN SPORT 2",
   "number":"1214", 
   "description": "BEIN EXTRAS 2 est un réseau de télévision thématique privé du BeIn Media Group diffusant en France et consacré au sport. Ce réseau regroupe trois chaînes : BeIn Sports 1, BeIn Sports 2, BeIn Sports 3, ainsi qu'un multiplex BeIn Sports Max composé de 7 chaînes (BeIn Sports Max 4 à 10) permettant de couvrir plusieurs événements sportifs en simultané1. Le réseau international, piloté depuis Paris, est présidé en France par Yousef Al-Obaidly, qui avait notamment lancé la chaîne avec Charles Biétry. Florent Houzot occupe le poste de directeur de la rédaction. L'offre payante par abonnement au câble, satellite ou à télévision par Internet comprend trois chaînes en continu et sept canaux en multiplex de retransmissions en direct (BeIn Sports Max) dévolus à la diffusion des événements comme la retransmission de la Ligue 1, la Ligue des champions ou encore la Ligue Europa en football. BeIn Sports a dépassé les 2 millions d'abonnés en France et revendique au 13 septembre 2015, 2,5 millions d'abonnés2,3. Le 7 août 2014, les dirigeants annoncent qu'une troisième chaîne sera créée le 15 septembre 2014, nommée beIn Sports 34. Elle sera consacrée à tous les sports (handball, volley, tennis, athlétisme...). Cependant, lorsqu'il y aura plusieurs matchs de football en simultané, beIn Sports 3 diffusera également du football. Fin juin, à l'occasion de l'Euro 2016, beIn Sports annonce avoir atteint les 3 millions d'abonnés5. En septembre 2017, beIn Sports annonce avoir atteint les ,5 millions d'abonnés",
@@ -238,8 +207,8 @@
   "thumbnail": "https://od.lk/s/M18yNTkxODU4MThf/beintwo.png",
   "categorie": "SPORTS"
   },
-  "27":{
-  "id": "28",
+  "23":{
+  "id": "24",
   "name": "BEIN SPORT 2 EN",
   "number":"1215", 
   "description": "BEIN EXTRAS 2 est un réseau de télévision thématique privé du BeIn Media Group diffusant en France et consacré au sport. Ce réseau regroupe trois chaînes : BeIn Sports 1, BeIn Sports 2, BeIn Sports 3, ainsi qu'un multiplex BeIn Sports Max composé de 7 chaînes (BeIn Sports Max 4 à 10) permettant de couvrir plusieurs événements sportifs en simultané1. Le réseau international, piloté depuis Paris, est présidé en France par Yousef Al-Obaidly, qui avait notamment lancé la chaîne avec Charles Biétry. Florent Houzot occupe le poste de directeur de la rédaction. L'offre payante par abonnement au câble, satellite ou à télévision par Internet comprend trois chaînes en continu et sept canaux en multiplex de retransmissions en direct (BeIn Sports Max) dévolus à la diffusion des événements comme la retransmission de la Ligue 1, la Ligue des champions ou encore la Ligue Europa en football. BeIn Sports a dépassé les 2 millions d'abonnés en France et revendique au 13 septembre 2015, 2,5 millions d'abonnés2,3. Le 7 août 2014, les dirigeants annoncent qu'une troisième chaîne sera créée le 15 septembre 2014, nommée beIn Sports 34. Elle sera consacrée à tous les sports (handball, volley, tennis, athlétisme...). Cependant, lorsqu'il y aura plusieurs matchs de football en simultané, beIn Sports 3 diffusera également du football. Fin juin, à l'occasion de l'Euro 2016, beIn Sports annonce avoir atteint les 3 millions d'abonnés5. En septembre 2017, beIn Sports annonce avoir atteint les ,5 millions d'abonnés.",
@@ -247,8 +216,8 @@
   "thumbnail": "https://od.lk/s/M18yNTkxODU4MThf/beintwo.png",
   "categorie": "SPORTS"
   },
-  "28":{
-  "id": "29",
+  "24":{
+  "id": "25",
   "name": "BEIN SPORT 3",
   "number":"1216", 
   "description": "BEIN EXTRAS 3 est un réseau de télévision thématique privé du BeIn Media Group diffusant en France et consacré au sport. Ce réseau regroupe trois chaînes : BeIn Sports 1, BeIn Sports 2, BeIn Sports 3, ainsi qu'un multiplex BeIn Sports Max composé de 7 chaînes (BeIn Sports Max 4 à 10) permettant de couvrir plusieurs événements sportifs en simultané1. Le réseau international, piloté depuis Paris, est présidé en France par Yousef Al-Obaidly, qui avait notamment lancé la chaîne avec Charles Biétry. Florent Houzot occupe le poste de directeur de la rédaction. L'offre payante par abonnement au câble, satellite ou à télévision par Internet comprend trois chaînes en continu et sept canaux en multiplex de retransmissions en direct (BeIn Sports Max) dévolus à la diffusion des événements comme la retransmission de la Ligue 1, la Ligue des champions ou encore la Ligue Europa en football. BeIn Sports a dépassé les 2 millions d'abonnés en France et revendique au 13 septembre 2015, 2,5 millions d'abonnés2,3. Le 7 août 2014, les dirigeants annoncent qu'une troisième chaîne sera créée le 15 septembre 2014, nommée beIn Sports 34. Elle sera consacrée à tous les sports (handball, volley, tennis, athlétisme...). Cependant, lorsqu'il y aura plusieurs matchs de football en simultané, beIn Sports 3 diffusera également du football. Fin juin, à l'occasion de l'Euro 2016, beIn Sports annonce avoir atteint les 3 millions d'abonnés5. En septembre 2017, beIn Sports annonce avoir atteint les ,5 millions d'abonnés.",
@@ -256,8 +225,8 @@
   "thumbnail": "https://od.lk/s/NDZfODU1MjYyMTdf/beinsport3.png",
   "categorie": "SPORTS"
   },
-  "29":{
-  "id": "30",
+  "25":{
+  "id": "26",
   "name": "BEIN SPORT 4",
   "number":"1217",  
   "description": "BEIN SPORTS 4 est un réseau de télévision thématique privé du BeIn Media Group diffusant en France et consacré au sport. Ce réseau regroupe trois chaînes : BeIn Sports 1, BeIn Sports 2, BeIn Sports 3, ainsi qu'un multiplex BeIn Sports Max composé de 7 chaînes (BeIn Sports Max 4 à 10) permettant de couvrir plusieurs événements sportifs en simultané1. Le réseau international, piloté depuis Paris, est présidé en France par Yousef Al-Obaidly, qui avait notamment lancé la chaîne avec Charles Biétry. Florent Houzot occupe le poste de directeur de la rédaction. L'offre payante par abonnement au câble, satellite ou à télévision par Internet comprend trois chaînes en continu et sept canaux en multiplex de retransmissions en direct (BeIn Sports Max) dévolus à la diffusion des événements comme la retransmission de la Ligue 1, la Ligue des champions ou encore la Ligue Europa en football. BeIn Sports a dépassé les 2 millions d'abonnés en France et revendique au 13 septembre 2015, 2,5 millions d'abonnés2,3. Le 7 août 2014, les dirigeants annoncent qu'une troisième chaîne sera créée le 15 septembre 2014, nommée beIn Sports 34. Elle sera consacrée à tous les sports (handball, volley, tennis, athlétisme...). Cependant, lorsqu'il y aura plusieurs matchs de football en simultané, beIn Sports 3 diffusera également du football. Fin juin, à l'occasion de l'Euro 2016, beIn Sports annonce avoir atteint les 3 millions d'abonnés5. En septembre 2017, beIn Sports annonce avoir atteint les ,5 millions d'abonnés.",
@@ -265,8 +234,8 @@
   "thumbnail": "https://od.lk/s/M18yNjUzMDQ5NzNf/beinfour.png",
   "categorie": "SPORTS"
   },
-  "30":{
-  "id": "31",
+  "26":{
+  "id": "27",
   "name": "BEIN SPORT 5",
   "number":"1218",
   "description": "BEIN SPORTS 5 est un réseau de télévision thématique privé du BeIn Media Group diffusant en France et consacré au sport. Ce réseau regroupe trois chaînes : BeIn Sports 1, BeIn Sports 2, BeIn Sports 3, ainsi qu'un multiplex BeIn Sports Max composé de 7 chaînes (BeIn Sports Max 4 à 10) permettant de couvrir plusieurs événements sportifs en simultané1. Le réseau international, piloté depuis Paris, est présidé en France par Yousef Al-Obaidly, qui avait notamment lancé la chaîne avec Charles Biétry. Florent Houzot occupe le poste de directeur de la rédaction. L'offre payante par abonnement au câble, satellite ou à télévision par Internet comprend trois chaînes en continu et sept canaux en multiplex de retransmissions en direct (BeIn Sports Max) dévolus à la diffusion des événements comme la retransmission de la Ligue 1, la Ligue des champions ou encore la Ligue Europa en football. BeIn Sports a dépassé les 2 millions d'abonnés en France et revendique au 13 septembre 2015, 2,5 millions d'abonnés2,3. Le 7 août 2014, les dirigeants annoncent qu'une troisième chaîne sera créée le 15 septembre 2014, nommée beIn Sports 34. Elle sera consacrée à tous les sports (handball, volley, tennis, athlétisme...). Cependant, lorsqu'il y aura plusieurs matchs de football en simultané, beIn Sports 3 diffusera également du football. Fin juin, à l'occasion de l'Euro 2016, beIn Sports annonce avoir atteint les 3 millions d'abonnés5. En septembre 2017, beIn Sports annonce avoir atteint les ,5 millions d'abonnés.",
@@ -274,15 +243,23 @@
   "thumbnail": "https://od.lk/s/M18yNjUzMDQ4MzFf/beinfive",
   "categorie": "SPORTS"
   },
-  "31":{
-  "id": "32",
+  "27":{
+  "id": "28",
   "name": "MATCH ARENA",
   "number":"1219",
   "description": "MATCH ARENA est la chaine sportive de la russie qui se focalise au championnat international aves des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
   "live_url": "http://194.143.148.28/MatchArena/index.m3u8",
   "thumbnail": "https://od.lk/s/M18yODQzNTU3NTJf/match.jpeg",
   "categorie": "SPORTS"
-  },
+  }
+}
+
+
+
+
+
+
+  
   "32":{
   "id":"33",
   "name":"FIFA +",
