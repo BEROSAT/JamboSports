@@ -80,7 +80,17 @@
   "live_url":"https://cdn4.skygo.mn/live/disk1/SPSPlus/HLSv3-FTA/SPSPlus.m3u8",
   "thumbnail":"https://od.lk/s/NDZfODY5ODU5NTZf/premiersport5.png",
   "categorie":"SPORTS"
-  },
+  }
+}
+
+
+
+
+
+
+
+
+
   "9":{
   "id":"10",
   "name":"SUPER SPORT SPL",
