@@ -144,8 +144,8 @@
   "thumbnail":"https://od.lk/s/NDZfODY5ODc0NDdf/ziggo3.png",
   "categorie":"SPORTS"
   },
-  "17":{
-  "id": "18",
+  "16":{
+  "id": "17",
   "name": "+SPORT 360",
   "number":"1207",
   "description": "+SPORT 360 la chaine sportive qui se focalise au championnat international ....",
@@ -153,8 +153,8 @@
   "thumbnail": "https://od.lk/s/NDZfODU1MjQyNTFf/sport360.png",
   "categorie": "SPORTS"
   },
-  "18":{
-  "id":"19",
+  "17":{
+  "id":"18",
   "name":"CANAL+ SPORTS",
   "number":"1208",
   "description":"Canal Plus Sports la chaine sportive qui se focalise au championnat international",
@@ -162,8 +162,8 @@
   "thumbnail":"https://od.lk/s/NDZfODU1MjQ2MDhf/canalsports.png",
   "categorie":"SPORTS"
   },
-  "19":{
-  "id":"20",
+  "18":{
+  "id":"19",
   "name":"INFO SPORTS",
   "number":"1209",
   "description":"Infos Sports est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct.",
@@ -172,6 +172,7 @@
   "categorie":"SPORTS"
   }
 }
+
 
 
   "20":{
