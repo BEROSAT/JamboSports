@@ -80,17 +80,7 @@
   "live_url":"https://cdn4.skygo.mn/live/disk1/SPSPlus/HLSv3-FTA/SPSPlus.m3u8",
   "thumbnail":"https://od.lk/s/NDZfODY5ODU5NTZf/premiersport5.png",
   "categorie":"SPORTS"
-  }
-}
-
-
-
-
-
-
-
-
-
+  },
   "9":{
   "id":"10",
   "name":"SUPER SPORT SPL",
@@ -111,15 +101,6 @@
   },
   "11":{
   "id":"12",
-  "name":"SUPER SPORT SPL",
-  "number":"1201",
-  "description":"American Ninja Warrior est la chaine sportive de divertissement des competions Olympic et autres",
-  "live_url":"https://amg00654-itv-amg00654c27-rakuten-uk-5295.playouts.now.amagi.tv/playlist.m3u8",
-  "thumbnail":"https://od.lk/s/NDZfODg2MjI2MTJf/americanNinja.jpeg",
-  "categorie":"SPORTS"
-  },
-  "12":{
-  "id":"13",
   "name":"SUPER SPORT FIFA",
   "number":"1204",
   "description":"Super SPORT la chaine sportive qui se focalise au championnat international....",
@@ -127,24 +108,20 @@
   "thumbnail":"https://od.lk/s/NDZfODU0ODYzNzBf/supersporthd.jpeg",
   "categorie":"SPORTS"
   },
-  "13":{
-  "id": "14",
+  "12":{
+  "id": "13",
   "name": "SUPER SPORT 4",
   "number":"1205",
   "description": "Super SPORT la chaine sportive qui se focalise au championnat international...",
   "live_url": "http://145.239.5.177/566/index.m3u8",
   "thumbnail": "https://od.lk/s/NDZfODU0ODYzNjZf/supersport.jpeg",
   "categorie": "SPORTS"
-  },
-  "14":{
-  "id": "15",
-  "name": "SUPER SPORT CRICKET",
-  "number":"1206",
-  "description": "Super SPORT Cricketest la chaine sportive qui se focalise au championnat international ....",
-  "live_url": "http://starshare.fun/live/home123/home123/158442.m3u8",
-  "thumbnail": "https://od.lk/s/NDZfODQwNTA2ODNf/sSportsCrickets.jpeg",
-  "categorie": "SPORTS"
-  },
+  }
+}
+
+
+
+  
   "15":{
   "id":"16",
   "name":"ZIGO SPORTS 1",
