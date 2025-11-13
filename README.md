@@ -116,14 +116,9 @@
   "live_url": "http://145.239.5.177/566/index.m3u8",
   "thumbnail": "https://od.lk/s/NDZfODU0ODYzNjZf/supersport.jpeg",
   "categorie": "SPORTS"
-  }
-}
-
-
-
-  
-  "15":{
-  "id":"16",
+  },
+  "13":{
+  "id":"14",
   "name":"ZIGO SPORTS 1",
   "number":"1201",
   "description":"Zigo SPORTS 1 est une chaine de sports qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
@@ -131,8 +126,8 @@
   "thumbnail":"https://od.lk/s/NDZfODY5ODc0NDVf/ziggo1.jpg",
   "categorie":"SPORTS"
   },
-  "15":{
-  "id":"16",
+  "14":{
+  "id":"15",
   "name":"ZIGO SPORTS 2",
   "number":"1201",
   "description":"Zigo SPORTS 2 est une chaine de sports qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
@@ -140,8 +135,8 @@
   "thumbnail":"https://od.lk/s/NDZfODY5ODc0NDZf/ziggo2.png",
   "categorie":"SPORTS"
   },
-  "16":{
-  "id":"17",
+  "15":{
+  "id":"16",
   "name":"ZIGO SPORTS 3",
   "number":"1201",
   "description":"Zigo SPORTS 3 est une chaine de sports qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
@@ -175,7 +170,10 @@
   "live_url":"http://212.102.60.80/Infosport/index.m3u8",
   "thumbnail":"https://od.lk/s/NDZfODU1MjYzMzRf/infosports.png",
   "categorie":"SPORTS"
-  },
+  }
+}
+
+
   "20":{
   "id":"21",
   "name":"COSMOTE SPORT 1",
