@@ -249,7 +249,7 @@
   "number":"1201",
   "description":"Fifa Plus est une chaine de sports qui se focalise au championnat fifa international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
   "live_url":"https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8",
-  "thumbnail":"https://od.lk/s/NDZfODY5ODcwNTVf/xsports.jpg",
+  "thumbnail":"https://od.lk/s/NDZfODg3NDI4MDdf/FIFAFRANCE.png",
   "categorie":"SPORTS"
   },
   "28":{
@@ -258,7 +258,7 @@
   "number":"1201",
   "description":"FIFA+ Italy est une chaine de sports qui se focalise au championnat fifa international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
   "live_url":"https://5d95f7d7.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWl0X0ZJRkFQbHVzSXRhbGlhbl9ITFM/playlist.m3u8",
-  "thumbnail":"https://od.lk/s/NDZfODY5ODcwNTVf/xsports.jpg",
+  "thumbnail":"https://od.lk/s/NDZfODg3NDI4MDlf/FIFAITALY.png",
   "categorie":"SPORTS"
   },
   "29":{
@@ -267,7 +267,7 @@
   "number":"1201",
   "description":"FIFA+ Spain est une chaine de sports qui se focalise au championnat fifa international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
   "live_url":"https://d63fabad.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX0ZJRkFQbHVzU3BhbmlzaF9ITFM/playlist.m3u8",
-  "thumbnail":"https://od.lk/s/NDZfODY5ODcwNTVf/xsports.jpg",
+  "thumbnail":"https://od.lk/s/NDZfODg3NDI4MTBf/FIFASPAIN.png",
   "categorie":"SPORTS"
   },
   "30":{
@@ -276,7 +276,7 @@
   "number":"1201",
   "description":"FIFA+ German est une chaine de sports qui se focalise au championnat fifa international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
   "live_url":"https://4397879b.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWRlX0ZJRkFQbHVzR2VybWFuX0hMUw/playlist.m3u8",
-  "thumbnail":"https://od.lk/s/NDZfODY5ODcwNTVf/xsports.jpg",
+  "thumbnail":"https://od.lk/s/NDZfODg3NDI4MDhf/FIFAGERMANTV.png",
   "categorie":"SPORTS"
   },
   "31":{
@@ -285,7 +285,7 @@
   "number":"1201",
   "description":"FIFA+ French est une chaine de sports qui se focalise au championnat fifa international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
   "live_url":"https://37b4c228.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWZyX0ZJRkFQbHVzRnJlbmNoX0hMUw/playlist.m3u8",
-  "thumbnail":"https://od.lk/s/NDZfODY5ODcwNTVf/xsports.jpg",
+  "thumbnail":"https://od.lk/s/NDZfODg3NDI4MDdf/FIFAFRANCE.png",
   "categorie":"SPORTS"
   },
   "32":{
@@ -565,6 +565,33 @@
   "description":"FanDuel Sports TV SPORTS  Sports est est une chaine de sports qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato.",
   "live_url":"https://fl1.moveonjoy.com/PAC_12/index.m3u8",
   "thumbnail":"https://od.lk/s/NDZfODY5NzQ1NzZf/Fanduel.jpg",
+  "categorie":"SPORTS"
+  },
+  "63":{
+  "id":"64",
+  "name":"FIFA + USA",
+  "number":"1266",
+  "description":"FIFA+ USA est une chaine de sports qui se focalise au championnat fifa international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
+  "live_url":"https://d2w9q46ikgrcwx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-of5cbk3sav3w5/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/latest/main/hls/playlist.m3u8",
+  "thumbnail":"https://od.lk/s/NDZfODg3NDMzMzZf/FIFAUSA.png",
+  "categorie":"SPORTS"
+  },
+  "64":{
+  "id": "65",
+  "name": "BEIN SPORT 1 AR",
+  "number":"1267",
+  "description": "Bein Sports 1 est un réseau de télévision thématique privé du BeIn Media Group diffusant en France et consacré au sport. Ce réseau regroupe trois chaînes : BeIn Sports 1, BeIn Sports 2, BeIn Sports 3, ainsi qu'un multiplex BeIn Sports Max composé de 7 chaînes (BeIn Sports Max 4 à 10) permettant de couvrir plusieurs événements sportifs en simultané1. Le réseau international, piloté depuis Paris, est présidé en France par Yousef Al-Obaidly, qui avait notamment lancé la chaîne avec Charles Biétry. Florent Houzot occupe le poste de directeur de la rédaction. L'offre payante par abonnement au câble, satellite ou à télévision par Internet comprend trois chaînes en continu et sept canaux en multiplex de retransmissions en direct (BeIn Sports Max) dévolus à la diffusion des événements comme la retransmission de la Ligue 1, la Ligue des champions ou encore la Ligue Europa en football. BeIn Sports a dépassé les 2 millions d'abonnés en France et revendique au 13 septembre 2015, 2,5 millions d'abonnés2,3. Le 7 août 2014, les dirigeants annoncent qu'une troisième chaîne sera créée le 15 septembre 2014, nommée beIn Sports 34. Elle sera consacrée à tous les sports (handball, volley, tennis, athlétisme...). Cependant, lorsqu'il y aura plusieurs matchs de football en simultané, beIn Sports 3 diffusera également du football. Fin juin, à l'occasion de l'Euro 2016, beIn Sports annonce avoir atteint les 3 millions d'abonnés5. En septembre 2017, beIn Sports annonce avoir atteint les ,5 millions d'abonnés.",
+  "live_url": "http://51.89.148.37:8080/catena-9-100-streamer-bein_sports_1_fhd/tracks-v1a1a2a3l1l2/mono.m3u8?token=ef1c6f27da4b04de8c97b52b9255617b",
+  "thumbnail": "https://od.lk/s/M18yNTkxODU4MzBf/beinone.png",
+  "categorie": "SPORTS"
+  },
+  "65":{
+  "id":"66",
+  "name":"4 SPORTS",
+  "number":"1268",
+  "description":"4 Sports Sports TV SPORTS  Sports est est une chaine de sports qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato.",
+  "live_url":"https://pepsi.abntv.live/hls/4spstream.m3u8",
+  "thumbnail":"https://od.lk/s/NDZfODg3NDcyNDRf/4sports.jpeg",
   "categorie":"SPORTS"
   }
 }
