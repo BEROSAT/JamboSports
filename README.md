@@ -386,6 +386,51 @@
   "live_url":"https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8",
   "thumbnail":"https://od.lk/s/NDZfNzgxNjAzMDJf/realmadrid.jpg",
   "categorie":"SPORTS"
+  },
+  "43":{
+  "id":"44",
+  "name":"TSN 1",
+  "number":"1246",
+  "description":"TSN 1 est une chaine de sports qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato.",
+  "live_url":"https://fl1.moveonjoy.com/TSN_1/index.m3u8",
+  "thumbnail":"https://od.lk/s/NDZfNzgxNjAzMzNf/tsn1.png",
+  "categorie":"SPORTS"
+  }, 
+  "44":{
+  "id":"45",
+  "name":"TSN 2",
+  "number":"1247",
+  "description":"TSN 2 est une chaine de sports qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato.",
+  "live_url":"https://fl1.moveonjoy.com/TSN_2/index.m3u8",
+  "thumbnail":"https://od.lk/s/NDZfNzgxNjAzNjJf/tsn2.png",
+  "categorie":"SPORTS"
+  }, 
+  "45":{
+  "id":"46",
+  "name":"TSN 3",
+  "number":"1248",
+  "description":"TSN 3 est une chaine de sports qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato.",
+  "live_url":"https://fl1.moveonjoy.com/TSN_3/index.m3u8",
+  "thumbnail":"https://od.lk/s/NDZfNzgxNjA0MDhf/tsn3.png",
+  "categorie":"SPORTS"
+  }, 
+  "46":{
+  "id":"47",
+  "name":"TSN 4",
+  "number":"1249",
+  "description":"TSN 4 est une chaine de sports qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato.",
+  "live_url":"https://fl1.moveonjoy.com/TSN_4/index.m3u8",
+  "thumbnail":"https://od.lk/s/NDZfNzgxNjA0MjFf/tsn4.png",
+  "categorie":"SPORTS"
+  }, 
+  "47":{
+  "id":"48",
+  "name":"TSN 5",
+  "number":"1250",
+  "description":"TSN 5 est une chaine de sports qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato.",
+  "live_url":"https://fl1.moveonjoy.com/TSN_5/index.m3u8",
+  "thumbnail":"https://od.lk/s/NDZfNzgxNjA0NDZf/tsn5.png",
+  "categorie":"SPORTS"
   }
 }
 
@@ -399,51 +444,7 @@
  
 
   
-  "52":{
-  "id":"53",
-  "name":"TSN 1",
-  "number":"1246",
-  "description":"TSN 1 est une chaine de sports qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato.",
-  "live_url":"https://fl1.moveonjoy.com/TSN_1/index.m3u8",
-  "thumbnail":"https://od.lk/s/NDZfNzgxNjAzMzNf/tsn1.png",
-  "categorie":"SPORTS"
-  }, 
-  "53":{
-  "id":"54",
-  "name":"TSN 2",
-  "number":"1247",
-  "description":"TSN 2 est une chaine de sports qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato.",
-  "live_url":"https://fl1.moveonjoy.com/TSN_2/index.m3u8",
-  "thumbnail":"https://od.lk/s/NDZfNzgxNjAzNjJf/tsn2.png",
-  "categorie":"SPORTS"
-  }, 
-  "54":{
-  "id":"55",
-  "name":"TSN 3",
-  "number":"1248",
-  "description":"TSN 3 est une chaine de sports qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato.",
-  "live_url":"https://fl1.moveonjoy.com/TSN_3/index.m3u8",
-  "thumbnail":"https://od.lk/s/NDZfNzgxNjA0MDhf/tsn3.png",
-  "categorie":"SPORTS"
-  }, 
-  "55":{
-  "id":"56",
-  "name":"TSN 4",
-  "number":"1249",
-  "description":"TSN 4 est une chaine de sports qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato.",
-  "live_url":"https://fl1.moveonjoy.com/TSN_4/index.m3u8",
-  "thumbnail":"https://od.lk/s/NDZfNzgxNjA0MjFf/tsn4.png",
-  "categorie":"SPORTS"
-  }, 
-  "56":{
-  "id":"57",
-  "name":"TSN 5",
-  "number":"1250",
-  "description":"TSN 5 est une chaine de sports qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato.",
-  "live_url":"https://fl1.moveonjoy.com/TSN_5/index.m3u8",
-  "thumbnail":"https://od.lk/s/NDZfNzgxNjA0NDZf/tsn5.png",
-  "categorie":"SPORTS"
-  },
+  
   "57":{
   "id": "58",
   "name": "LAX SPORTS",
