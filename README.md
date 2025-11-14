@@ -431,22 +431,9 @@
   "live_url":"https://fl1.moveonjoy.com/TSN_5/index.m3u8",
   "thumbnail":"https://od.lk/s/NDZfNzgxNjA0NDZf/tsn5.png",
   "categorie":"SPORTS"
-  }
-}
-
-
-
-
-
-
-
-
- 
-
-  
-  
-  "57":{
-  "id": "58",
+  },
+  "48":{
+  "id": "49",
   "name": "LAX SPORTS",
   "number":"1251",
   "description": "LAX SPORTS est une chaine de sports qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato.",
@@ -454,8 +441,8 @@
   "thumbnail": "https://od.lk/s/M18yODMwNzA4Nzhf/lax.jpg",
   "categorie": "SPORTS"
   },
-  "58":{
-  "id": "59",
+  "49":{
+  "id": "50",
   "name": "SPORTS TV",
   "number":"1252",
   "description": "SPORTS TV est une chaine de sports qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato.",
@@ -463,8 +450,8 @@
   "thumbnail": "https://od.lk/s/M18yODEzNTI0OTZf/sporttv.jpg",
   "categorie": "SPORTS"
   },
-  "59":{
-  "id": "60",
+  "51":{
+  "id": "52",
   "name": "TAJIKISTAN SPORT",
   "number":"1253",
   "description": "Tajikistan Sports est une chaine de sports qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato.",
@@ -472,8 +459,8 @@
   "thumbnail": "https://od.lk/s/NDZfNjA1OTQ5ODdf/Tajikistan.png",
   "categorie": "SPORTS"
   },
-  "60:{
-  "id": "61",
+  "52:{
+  "id": "53",
   "name": "REDBULL TV",
   "number":"1254",
   "description": "RedBull est une chaine de sports qui se focalise au competion international.",
@@ -481,8 +468,8 @@
   "thumbnail": "https://od.lk/s/NDZfNjA1OTUxODZf/redbull.png",
   "categorie": "SPORTS"
   },
-  "61":{
-  "id": "62",
+  "53":{
+  "id": "54",
   "name": "SHARJAH-SPORTS",
   "number":"1261",
   "description": "Sharjah Sports est une chaine de sports qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato.",
@@ -490,8 +477,8 @@
   "thumbnail": "https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8",
   "categorie": "SPORTS"
   },
-  "62":{
-  "id": "63",
+  "54":{
+  "id": "55",
   "name": "FOX SPORTS 1",
   "number":"1262",
   "description": "Fox Sports est une chaine de sports qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato.",
@@ -499,8 +486,8 @@
   "thumbnail": "https://od.lk/s/NDZfNzgxNjA0Njhf/foxsport1.png",
   "categorie": "SPORTS"
   },
-  "63":{
-  "id": "64",
+  "55":{
+  "id": "56",
   "name": "SPORT NETWORK",
   "number":"1263",
   "description": "Sport Network est une chaine de sports qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato.",
@@ -508,8 +495,8 @@
   "thumbnail": "https://od.lk/s/NDZfNzgxNjA0ODZf/sportnetwork.png",
   "categorie": "SPORTS"
   },
-  "64":{
-  "id": "65",
+  "56":{
+  "id": "57",
   "name": "AIO SPORT",
   "number":"1264",
   "description": "AIO Sports est une chaine de sports qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato.",
@@ -517,8 +504,8 @@
   "thumbnail": "https://od.lk/s/NDZfNzgxNjA1NTdf/AIOSPORT.jpg",
   "categorie": "SPORTS"
   },
-  "70":{
-  "id": "71",
+  "57":{
+  "id": "58",
   "name": "SHARJJAH SPORT",
   "number":"1265",
   "description": "Sharjah Sports est une chaine de sports qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato.",
