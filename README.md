@@ -446,165 +446,42 @@
   "name":"SHARJAH-SPORTS",
   "number":"1252",
   "description":"Sharjah Sports est est une chaine de sports qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato.",
+  "live_url":"https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8",
+  "thumbnail":"https://od.lk/s/NDZfNzgxNjA1Njdf/SHARJJAH.jpg",
+  "categorie":"SPORTS"
+  },
+  "50":{
+  "id":"51",
+  "name":"SPORTS TV",
+  "number":"1253",
+  "description":"SPORTS TV est est une chaine de sports qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato.",
   "live_url":"http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8",
-  "thumbnail":"https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8",
+  "thumbnail":"https://od.lk/s/M18yODEzNTI0OTZf/sporttv.jpg",
+  "categorie":"SPORTS"
+  },
+  "51":{
+  "id":"52",
+  "name":"FOX SPORTS 1",
+  "number":"1254",
+  "description":"Fox Sports est est une chaine de sports qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato.",
+  "live_url":"http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8",
+  "thumbnail":"https://od.lk/s/NDZfNzgxNjA0Njhf/foxsport1.png",
+  "categorie":"SPORTS"
+  },
+  "52":{
+  "id":"53",
+  "name":"FOX SPORTS 1",
+  "number":"1255",
+  "description":"Fox Sports est est une chaine de sports qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato.",
+  "live_url":"http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8",
+  "thumbnail":"https://od.lk/s/NDZfNzgxNjA0Njhf/foxsport1.png",
   "categorie":"SPORTS"
   }
 }
 
 
 
-
-
-
-
-
-
-
-
-  
-  "48":{
-  "id": "49",
-  "name": "LAX SPORTS",
-  "number":"1251",
-  "description": "LAX SPORTS est une chaine de sports qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato.",
-  "live_url": "https://1840769862.rsc.cdn77.org/FTF/LSN_SCTE.m3u8",
-  "thumbnail": "https://od.lk/s/M18yODMwNzA4Nzhf/lax.jpg",
-  "categorie": "SPORTS"
-  },
-  "49":{
-  "id": "50",
-  "name": "SPORTS TV",
-  "number":"1252",
-  "description": "SPORTS TV est une chaine de sports qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato.",
-  "live_url": "http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8",
-  "thumbnail": "https://od.lk/s/M18yODEzNTI0OTZf/sporttv.jpg",
-  "categorie": "SPORTS"
-  },
-  "51":{
-  "id": "52",
-  "name": "TAJIKISTAN SPORT",
-  "number":"1253",
-  "description": "Tajikistan Sports est une chaine de sports qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato.",
-  "live_url": "https://live.teleradiocom.tj/8/3m.m3u8",
-  "thumbnail": "https://od.lk/s/NDZfNjA1OTQ5ODdf/Tajikistan.png",
-  "categorie": "SPORTS"
-  }
-
-
- 
-  "54":{
-  "id": "55",
-  "name": "FOX SPORTS 1",
-  "number":"1262",
-  "description": "Fox Sports est une chaine de sports qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato.",
-  "live_url": "http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8",
-  "thumbnail": "https://od.lk/s/NDZfNzgxNjA0Njhf/foxsport1.png",
-  "categorie": "SPORTS"
-  },
-  "55":{
-  "id": "56",
-  "name": "SPORT NETWORK",
-  "number":"1263",
-  "description": "Sport Network est une chaine de sports qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato.",
-  "live_url": "https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Fast-Studios-Womens-Sports.m3u8",
-  "thumbnail": "https://od.lk/s/NDZfNzgxNjA0ODZf/sportnetwork.png",
-  "categorie": "SPORTS"
-  },
-  "56":{
-  "id": "57",
-  "name": "AIO SPORT",
-  "number":"1264",
-  "description": "AIO Sports est une chaine de sports qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato.",
-  "live_url": "https://cdn-azd2046.telewebion.com/ek/tv3/live/720p/index.m3u8",
-  "thumbnail": "https://od.lk/s/NDZfNzgxNjA1NTdf/AIOSPORT.jpg",
-  "categorie": "SPORTS"
-  },
-  "57":{
-  "id": "58",
-  "name": "SHARJJAH SPORT",
-  "number":"1265",
-  "description": "Sharjah Sports est une chaine de sports qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato.",
-  "live_url": "https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8",
-  "thumbnail": "https://od.lk/s/NDZfNzgxNjA1Njdf/SHARJJAH.jpg",
-  "categorie": "SPORTS"
-  }
-}
-
-  
-  "71":{
-  "id": "72",
-  "name": "ARENA SPORT 3",
-  "number":"1266", 
-  "description": "Arena Sports est une chaine de sports qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato.",
-  "live_url": "http://109.105.201.198/ARENASPORT3/video.m3u8?token=test",
-  "thumbnail": "https://od.lk/s/NDZfNjA2MDI5MTVf/arenapremium3.png",
-  "categorie": "SPORTS"
-  },
-  "72":{
-  "id": "73",
-  "name": "MAX SPORT 3",
-  "number":"1267",
-  "description": "Max Sports 3 est une chaine de sports qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato.",
-  "live_url": "http://raalbatros.serv00.net/Gledai.php?ID=maxsport3",
-  "thumbnail": "https://od.lk/s/NDZfNzgxNjA2NDBf/maxsport3.jpg",
-  "categorie": "SPORTS"
-  },
-  "73":{
-  "id": "74",
-  "name": "AFRO SPORTS",
-  "number":"1268",
-  "description": "Afro Sports est une chaine de sports qui se focalise au championnat Africain avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato.",
-  "live_url": "https://newproxy3.vidivu.tv/vidivu_afrosport/index.m3u8",
-  "thumbnail": "https://od.lk/s/NDZfNzgzMzg4MjZf/afroSport.png",
-  "categorie": "SPORTS"
-  },
-  "74":{
-  "id": "75",
-  "name": "SPORTS 1",
-  "number":"1270",
-  "description": "Sports 1 est une chaine de sports qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato.",
-  "live_url": "http://176.123.6.108:25461/live/100808848/journalsat/1945.m3u8",
-  "thumbnail": "https://od.lk/s/NDZfNzgzMzg4MjZf/afroSport.png",
-  "categorie": "SPORTS"
-  },
-  "75":{
-  "id": "76",
-  "name": "SPORTS 2",
-  "number":"1271",
-  "description": "Sports 2 est une chaine de sports qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato.",
-  "live_url": "http://130.193.166.18/cache/Bein-Prem-1-HEVC/master.m3u8",
-  "thumbnail": "https://od.lk/s/NDZfNzgzMzg4MjZf/afroSport.png",
-  "categorie": "SPORTS"
-  },
-  "76":{
-  "id": "77",
-  "name": "SPORTS 3",
-  "number":"1272",
-  "description": "Sports 3 est une chaine de sports qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato.",
-  "live_url": "http://vu-ott.com:8080/live/mag00:1A:79:40:4B:9F/1l4PQfYaCN/7313.m3u8",
-  "thumbnail": "https://od.lk/s/NDZfNzgzMzg4MjZf/afroSport.png",
-  "categorie": "SPORTS"
-  },
-  "77":{
-  "id": "78",
-  "name": "SPORTS 4",
-  "number":"1273",
-  "description": "Sports 4 est une chaine de sports qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato.",
-  "live_url": "http://93.157.62.180:80/Supersport2/playlist.m3u8",
-  "thumbnail": "https://od.lk/s/NDZfNzgzMzg4MjZf/afroSport.png",
-  "categorie": "SPORTS"
-  },
-  "78":{
-  "id": "79",
-  "name": "SPORTS 5",
-  "number":"1274",
-  "description": "Sports 5 est une chaine de sports qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato.",
-  "live_url": "http://207.110.52.61:8080/s/hls/5/293/canal_plus_sport_polska_250/1/1/tracks-v1a1/mono.m3u8",
-  "thumbnail": "https://od.lk/s/NDZfNzgzMzg4MjZf/afroSport.png",
-  "categorie": "SPORTS"
-  },
-  "79":{
+"79":{
   "id": "80",
   "name": "NFL NETWORK",
   "number":"1274",
@@ -712,6 +589,73 @@
   "thumbnail": "https://od.lk/s/NDZfODY5NzQ1NzZf/Fanduel.jpg",
   "categorie": "SPORTS"
   }
+
+
+  ==============================================
+  "48":{
+  "id": "49",
+  "name": "LAX SPORTS",
+  "number":"1251",
+  "description": "LAX SPORTS est une chaine de sports qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato.",
+  "live_url": "https://1840769862.rsc.cdn77.org/FTF/LSN_SCTE.m3u8",
+  "thumbnail": "https://od.lk/s/M18yODMwNzA4Nzhf/lax.jpg",
+  "categorie": "SPORTS"
+  },
+  "51":{
+  "id": "52",
+  "name": "TAJIKISTAN SPORT",
+  "number":"1253",
+  "description": "Tajikistan Sports est une chaine de sports qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato.",
+  "live_url": "https://live.teleradiocom.tj/8/3m.m3u8",
+  "thumbnail": "https://od.lk/s/NDZfNjA1OTQ5ODdf/Tajikistan.png",
+  "categorie": "SPORTS"
+  }
+  "55":{
+  "id": "56",
+  "name": "SPORT NETWORK",
+  "number":"1263",
+  "description": "Sport Network est une chaine de sports qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato.",
+  "live_url": "https://csm-e-cetubilusordlive-85082687.csm.tubi.video/csm/extlive/tubiprd01,Fast-Studios-Womens-Sports.m3u8",
+  "thumbnail": "https://od.lk/s/NDZfNzgxNjA0ODZf/sportnetwork.png",
+  "categorie": "SPORTS"
+  },
+  "56":{
+  "id": "57",
+  "name": "AIO SPORT",
+  "number":"1264",
+  "description": "AIO Sports est une chaine de sports qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato.",
+  "live_url": "https://cdn-azd2046.telewebion.com/ek/tv3/live/720p/index.m3u8",
+  "thumbnail": "https://od.lk/s/NDZfNzgxNjA1NTdf/AIOSPORT.jpg",
+  "categorie": "SPORTS"
+  },
+ 
+
+
+  
+  "71":{
+  "id": "72",
+  "name": "ARENA SPORT 3",
+  "number":"1266", 
+  "description": "Arena Sports est une chaine de sports qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato.",
+  "live_url": "http://109.105.201.198/ARENASPORT3/video.m3u8?token=test",
+  "thumbnail": "https://od.lk/s/NDZfNjA2MDI5MTVf/arenapremium3.png",
+  "categorie": "SPORTS"
+  },
+
+ 
+  "74":{
+  "id": "75",
+  "name": "SPORTS 1",
+  "number":"1270",
+  "description": "Sports 1 est une chaine de sports qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato.",
+  "live_url": "http://176.123.6.108:25461/live/100808848/journalsat/1945.m3u8",
+  "thumbnail": "https://od.lk/s/NDZfNzgzMzg4MjZf/afroSport.png",
+  "categorie": "SPORTS"
+  },
+
+ 
+
+  
 }
 
 
