@@ -361,52 +361,6 @@
   "categorie":"SPORTS"
   },
   "40":{
-  "id":"41",
-  "name":"TNT SPORTS 1",
-  "number":"1222",
-  "description":"TNT SPORTS est une chaine de sports qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato.",
-  "live_url":"https://tvsen6.aynaott.com/btSport1/index.m3u8",
-  "thumbnail":"https://od.lk/s/NDZfODUyODk5NTJf/tntsports.jpeg",
-  "categorie":"SPORTS"
-  },
-  "41":{
-  "id":"42",
-  "name":"TNT SPORTS 2",
-  "number":"1223",
-  "description":"TNT SPORTS est une chaine de sports qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato.",
-  "live_url":"https://tvsen6.aynaott.com/btSport2/index.m3u8",
-  "thumbnail":"https://od.lk/s/NDZfODUyOTAwMzlf/tntsports2.jpeg",
-  "categorie":"SPORTS"
-  }
-}
-
-
-
-
-
-
- 
-  "36":{
-  "id":"37",
-  "name":"PTV SPORTS",
-  "number":"1224",
-  "description":"PTV SPORTS est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct...",
-  "live_url":"https://tvsen5.aynaott.com/PtvSports/index.m3u8",
-  "thumbnail":"https://od.lk/s/NDZfODQyMzI0OTFf/ptvsports.jpeg",
-  "categorie":"SPORTS"
-  },
-
-  "38":{
-  "id": "39",
-  "name": "SKY ACTION",
-  "number":"1227",
-  "description": "Sky Sports Sports tv est une chaine de sports.",
-  "live_url": "http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/7335/index.m3u8",
-  "thumbnail": "https://od.lk/s/NDZfODUyOTAyMTBf/skyaction.jpg",
-  "categorie": "SPORTS"
-  },
-
-  "40":{
   "id": "41",
   "name": "EUROSPORTS FR",
   "number":"1229",
@@ -417,15 +371,6 @@
   },
   "41":{
   "id": "42",
-  "name": "EUROSPORTS EN",
-  "number":"1230",
-  "description": "EUROSPORTS tv est une chaine de sports qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
-  "live_url": "http://185.189.225.157/EuroSport1/index.m3u8",
-  "thumbnail": "https://od.lk/s/NDZfODU1MjY3MjFf/eurosports1.jpeg",
-  "categorie": "SPORTS"
-  },
-  "42":{
-  "id": "43",
   "name": "EUROSPORTS 2 FR",
   "number":"1231",
   "description": "EUROSPORTS 2 tv est une chaine de sports qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
@@ -433,48 +378,27 @@
   "thumbnail": "https://od.lk/s/NDZfODU1MjY3MjJf/eurosports2.png",
   "categorie": "SPORTS"
   },
-  "43":{
-  "id": "44",
-  "name": "EUROSPORTS 2 EN",
-  "number":"1232",
-  "description": "EUROSPORTS 2 tv est une chaine de sports qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
-  "live_url": "http://185.189.225.157/EuroSport2/index.m3u8",
-  "thumbnail": "https://od.lk/s/NDZfODU1MjY3NDRf/eurosports3.png",
-  "categorie": "SPORTS"
-  },
-
-
-
-
-
-
-  "49":{
-  "id":"50",
-  "name":"MATH 1",
-  "number":"1242",
-  "description":"Math tv est une chaine de sports qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato.",
-  "live_url":"http://iptv-hls.idc.md:8200/hls/77/live1.m3u8",
-  "thumbnail":"https://od.lk/s/NDZfNzgxNjAyNTFf/mtch1.png",
-  "categorie":"SPORTS"
-  },
-  "50":{
-  "id":"51",
-  "name":"EUROSPORTS 1",
-  "number":"1243",
-  "description":"EuroSports 1 est une chaine de sports qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato.",
-  "live_url":"http://185.189.225.157/EuroSport1/index.m3u8",
-  "thumbnail":"https://od.lk/s/NDZfNzgxNjAyODRf/eurosports.jpg",
-  "categorie":"SPORTS"
-  },
-  "51":{
-  "id":"52",
+  "42":{
+  "id":"43",
   "name":"REAL MADRID TV",
   "number":"1244",
   "description":"Real Madrid tv est une chaine de sports qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato.",
   "live_url":"https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8",
   "thumbnail":"https://od.lk/s/NDZfNzgxNjAzMDJf/realmadrid.jpg",
   "categorie":"SPORTS"
-  },
+  }
+}
+
+
+
+
+
+
+
+
+ 
+
+  
   "52":{
   "id":"53",
   "name":"TSN 1",
