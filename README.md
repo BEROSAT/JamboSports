@@ -432,6 +432,37 @@
   "thumbnail":"https://od.lk/s/NDZfNzgxNjA0NDZf/tsn5.png",
   "categorie":"SPORTS"
   },
+  "48:{
+  "id": 49",
+  "name": "REDBULL TV",
+  "number":"1254",
+  "description": "RedBull est une chaine de sports qui se focalise au competion international.",
+  "live_url": "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8",
+  "thumbnail": "https://od.lk/s/NDZfNjA1OTUxODZf/redbull.png",
+  "categorie": "SPORTS"
+  },
+  "49":{
+  "id": "50",
+  "name": "SHARJAH-SPORTS",
+  "number":"1261",
+  "description": "Sharjah Sports est une chaine de sports qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato.",
+  "live_url": "http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8",
+  "thumbnail": "https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8",
+  "categorie": "SPORTS"
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+  
   "48":{
   "id": "49",
   "name": "LAX SPORTS",
@@ -459,26 +490,9 @@
   "thumbnail": "https://od.lk/s/NDZfNjA1OTQ5ODdf/Tajikistan.png",
   "categorie": "SPORTS"
   }
-}
 
-  "52:{
-  "id": "53",
-  "name": "REDBULL TV",
-  "number":"1254",
-  "description": "RedBull est une chaine de sports qui se focalise au competion international.",
-  "live_url": "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8",
-  "thumbnail": "https://od.lk/s/NDZfNjA1OTUxODZf/redbull.png",
-  "categorie": "SPORTS"
-  },
-  "53":{
-  "id": "54",
-  "name": "SHARJAH-SPORTS",
-  "number":"1261",
-  "description": "Sharjah Sports est une chaine de sports qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato.",
-  "live_url": "http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8",
-  "thumbnail": "https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8",
-  "categorie": "SPORTS"
-  },
+
+ 
   "54":{
   "id": "55",
   "name": "FOX SPORTS 1",
