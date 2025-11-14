@@ -469,105 +469,109 @@
   "categorie":"SPORTS"
   },
   "52":{
-  "id": "53",
-  "name": "NFL NETWORK",
+  "id":"53",
+  "name":"NFL NETWORK",
   "number":"1255",
-  "description": "NFL NETWORK SPORTS est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct....",
-  "live_url": "https://fl1.moveonjoy.com/NFL_NETWORK/index.m3u8",
-  "thumbnail": "https://od.lk/s/NDZfODY5NzkyMjVf/nflnetwork.png",
-  "categorie": "SPORTS"
+  "description":"NFL NETWORK SPORTS est est une chaine de sports qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato.",
+  "live_url":"https://fl1.moveonjoy.com/NFL_NETWORK/index.m3u8",
+  "thumbnail":"https://od.lk/s/NDZfODY5NzkyMjVf/nflnetwork.png",
+  "categorie":"SPORTS"
   },
   "53":{
-  "id": "54",
-  "name": "HNL NETWORK",
+  "id":"54",
+  "name":"HNL NETWORK",
   "number":"1256",
-  "description": "HNL NETWORK SPORTS est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct....",
-  "live_url": "https://fl1.moveonjoy.com/NHL_NETWORK/index.m3u8",
-  "thumbnail": "https://od.lk/s/NDZfODY5ODAxOTNf/nhlnetwork.jpg",
-  "categorie": "SPORTS"
+  "description":"HNL NETWORK SPORTS est est une chaine de sports qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato.",
+  "live_url":"https://fl1.moveonjoy.com/NHL_NETWORK/index.m3u8",
+  "thumbnail":"https://od.lk/s/NDZfODY5ODAxOTNf/nhlnetwork.jpg",
+  "categorie":"SPORTS"
   },
   "54":{
-  "id": "55",
-  "name": "SPORTSMAN CHANNEL",
+  "id":"55",
+  "name":"SPORTSMAN CHANNEL",
   "number":"1257",
-  "description": "SPORTSMAN CHANNEL SPORTS est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct.....",
-  "live_url": "https://fl1.moveonjoy.com/SPORTSMAN_CHANNEL/index.m3u8",
-  "thumbnail": "https://od.lk/s/NDZfODY5ODExOTBf/SPORTSMAN.jpg",
-  "categorie": "SPORTS"
+  "description":"SPORTSMAN CHANNEL SPORTS est est une chaine de sports qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato.",
+  "live_url":"https://fl1.moveonjoy.com/SPORTSMAN_CHANNEL/index.m3u8",
+  "thumbnail":"https://od.lk/s/NDZfODY5ODExOTBf/SPORTSMAN.jpg",
+  "categorie":"SPORTS"
   },
   "55":{
-  "id": "56",
-  "name": "SPORTSNET TV",
+  "id":"56",
+  "name":"SPORTSNET TV",
   "number":"1258",
-  "description": "SportsNet New York  SPORTS est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct....",
-  "live_url": "https://fl1.moveonjoy.com/SNY/index.m3u8",
-  "thumbnail": "https://od.lk/s/NDZfODY5ODIyNjBf/sportsnet.png",
-  "categorie": "SPORTS"
+  "description":"SportsNet New York  SPORTS est est une chaine de sports qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato.",
+  "live_url":"https://fl1.moveonjoy.com/SNY/index.m3u8",
+  "thumbnail":"https://od.lk/s/NDZfODY5ODIyNjBf/sportsnet.png",
+  "categorie":"SPORTS"
   },
   "56":{
-  "id": "57",
-  "name": "ESPN DEPORTE",
+  "id":"57",
+  "name":"ESPN DEPORTE",
   "number":"1259",
-  "description": "ESPN DEPORTE Sports tv est une chaine de sports qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato.",
-  "live_url": "https://fl1.moveonjoy.com/ESPN_U/index.m3u8",
-  "thumbnail": "https://od.lk/s/NDZfNjA1OTExNjhf/espndeporte.png",
-  "categorie": "SPORTS"
+  "description":"ESPN DEPORTE Sports est est une chaine de sports qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato.",
+  "live_url":"https://fl1.moveonjoy.com/ESPN_U/index.m3u8",
+  "thumbnail":"https://od.lk/s/NDZfNjA1OTExNjhf/espndeporte.png",
+  "categorie":"SPORTS"
   },
   "57":{
-  "id": "58",
-  "name": "ESPN NEWS",
+  "id":"58",
+  "name":"ESPN NEWS",
   "number":"1260",
-  "description": "ESPN DEPORTE Sports tv est une chaine de sports qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato.",
-  "live_url": "https://fl1.moveonjoy.com/ESPN_NEWS/index.m3u8",
-  "thumbnail": "https://od.lk/s/NDZfNjA1OTExNjhf/espndeporte.png",
-  "categorie": "SPORTS"
+  "description":"ESPN DEPORTE Sports est est une chaine de sports qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato.",
+  "live_url":"https://fl1.moveonjoy.com/ESPN_NEWS/index.m3u8",
+  "thumbnail":"https://od.lk/s/NDZfNjA1OTExNjhf/espndeporte.png",
+  "categorie":"SPORTS"
   },
   "58":{
-  "id": "59",
-  "name": "CBS SPORTS",
+  "id":"59",
+  "name":"CBS SPORTS",
   "number":"1261",
-  "description": "CBS SPORTS TV est une chaine de sports qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato.",
-  "live_url": "https://fl1.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8",
-  "thumbnail": "https://od.lk/s/NDZfODY5NzE5OTdf/cbssports.jpg",
-  "categorie": "SPORTS"
+  "description":"CBS SPORTS  Sports est est une chaine de sports qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato.",
+  "live_url":"https://fl1.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8",
+  "thumbnail":"https://od.lk/s/NDZfODY5NzE5OTdf/cbssports.jpg",
+  "categorie":"SPORTS"
   },
   "59":{
-  "id": "60",
-  "name": "NBA TV",
+  "id":"60",
+  "name":"NBA TV",
   "number":"1262",
-  "description": "NBA TV est une chaine de sports qui se focalise au championnat international de basketball avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato.",
-  "live_url": "https://fl1.moveonjoy.com/NBA_TV/index.m3u8",
-  "thumbnail": "https://od.lk/s/NDZfODY5NzcxOTlf/nbatv.png",
-  "categorie": "SPORTS"
+  "description":"NBA TV SPORTS  Sports est est une chaine de sports qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato.",
+  "live_url":"https://fl1.moveonjoy.com/NBA_TV/index.m3u8",
+  "thumbnail":"https://od.lk/s/NDZfODY5NzcxOTlf/nbatv.png",
+  "categorie":"SPORTS"
   },
   "60":{
-  "id": "61",
-  "name": "GOLF TV",
+  "id":"61",
+  "name":"GOLF TV",
   "number":"1263",
-  "description": "Golf TV est une chaine de sports qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato.",
-  "live_url": "https://fl1.moveonjoy.com/GOLF/index.m3u8",
-  "thumbnail": "https://od.lk/s/NDZfODY5NzUzODVf/golftv.jpg",
-  "categorie": "SPORTS"
+  "description":"Golf TV SPORTS  Sports est est une chaine de sports qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato.",
+  "live_url":"https://fl1.moveonjoy.com/GOLF/index.m3u8",
+  "thumbnail":"https://od.lk/s/NDZfODY5NzUzODVf/golftv.jpg",
+  "categorie":"SPORTS"
   },
   "61":{
-  "id": "62",
-  "name": "MLB NETWORK",
+  "id":"62",
+  "name":"MLB NETWORK",
   "number":"1264",
-  "description": "MLB Network TV est une chaine de sports qui se focalise au championnat Americain avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato.",
-  "live_url": "https://fl1.moveonjoy.com/MLB_NETWORK/index.m3u8",
-  "thumbnail": "https://od.lk/s/NDZfODY5NzU4ODhf/mlbnetwork.png",
-  "categorie": "SPORTS"
+  "description":"MLB Network TV SPORTS  Sports est est une chaine de sports qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato.",
+  "live_url":"https://fl1.moveonjoy.com/MLB_NETWORK/index.m3u8",
+  "thumbnail":"https://od.lk/s/NDZfODY5NzU4ODhf/mlbnetwork.png",
+  "categorie":"SPORTS"
   },
-  "63":{
-  "id": "64",
-  "name": "FANDUEL SPORTS",
+  "62":{
+  "id":"63",
+  "name":"FANDUEL SPORTS",
   "number":"1265",
-  "description": "FanDuel Sports est une chaine de sports qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato.",
-  "live_url": "https://fl1.moveonjoy.com/PAC_12/index.m3u8",
-  "thumbnail": "https://od.lk/s/NDZfODY5NzQ1NzZf/Fanduel.jpg",
-  "categorie": "SPORTS"
+  "description":"FanDuel Sports TV SPORTS  Sports est est une chaine de sports qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato.",
+  "live_url":"https://fl1.moveonjoy.com/PAC_12/index.m3u8",
+  "thumbnail":"https://od.lk/s/NDZfODY5NzQ1NzZf/Fanduel.jpg",
+  "categorie":"SPORTS"
   }
 }
+
+
+
+
 
 
   ==============================================
@@ -607,10 +611,6 @@
   "thumbnail": "https://od.lk/s/NDZfNzgxNjA1NTdf/AIOSPORT.jpg",
   "categorie": "SPORTS"
   },
- 
-
-
-  
   "71":{
   "id": "72",
   "name": "ARENA SPORT 3",
@@ -620,8 +620,6 @@
   "thumbnail": "https://od.lk/s/NDZfNjA2MDI5MTVf/arenapremium3.png",
   "categorie": "SPORTS"
   },
-
- 
   "74":{
   "id": "75",
   "name": "SPORTS 1",
@@ -631,19 +629,6 @@
   "thumbnail": "https://od.lk/s/NDZfNzgzMzg4MjZf/afroSport.png",
   "categorie": "SPORTS"
   },
-
- 
-
-  
-}
-
-
-
-
-
-
-
-
 
  "32":{
   "id": "33",
