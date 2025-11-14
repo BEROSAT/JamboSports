@@ -458,7 +458,9 @@
   "live_url": "https://live.teleradiocom.tj/8/3m.m3u8",
   "thumbnail": "https://od.lk/s/NDZfNjA1OTQ5ODdf/Tajikistan.png",
   "categorie": "SPORTS"
-  },
+  }
+}
+
   "52:{
   "id": "53",
   "name": "REDBULL TV",
