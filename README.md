@@ -359,6 +359,24 @@
   "live_url":"https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8",
   "thumbnail":"https://od.lk/s/M18yNjMzNzE3MzFf/bein_extra.png",
   "categorie":"SPORTS"
+  },
+  "40":{
+  "id":"41",
+  "name":"TNT SPORTS 1",
+  "number":"1222",
+  "description":"TNT SPORTS est une chaine de sports qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato.",
+  "live_url":"https://tvsen6.aynaott.com/btSport1/index.m3u8",
+  "thumbnail":"https://od.lk/s/NDZfODUyODk5NTJf/tntsports.jpeg",
+  "categorie":"SPORTS"
+  },
+  "41":{
+  "id":"42",
+  "name":"TNT SPORTS 2",
+  "number":"1223",
+  "description":"TNT SPORTS est une chaine de sports qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato.",
+  "live_url":"https://tvsen6.aynaott.com/btSport2/index.m3u8",
+  "thumbnail":"https://od.lk/s/NDZfODUyOTAwMzlf/tntsports2.jpeg",
+  "categorie":"SPORTS"
   }
 }
 
@@ -367,24 +385,7 @@
 
 
 
-  "34":{
-  "id":"35",
-  "name":"TNT SPORTS 1",
-  "number":"1222",
-  "description":"TNT SPORTS est une chaine de sports qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato.",
-  "live_url":"https://tvsen6.aynaott.com/btSport1/index.m3u8",
-  "thumbnail":"https://od.lk/s/NDZfODUyODk5NTJf/tntsports.jpeg",
-  "categorie":"SPORTS"
-  },
-  "35":{
-  "id":"36",
-  "name":"TNT SPORTS 2",
-  "number":"1223",
-  "description":"TNT SPORTS est une chaine de sports qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato.",
-  "live_url":"https://tvsen6.aynaott.com/btSport2/index.m3u8",
-  "thumbnail":"https://od.lk/s/NDZfODUyOTAwMzlf/tntsports2.jpeg",
-  "categorie":"SPORTS"
-  },
+ 
   "36":{
   "id":"37",
   "name":"PTV SPORTS",
