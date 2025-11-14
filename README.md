@@ -323,6 +323,24 @@
   "live_url":"https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/eqpe/equipe.m3u8",
   "thumbnail":"https://od.lk/s/NDZfNzgxNjA1MDVf/equipe2.jpg",
   "categorie":"SPORTS"
+  },
+  "36":{
+  "id": "37",
+  "name": "AFRICA 24 SPORTS",
+  "number":"1226",
+  "description": "Africa 24 SPORT est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct..",
+  "live_url": "https://africa24.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8",
+  "thumbnail": "https://od.lk/s/NDZfODM5NjU2ODlf/africa24sports.jpeg",
+  "categorie": "SPORTS"
+  },
+  "37":{
+  "id": "38",
+  "name": "AFRO SPORTS",
+  "number":"1228",
+  "description": "AFRO SPORTS est la chaine sportive qui se focalise au championnat Africain avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct...",
+  "live_url": "https://newproxy3.vidivu.tv/vidivu_afrosport/index.m3u8",
+  "thumbnail": "https://od.lk/s/NDZfNzgzMzg4MjZf/afroSport.png",
+  "categorie": "SPORTS"
   }
 }
 
@@ -358,15 +376,7 @@
   "thumbnail":"https://od.lk/s/NDZfODQyMzI0OTFf/ptvsports.jpeg",
   "categorie":"SPORTS"
   },
-  "37":{
-  "id": "38",
-  "name": "AFRICA 24 SPORTS",
-  "number":"1226",
-  "description": "Africa 24 SPORT est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct..",
-  "live_url": "https://africa24.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8",
-  "thumbnail": "https://od.lk/s/NDZfODM5NjU2ODlf/africa24sports.jpeg",
-  "categorie": "SPORTS"
-  },
+
   "38":{
   "id": "39",
   "name": "SKY ACTION",
@@ -376,15 +386,7 @@
   "thumbnail": "https://od.lk/s/NDZfODUyOTAyMTBf/skyaction.jpg",
   "categorie": "SPORTS"
   },
-  "39":{
-  "id": "40",
-  "name": "AFRO SPORTS",
-  "number":"1228",
-  "description": "AFRO SPORTS est la chaine sportive qui se focalise au championnat Africain avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct...",
-  "live_url": "https://newproxy3.vidivu.tv/vidivu_afrosport/index.m3u8",
-  "thumbnail": "https://od.lk/s/NDZfNzgzMzg4MjZf/afroSport.png",
-  "categorie": "SPORTS"
-  },
+
   "40":{
   "id": "41",
   "name": "EUROSPORTS FR",
