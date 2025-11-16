@@ -249,7 +249,7 @@
   "number":"1201",
   "description":"Fifa Plus est une chaine de sports qui se focalise au championnat fifa international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
   "live_url":"https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8",
-  "thumbnail":"https://od.lk/s/NDZfODg3NDI4MDdf/FIFAFRANCE.png",
+  "thumbnail":"https://od.lk/s/NDZfODg3NDI4MThf/fifaplus.png",
   "categorie":"SPORTS"
   },
   "28":{
@@ -290,285 +290,6 @@
   },
   "32":{
   "id":"33",
-  "name":"RMC 1 SPORT",
-  "number":"1220",
-  "description":"RMC 1 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct...",
-  "live_url":"http://145.239.5.177/525/index.m3u8",
-  "thumbnail":"https://od.lk/s/M18yOTc5OTA0NjBf/RMCone.jpg",
-  "categorie":"SPORTS"
-  },
-  "33":{
-  "id":"34",
-  "name":"RMC 2 SPORTS",
-  "number":"1221",
-  "description":"RMC 2 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct...",
-  "live_url":"http://145.239.5.177/526/index.m3u8",
-  "thumbnail":"https://od.lk/s/M18yOTc5OTA0Njdf/RMCtwo.png",
-  "categorie":"SPORTS"
-  },
-  "34":{
-  "id":"35",
-  "name":"L'EQUIPE LIVE 1",
-  "number":"1239",
-  "description":"L'EQUIPE LIVE 1 TV est la chaine sportive qui se focalise aux Sports..",
-  "live_url":"https://dshn8inoshngm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gac2i63dmu8b7/LEquipe_FR.m3u8",
-  "thumbnail":"https://od.lk/s/NDZfNzgxNTc2Mjhf/lequipelive1.png",
-  "categorie":"SPORTS"
-  },
-  "35":{
-  "id":"36",
-  "name":"L'EQUIPE LIVE 2",
-  "number":"1240",
-  "description":"L'EQUIPE LIVE 2 TV est la chaine sportive qui se focalise aux Sports..",
-  "live_url":"https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/eqpe/equipe.m3u8",
-  "thumbnail":"https://od.lk/s/NDZfNzgxNjA1MDVf/equipe2.jpg",
-  "categorie":"SPORTS"
-  },
-  "36":{
-  "id": "37",
-  "name": "AFRICA 24 SPORTS",
-  "number":"1226",
-  "description": "Africa 24 SPORT est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct..",
-  "live_url": "https://africa24.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8",
-  "thumbnail": "https://od.lk/s/NDZfODM5NjU2ODlf/africa24sports.jpeg",
-  "categorie": "SPORTS"
-  },
-  "37":{
-  "id": "38",
-  "name": "AFRO SPORTS",
-  "number":"1228",
-  "description": "AFRO SPORTS est la chaine sportive qui se focalise au championnat Africain avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct...",
-  "live_url": "https://newproxy3.vidivu.tv/vidivu_afrosport/index.m3u8",
-  "thumbnail": "https://od.lk/s/NDZfNzgzMzg4MjZf/afroSport.png",
-  "categorie": "SPORTS"
-  },
-  "38":{
-  "id":"39",
-  "name":"BEIN EXTRA",
-  "number":"1245",
-  "description":"BEIN EXTRAS est un réseau de télévision thématique privé du BeIn Media Group diffusant en France et consacré au sport. Ce réseau regroupe trois chaînes : BeIn Sports 1, BeIn Sports 2, BeIn Sports 3, ainsi qu'un multiplex BeIn Sports Max composé de 7 chaînes (BeIn Sports Max 4 à 10) permettant de couvrir plusieurs événements sportifs en simultané1. Le réseau international, piloté depuis Paris, est présidé en France par Yousef Al-Obaidly, qui avait notamment lancé la chaîne avec Charles Biétry. Florent Houzot occupe le poste de directeur de la rédaction. L'offre payante par abonnement au câble, satellite ou à télévision par Internet comprend trois chaînes en continu et sept canaux en multiplex de retransmissions en direct (BeIn Sports Max) dévolus à la diffusion des événements comme la retransmission de la Ligue 1, la Ligue des champions ou encore la Ligue Europa en football. BeIn Sports a dépassé les 2 millions d'abonnés en France et revendique au 13 septembre 2015, 2,5 millions d'abonnés2,3. Le 7 août 2014, les dirigeants annoncent qu'une troisième chaîne sera créée le 15 septembre 2014, nommée beIn Sports 34. Elle sera consacrée à tous les sports (handball, volley, tennis, athlétisme...). Cependant, lorsqu'il y aura plusieurs matchs de football en simultané, beIn Sports 3 diffusera également du football. Fin juin, à l'occasion de l'Euro 2016, beIn Sports annonce avoir atteint les 3 millions d'abonnés5. En septembre 2017, beIn Sports annonce avoir atteint les ,5 millions d'abonnés",
-  "live_url":"https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8",
-  "thumbnail":"https://od.lk/s/NDZfNzgxNjAzMTNf/beinextra.jpg",
-  "categorie":"SPORTS"
-  },
-  "39":{
-  "id":"40",
-  "name":"BEIN EXTRAS",
-  "number":"1241",
-  "description":"BEIN EXTRAS est un réseau de télévision thématique privé du BeIn Media Group diffusant en France et consacré au sport. Ce réseau regroupe trois chaînes : BeIn Sports 1, BeIn Sports 2, BeIn Sports 3, ainsi qu'un multiplex BeIn Sports Max composé de 7 chaînes (BeIn Sports Max 4 à 10) permettant de couvrir plusieurs événements sportifs en simultané1. Le réseau international, piloté depuis Paris, est présidé en France par Yousef Al-Obaidly, qui avait notamment lancé la chaîne avec Charles Biétry. Florent Houzot occupe le poste de directeur de la rédaction. L'offre payante par abonnement au câble, satellite ou à télévision par Internet comprend trois chaînes en continu et sept canaux en multiplex de retransmissions en direct (BeIn Sports Max) dévolus à la diffusion des événements comme la retransmission de la Ligue 1, la Ligue des champions ou encore la Ligue Europa en football. BeIn Sports a dépassé les 2 millions d'abonnés en France et revendique au 13 septembre 2015, 2,5 millions d'abonnés2,3. Le 7 août 2014, les dirigeants annoncent qu'une troisième chaîne sera créée le 15 septembre 2014, nommée beIn Sports 34. Elle sera consacrée à tous les sports (handball, volley, tennis, athlétisme...). Cependant, lorsqu'il y aura plusieurs matchs de football en simultané, beIn Sports 3 diffusera également du football. Fin juin, à l'occasion de l'Euro 2016, beIn Sports annonce avoir atteint les 3 millions d'abonnés5. En septembre 2017, beIn Sports annonce avoir atteint les ,5 millions d'abonnés.",
-  "live_url":"https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8",
-  "thumbnail":"https://od.lk/s/M18yNjMzNzE3MzFf/bein_extra.png",
-  "categorie":"SPORTS"
-  },
-  "40":{
-  "id": "41",
-  "name": "EUROSPORTS FR",
-  "number":"1229",
-  "description": "EUROSPORTS tv est une chaine de sports qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
-  "live_url": "http://145.239.5.177/529/index.m3u8",
-  "thumbnail": "https://od.lk/s/NDZfNjA1OTE2Mjhf/eurosports.png",
-  "categorie": "SPORTS"
-  },
-  "41":{
-  "id": "42",
-  "name": "EUROSPORTS 2 FR",
-  "number":"1231",
-  "description": "EUROSPORTS 2 tv est une chaine de sports qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
-  "live_url": "http://145.239.5.177/530/index.m3u8",
-  "thumbnail": "https://od.lk/s/NDZfODU1MjY3MjJf/eurosports2.png",
-  "categorie": "SPORTS"
-  },
-  "42":{
-  "id":"43",
-  "name":"REAL MADRID TV",
-  "number":"1244",
-  "description":"Real Madrid tv est une chaine de sports qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato.",
-  "live_url":"https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8",
-  "thumbnail":"https://od.lk/s/NDZfNzgxNjAzMDJf/realmadrid.jpg",
-  "categorie":"SPORTS"
-  },
-  "43":{
-  "id":"44",
-  "name":"TSN 1",
-  "number":"1246",
-  "description":"TSN 1 est une chaine de sports qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato.",
-  "live_url":"https://fl1.moveonjoy.com/TSN_1/index.m3u8",
-  "thumbnail":"https://od.lk/s/NDZfNzgxNjAzMzNf/tsn1.png",
-  "categorie":"SPORTS"
-  }, 
-  "44":{
-  "id":"45",
-  "name":"TSN 2",
-  "number":"1247",
-  "description":"TSN 2 est une chaine de sports qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato.",
-  "live_url":"https://fl1.moveonjoy.com/TSN_2/index.m3u8",
-  "thumbnail":"https://od.lk/s/NDZfNzgxNjAzNjJf/tsn2.png",
-  "categorie":"SPORTS"
-  }, 
-  "45":{
-  "id":"46",
-  "name":"TSN 3",
-  "number":"1248",
-  "description":"TSN 3 est une chaine de sports qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato.",
-  "live_url":"https://fl1.moveonjoy.com/TSN_3/index.m3u8",
-  "thumbnail":"https://od.lk/s/NDZfNzgxNjA0MDhf/tsn3.png",
-  "categorie":"SPORTS"
-  }, 
-  "46":{
-  "id":"47",
-  "name":"TSN 4",
-  "number":"1249",
-  "description":"TSN 4 est une chaine de sports qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato.",
-  "live_url":"https://fl1.moveonjoy.com/TSN_4/index.m3u8",
-  "thumbnail":"https://od.lk/s/NDZfNzgxNjA0MjFf/tsn4.png",
-  "categorie":"SPORTS"
-  }, 
-  "47":{
-  "id":"48",
-  "name":"TSN 5",
-  "number":"1250",
-  "description":"TSN 5 est une chaine de sports qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato.",
-  "live_url":"https://fl1.moveonjoy.com/TSN_5/index.m3u8",
-  "thumbnail":"https://od.lk/s/NDZfNzgxNjA0NDZf/tsn5.png",
-  "categorie":"SPORTS"
-  },
-  "48":{
-  "id":"49",
-  "name":"REDBULL TV",
-  "number":"1251",
-  "description":"RedBull est est une chaine de sports qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato.",
-  "live_url":"https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8",
-  "thumbnail":"https://od.lk/s/NDZfNjA1OTUxODZf/redbull.png",
-  "categorie":"SPORTS"
-  },
-  "49":{
-  "id":"50",
-  "name":"SHARJAH-SPORTS",
-  "number":"1252",
-  "description":"Sharjah Sports est est une chaine de sports qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato.",
-  "live_url":"https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8",
-  "thumbnail":"https://od.lk/s/NDZfNzgxNjA1Njdf/SHARJJAH.jpg",
-  "categorie":"SPORTS"
-  },
-  "50":{
-  "id":"51",
-  "name":"SPORTS TV",
-  "number":"1253",
-  "description":"SPORTS TV est est une chaine de sports qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato.",
-  "live_url":"http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8",
-  "thumbnail":"https://od.lk/s/M18yODEzNTI0OTZf/sporttv.jpg",
-  "categorie":"SPORTS"
-  },
-  "51":{
-  "id":"52",
-  "name":"FOX SPORTS 1",
-  "number":"1254",
-  "description":"Fox Sports est est une chaine de sports qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato.",
-  "live_url":"http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8",
-  "thumbnail":"https://od.lk/s/NDZfNzgxNjA0Njhf/foxsport1.png",
-  "categorie":"SPORTS"
-  },
-  "52":{
-  "id":"53",
-  "name":"NFL NETWORK",
-  "number":"1255",
-  "description":"NFL NETWORK SPORTS est est une chaine de sports qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato.",
-  "live_url":"https://fl1.moveonjoy.com/NFL_NETWORK/index.m3u8",
-  "thumbnail":"https://od.lk/s/NDZfODY5NzkyMjVf/nflnetwork.png",
-  "categorie":"SPORTS"
-  },
-  "53":{
-  "id":"54",
-  "name":"HNL NETWORK",
-  "number":"1256",
-  "description":"HNL NETWORK SPORTS est est une chaine de sports qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato.",
-  "live_url":"https://fl1.moveonjoy.com/NHL_NETWORK/index.m3u8",
-  "thumbnail":"https://od.lk/s/NDZfODY5ODAxOTNf/nhlnetwork.jpg",
-  "categorie":"SPORTS"
-  },
-  "54":{
-  "id":"55",
-  "name":"SPORTSMAN CHANNEL",
-  "number":"1257",
-  "description":"SPORTSMAN CHANNEL SPORTS est est une chaine de sports qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato.",
-  "live_url":"https://fl1.moveonjoy.com/SPORTSMAN_CHANNEL/index.m3u8",
-  "thumbnail":"https://od.lk/s/NDZfODY5ODExOTBf/SPORTSMAN.jpg",
-  "categorie":"SPORTS"
-  },
-  "55":{
-  "id":"56",
-  "name":"SPORTSNET TV",
-  "number":"1258",
-  "description":"SportsNet New York  SPORTS est est une chaine de sports qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato.",
-  "live_url":"https://fl1.moveonjoy.com/SNY/index.m3u8",
-  "thumbnail":"https://od.lk/s/NDZfODY5ODIyNjBf/sportsnet.png",
-  "categorie":"SPORTS"
-  },
-  "56":{
-  "id":"57",
-  "name":"ESPN DEPORTE",
-  "number":"1259",
-  "description":"ESPN DEPORTE Sports est est une chaine de sports qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato.",
-  "live_url":"https://fl1.moveonjoy.com/ESPN_U/index.m3u8",
-  "thumbnail":"https://od.lk/s/NDZfNjA1OTExNjhf/espndeporte.png",
-  "categorie":"SPORTS"
-  },
-  "57":{
-  "id":"58",
-  "name":"ESPN NEWS",
-  "number":"1260",
-  "description":"ESPN DEPORTE Sports est est une chaine de sports qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato.",
-  "live_url":"https://fl1.moveonjoy.com/ESPN_NEWS/index.m3u8",
-  "thumbnail":"https://od.lk/s/NDZfNjA1OTExNjhf/espndeporte.png",
-  "categorie":"SPORTS"
-  },
-  "58":{
-  "id":"59",
-  "name":"CBS SPORTS",
-  "number":"1261",
-  "description":"CBS SPORTS  Sports est est une chaine de sports qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato.",
-  "live_url":"https://fl1.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8",
-  "thumbnail":"https://od.lk/s/NDZfODY5NzE5OTdf/cbssports.jpg",
-  "categorie":"SPORTS"
-  },
-  "59":{
-  "id":"60",
-  "name":"NBA TV",
-  "number":"1262",
-  "description":"NBA TV SPORTS  Sports est est une chaine de sports qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato.",
-  "live_url":"https://fl1.moveonjoy.com/NBA_TV/index.m3u8",
-  "thumbnail":"https://od.lk/s/NDZfODY5NzcxOTlf/nbatv.png",
-  "categorie":"SPORTS"
-  },
-  "60":{
-  "id":"61",
-  "name":"GOLF TV",
-  "number":"1263",
-  "description":"Golf TV SPORTS  Sports est est une chaine de sports qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato.",
-  "live_url":"https://fl1.moveonjoy.com/GOLF/index.m3u8",
-  "thumbnail":"https://od.lk/s/NDZfODY5NzUzODVf/golftv.jpg",
-  "categorie":"SPORTS"
-  },
-  "61":{
-  "id":"62",
-  "name":"MLB NETWORK",
-  "number":"1264",
-  "description":"MLB Network TV SPORTS  Sports est est une chaine de sports qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato.",
-  "live_url":"https://fl1.moveonjoy.com/MLB_NETWORK/index.m3u8",
-  "thumbnail":"https://od.lk/s/NDZfODY5NzU4ODhf/mlbnetwork.png",
-  "categorie":"SPORTS"
-  },
-  "62":{
-  "id":"63",
-  "name":"FANDUEL SPORTS",
-  "number":"1265",
-  "description":"FanDuel Sports TV SPORTS  Sports est est une chaine de sports qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato.",
-  "live_url":"https://fl1.moveonjoy.com/PAC_12/index.m3u8",
-  "thumbnail":"https://od.lk/s/NDZfODY5NzQ1NzZf/Fanduel.jpg",
-  "categorie":"SPORTS"
-  },
-  "63":{
-  "id":"64",
   "name":"FIFA + USA",
   "number":"1266",
   "description":"FIFA+ USA est une chaine de sports qui se focalise au championnat fifa international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
@@ -576,8 +297,314 @@
   "thumbnail":"https://od.lk/s/NDZfODg3NDMzMzZf/FIFAUSA.png",
   "categorie":"SPORTS"
   },
+  "33":{
+  "id":"34",
+  "name":"RMC 1 SPORT",
+  "number":"1220",
+  "description":"RMC 1 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct...",
+  "live_url":"http://145.239.5.177/525/index.m3u8",
+  "thumbnail":"https://od.lk/s/M18yOTc5OTA0NjBf/RMCone.jpg",
+  "categorie":"SPORTS"
+  },
+  "34":{
+  "id":"35",
+  "name":"RMC 2 SPORTS",
+  "number":"1221",
+  "description":"RMC 2 est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct...",
+  "live_url":"http://145.239.5.177/526/index.m3u8",
+  "thumbnail":"https://od.lk/s/M18yOTc5OTA0Njdf/RMCtwo.png",
+  "categorie":"SPORTS"
+  },
+  "35":{
+  "id":"36",
+  "name":"L'EQUIPE 21",
+  "number":"1239",
+  "description":"L'EQUIPE 21 TV est la chaine sportive qui se focalise aux Sports..",
+  "live_url":"https://dshn8inoshngm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gac2i63dmu8b7/LEquipe_FR.m3u8",
+  "thumbnail":"https://od.lk/s/NDZfODg3OTI4MTlf/equipe21.jpg",
+  "categorie":"SPORTS"
+  },
+  "36":{
+  "id":"37",
+  "name":"L'EQUIPE LIVE 1",
+  "number":"1239",
+  "description":"L'EQUIPE LIVE 1 TV est la chaine sportive qui se focalise aux Sports..",
+  "live_url":""https://raw.githubusercontent.com/schumijo/iptv/refs/heads/main/playlists/lequipe/lequipelive1.m3u8",
+  "thumbnail":"https://od.lk/s/NDZfNzgxNTc2Mjhf/lequipelive1.png",
+  "categorie":"SPORTS"
+  },
+  "37":{
+  "id":"38",
+  "name":"L'EQUIPE LIVE 2",
+  "number":"1240",
+  "description":"L'EQUIPE LIVE 2 TV est la chaine sportive qui se focalise aux Sports..",
+  "live_url":"https://raw.githubusercontent.com/schumijo/iptv/refs/heads/main/playlists/lequipe/lequipelive2.m3u8",
+  "thumbnail":"https://od.lk/s/NDZfNzgxNjA1MDVf/equipe2.jpg",
+  "categorie":"SPORTS"
+  },
+  "38":{
+  "id":"39",
+  "name":"L'EQUIPE LIVE 3",
+  "number":"1240",
+  "description":"L'EQUIPE LIVE 3 TV est la chaine sportive qui se focalise aux Sports..",
+  "live_url":"https://raw.githubusercontent.com/schumijo/iptv/refs/heads/main/playlists/lequipe/lequipelive3.m3u8",
+  "thumbnail":"https://od.lk/s/NDZfODg3OTE1Njdf/equipe3.png",
+  "categorie":"SPORTS"
+  },
+  "39":{
+  "id":"40",
+  "name":"L'EQUIPE LIVE 4",
+  "number":"1240",
+  "description":"L'EQUIPE LIVE 4 TV est la chaine sportive qui se focalise aux Sports..",
+  "live_url":"https://raw.githubusercontent.com/schumijo/iptv/refs/heads/main/playlists/lequipe/lequipelive4.m3u8",
+  "thumbnail":"https://od.lk/s/NDZfODg3OTE1Njhf/equipe4.png",
+  "categorie":"SPORTS"
+  },
+  "40":{
+  "id": "41",
+  "name": "AFRICA 24 SPORTS",
+  "number":"1226",
+  "description": "Africa 24 SPORT est la chaine sportive qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct..",
+  "live_url": "https://africa24.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8",
+  "thumbnail": "https://od.lk/s/NDZfODM5NjU2ODlf/africa24sports.jpeg",
+  "categorie": "SPORTS"
+  },
+  "41":{
+  "id": "42",
+  "name": "AFRO SPORTS",
+  "number":"1228",
+  "description": "AFRO SPORTS est la chaine sportive qui se focalise au championnat Africain avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct...",
+  "live_url": "https://newproxy3.vidivu.tv/vidivu_afrosport/index.m3u8",
+  "thumbnail": "https://od.lk/s/NDZfNzgzMzg4MjZf/afroSport.png",
+  "categorie": "SPORTS"
+  },
+  "42":{
+  "id":"43",
+  "name":"BEIN EXTRA",
+  "number":"1245",
+  "description":"BEIN EXTRAS est un réseau de télévision thématique privé du BeIn Media Group diffusant en France et consacré au sport. Ce réseau regroupe trois chaînes : BeIn Sports 1, BeIn Sports 2, BeIn Sports 3, ainsi qu'un multiplex BeIn Sports Max composé de 7 chaînes (BeIn Sports Max 4 à 10) permettant de couvrir plusieurs événements sportifs en simultané1. Le réseau international, piloté depuis Paris, est présidé en France par Yousef Al-Obaidly, qui avait notamment lancé la chaîne avec Charles Biétry. Florent Houzot occupe le poste de directeur de la rédaction. L'offre payante par abonnement au câble, satellite ou à télévision par Internet comprend trois chaînes en continu et sept canaux en multiplex de retransmissions en direct (BeIn Sports Max) dévolus à la diffusion des événements comme la retransmission de la Ligue 1, la Ligue des champions ou encore la Ligue Europa en football. BeIn Sports a dépassé les 2 millions d'abonnés en France et revendique au 13 septembre 2015, 2,5 millions d'abonnés2,3. Le 7 août 2014, les dirigeants annoncent qu'une troisième chaîne sera créée le 15 septembre 2014, nommée beIn Sports 34. Elle sera consacrée à tous les sports (handball, volley, tennis, athlétisme...). Cependant, lorsqu'il y aura plusieurs matchs de football en simultané, beIn Sports 3 diffusera également du football. Fin juin, à l'occasion de l'Euro 2016, beIn Sports annonce avoir atteint les 3 millions d'abonnés5. En septembre 2017, beIn Sports annonce avoir atteint les ,5 millions d'abonnés",
+  "live_url":"https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8",
+  "thumbnail":"https://od.lk/s/NDZfNzgxNjAzMTNf/beinextra.jpg",
+  "categorie":"SPORTS"
+  },
+  "43":{
+  "id":"44",
+  "name":"BEIN EXTRAS",
+  "number":"1241",
+  "description":"BEIN EXTRAS est un réseau de télévision thématique privé du BeIn Media Group diffusant en France et consacré au sport. Ce réseau regroupe trois chaînes : BeIn Sports 1, BeIn Sports 2, BeIn Sports 3, ainsi qu'un multiplex BeIn Sports Max composé de 7 chaînes (BeIn Sports Max 4 à 10) permettant de couvrir plusieurs événements sportifs en simultané1. Le réseau international, piloté depuis Paris, est présidé en France par Yousef Al-Obaidly, qui avait notamment lancé la chaîne avec Charles Biétry. Florent Houzot occupe le poste de directeur de la rédaction. L'offre payante par abonnement au câble, satellite ou à télévision par Internet comprend trois chaînes en continu et sept canaux en multiplex de retransmissions en direct (BeIn Sports Max) dévolus à la diffusion des événements comme la retransmission de la Ligue 1, la Ligue des champions ou encore la Ligue Europa en football. BeIn Sports a dépassé les 2 millions d'abonnés en France et revendique au 13 septembre 2015, 2,5 millions d'abonnés2,3. Le 7 août 2014, les dirigeants annoncent qu'une troisième chaîne sera créée le 15 septembre 2014, nommée beIn Sports 34. Elle sera consacrée à tous les sports (handball, volley, tennis, athlétisme...). Cependant, lorsqu'il y aura plusieurs matchs de football en simultané, beIn Sports 3 diffusera également du football. Fin juin, à l'occasion de l'Euro 2016, beIn Sports annonce avoir atteint les 3 millions d'abonnés5. En septembre 2017, beIn Sports annonce avoir atteint les ,5 millions d'abonnés.",
+  "live_url":"https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8",
+  "thumbnail":"https://od.lk/s/M18yNjMzNzE3MzFf/bein_extra.png",
+  "categorie":"SPORTS"
+  },
+  "44":{
+  "id": "45",
+  "name": "EUROSPORTS FR",
+  "number":"1229",
+  "description": "EUROSPORTS tv est une chaine de sports qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
+  "live_url": "http://145.239.5.177/529/index.m3u8",
+  "thumbnail": "https://od.lk/s/NDZfNjA1OTE2Mjhf/eurosports.png",
+  "categorie": "SPORTS"
+  },
+  "45":{
+  "id": "46",
+  "name": "EUROSPORTS 2 FR",
+  "number":"1231",
+  "description": "EUROSPORTS 2 tv est une chaine de sports qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato..",
+  "live_url": "http://145.239.5.177/530/index.m3u8",
+  "thumbnail": "https://od.lk/s/NDZfODU1MjY3MjJf/eurosports2.png",
+  "categorie": "SPORTS"
+  },
+  "46":{
+  "id":"47",
+  "name":"REAL MADRID TV",
+  "number":"1244",
+  "description":"Real Madrid tv est une chaine de sports qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato.",
+  "live_url":"https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8",
+  "thumbnail":"https://od.lk/s/NDZfNzgxNjAzMDJf/realmadrid.jpg",
+  "categorie":"SPORTS"
+  },
+  "47":{
+  "id":"48",
+  "name":"TSN 1",
+  "number":"1246",
+  "description":"TSN 1 est une chaine de sports qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato.",
+  "live_url":"https://fl1.moveonjoy.com/TSN_1/index.m3u8",
+  "thumbnail":"https://od.lk/s/NDZfNzgxNjAzMzNf/tsn1.png",
+  "categorie":"SPORTS"
+  }, 
+  "48":{
+  "id":"49",
+  "name":"TSN 2",
+  "number":"1247",
+  "description":"TSN 2 est une chaine de sports qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato.",
+  "live_url":"https://fl1.moveonjoy.com/TSN_2/index.m3u8",
+  "thumbnail":"https://od.lk/s/NDZfNzgxNjAzNjJf/tsn2.png",
+  "categorie":"SPORTS"
+  }, 
+  "49":{
+  "id":"50",
+  "name":"TSN 3",
+  "number":"1248",
+  "description":"TSN 3 est une chaine de sports qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato.",
+  "live_url":"https://fl1.moveonjoy.com/TSN_3/index.m3u8",
+  "thumbnail":"https://od.lk/s/NDZfNzgxNjA0MDhf/tsn3.png",
+  "categorie":"SPORTS"
+  }, 
+  "50":{
+  "id":"51",
+  "name":"TSN 4",
+  "number":"1249",
+  "description":"TSN 4 est une chaine de sports qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato.",
+  "live_url":"https://fl1.moveonjoy.com/TSN_4/index.m3u8",
+  "thumbnail":"https://od.lk/s/NDZfNzgxNjA0MjFf/tsn4.png",
+  "categorie":"SPORTS"
+  }, 
+  "51":{
+  "id":"52",
+  "name":"TSN 5",
+  "number":"1250",
+  "description":"TSN 5 est une chaine de sports qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato.",
+  "live_url":"https://fl1.moveonjoy.com/TSN_5/index.m3u8",
+  "thumbnail":"https://od.lk/s/NDZfNzgxNjA0NDZf/tsn5.png",
+  "categorie":"SPORTS"
+  },
+  "52":{
+  "id":"53",
+  "name":"REDBULL TV",
+  "number":"1251",
+  "description":"RedBull est est une chaine de sports qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato.",
+  "live_url":"https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8",
+  "thumbnail":"https://od.lk/s/NDZfNjA1OTUxODZf/redbull.png",
+  "categorie":"SPORTS"
+  },
+  "53":{
+  "id":"54",
+  "name":"SHARJAH-SPORTS",
+  "number":"1252",
+  "description":"Sharjah Sports est est une chaine de sports qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato.",
+  "live_url":"https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8",
+  "thumbnail":"https://od.lk/s/NDZfNzgxNjA1Njdf/SHARJJAH.jpg",
+  "categorie":"SPORTS"
+  },
+  "54":{
+  "id":"55",
+  "name":"SPORTS TV",
+  "number":"1253",
+  "description":"SPORTS TV est est une chaine de sports qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato.",
+  "live_url":"http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8",
+  "thumbnail":"https://od.lk/s/M18yODEzNTI0OTZf/sporttv.jpg",
+  "categorie":"SPORTS"
+  },
+  "55":{
+  "id":"56",
+  "name":"FOX SPORTS 1",
+  "number":"1254",
+  "description":"Fox Sports est est une chaine de sports qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato.",
+  "live_url":"http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8",
+  "thumbnail":"https://od.lk/s/NDZfNzgxNjA0Njhf/foxsport1.png",
+  "categorie":"SPORTS"
+  },
+  "56":{
+  "id":"57",
+  "name":"NFL NETWORK",
+  "number":"1255",
+  "description":"NFL NETWORK SPORTS est est une chaine de sports qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato.",
+  "live_url":"https://fl1.moveonjoy.com/NFL_NETWORK/index.m3u8",
+  "thumbnail":"https://od.lk/s/NDZfODY5NzkyMjVf/nflnetwork.png",
+  "categorie":"SPORTS"
+  },
+  "57":{
+  "id":"58",
+  "name":"HNL NETWORK",
+  "number":"1256",
+  "description":"HNL NETWORK SPORTS est est une chaine de sports qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato.",
+  "live_url":"https://fl1.moveonjoy.com/NHL_NETWORK/index.m3u8",
+  "thumbnail":"https://od.lk/s/NDZfODY5ODAxOTNf/nhlnetwork.jpg",
+  "categorie":"SPORTS"
+  },
+  "58":{
+  "id":"59",
+  "name":"SPORTSMAN CHANNEL",
+  "number":"1257",
+  "description":"SPORTSMAN CHANNEL SPORTS est est une chaine de sports qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato.",
+  "live_url":"https://fl1.moveonjoy.com/SPORTSMAN_CHANNEL/index.m3u8",
+  "thumbnail":"https://od.lk/s/NDZfODY5ODExOTBf/SPORTSMAN.jpg",
+  "categorie":"SPORTS"
+  },
+  "59":{
+  "id":"60",
+  "name":"SPORTSNET TV",
+  "number":"1258",
+  "description":"SportsNet New York  SPORTS est est une chaine de sports qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato.",
+  "live_url":"https://fl1.moveonjoy.com/SNY/index.m3u8",
+  "thumbnail":"https://od.lk/s/NDZfODY5ODIyNjBf/sportsnet.png",
+  "categorie":"SPORTS"
+  },
+  "60":{
+  "id":"61",
+  "name":"ESPN DEPORTE",
+  "number":"1259",
+  "description":"ESPN DEPORTE Sports est est une chaine de sports qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato.",
+  "live_url":"https://fl1.moveonjoy.com/ESPN_U/index.m3u8",
+  "thumbnail":"https://od.lk/s/NDZfNjA1OTExNjhf/espndeporte.png",
+  "categorie":"SPORTS"
+  },
+  "61":{
+  "id":"62",
+  "name":"ESPN NEWS",
+  "number":"1260",
+  "description":"ESPN DEPORTE Sports est est une chaine de sports qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato.",
+  "live_url":"https://fl1.moveonjoy.com/ESPN_NEWS/index.m3u8",
+  "thumbnail":"https://od.lk/s/NDZfNjA1OTExNjhf/espndeporte.png",
+  "categorie":"SPORTS"
+  },
+  "62":{
+  "id":"63",
+  "name":"CBS SPORTS",
+  "number":"1261",
+  "description":"CBS SPORTS  Sports est est une chaine de sports qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato.",
+  "live_url":"https://fl1.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8",
+  "thumbnail":"https://od.lk/s/NDZfODY5NzE5OTdf/cbssports.jpg",
+  "categorie":"SPORTS"
+  },
+  "63":{
+  "id":"64",
+  "name":"NBA TV",
+  "number":"1262",
+  "description":"NBA TV SPORTS  Sports est est une chaine de sports qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato.",
+  "live_url":"https://fl1.moveonjoy.com/NBA_TV/index.m3u8",
+  "thumbnail":"https://od.lk/s/NDZfODY5NzcxOTlf/nbatv.png",
+  "categorie":"SPORTS"
+  },
   "64":{
-  "id": "65",
+  "id":"65",
+  "name":"GOLF TV",
+  "number":"1263",
+  "description":"Golf TV SPORTS  Sports est est une chaine de sports qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato.",
+  "live_url":"https://fl1.moveonjoy.com/GOLF/index.m3u8",
+  "thumbnail":"https://od.lk/s/NDZfODY5NzUzODVf/golftv.jpg",
+  "categorie":"SPORTS"
+  },
+  "65":{
+  "id":"66",
+  "name":"MLB NETWORK",
+  "number":"1264",
+  "description":"MLB Network TV SPORTS  Sports est est une chaine de sports qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato.",
+  "live_url":"https://fl1.moveonjoy.com/MLB_NETWORK/index.m3u8",
+  "thumbnail":"https://od.lk/s/NDZfODY5NzU4ODhf/mlbnetwork.png",
+  "categorie":"SPORTS"
+  },
+  "66":{
+  "id":"67",
+  "name":"FANDUEL SPORTS",
+  "number":"1265",
+  "description":"FanDuel Sports TV SPORTS  Sports est est une chaine de sports qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato.",
+  "live_url":"https://fl1.moveonjoy.com/PAC_12/index.m3u8",
+  "thumbnail":"https://od.lk/s/NDZfODY5NzQ1NzZf/Fanduel.jpg",
+  "categorie":"SPORTS"
+  },
+  "67":{
+  "id": "68",
   "name": "BEIN SPORT 1 AR",
   "number":"1267",
   "description": "Bein Sports 1 est un réseau de télévision thématique privé du BeIn Media Group diffusant en France et consacré au sport. Ce réseau regroupe trois chaînes : BeIn Sports 1, BeIn Sports 2, BeIn Sports 3, ainsi qu'un multiplex BeIn Sports Max composé de 7 chaînes (BeIn Sports Max 4 à 10) permettant de couvrir plusieurs événements sportifs en simultané1. Le réseau international, piloté depuis Paris, est présidé en France par Yousef Al-Obaidly, qui avait notamment lancé la chaîne avec Charles Biétry. Florent Houzot occupe le poste de directeur de la rédaction. L'offre payante par abonnement au câble, satellite ou à télévision par Internet comprend trois chaînes en continu et sept canaux en multiplex de retransmissions en direct (BeIn Sports Max) dévolus à la diffusion des événements comme la retransmission de la Ligue 1, la Ligue des champions ou encore la Ligue Europa en football. BeIn Sports a dépassé les 2 millions d'abonnés en France et revendique au 13 septembre 2015, 2,5 millions d'abonnés2,3. Le 7 août 2014, les dirigeants annoncent qu'une troisième chaîne sera créée le 15 septembre 2014, nommée beIn Sports 34. Elle sera consacrée à tous les sports (handball, volley, tennis, athlétisme...). Cependant, lorsqu'il y aura plusieurs matchs de football en simultané, beIn Sports 3 diffusera également du football. Fin juin, à l'occasion de l'Euro 2016, beIn Sports annonce avoir atteint les 3 millions d'abonnés5. En septembre 2017, beIn Sports annonce avoir atteint les ,5 millions d'abonnés.",
@@ -585,8 +612,8 @@
   "thumbnail": "https://od.lk/s/M18yNTkxODU4MzBf/beinone.png",
   "categorie": "SPORTS"
   },
-  "65":{
-  "id":"66",
+  "68":{
+  "id":"69",
   "name":"4 SPORTS",
   "number":"1268",
   "description":"4 Sports Sports TV SPORTS  Sports est est une chaine de sports qui se focalise au championnat international avec des informations sur les equipes ainsi que les Joueurs sans oublier les matchs en direct et aussi les mercato.",
