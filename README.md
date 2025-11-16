@@ -329,7 +329,7 @@
   "name":"L'EQUIPE LIVE 1",
   "number":"1239",
   "description":"L'EQUIPE LIVE 1 TV est la chaine sportive qui se focalise aux Sports..",
-  "live_url":""https://raw.githubusercontent.com/schumijo/iptv/refs/heads/main/playlists/lequipe/lequipelive1.m3u8",
+  "live_url":"https://raw.githubusercontent.com/schumijo/iptv/refs/heads/main/playlists/lequipe/lequipelive1.m3u8",
   "thumbnail":"https://od.lk/s/NDZfNzgxNTc2Mjhf/lequipelive1.png",
   "categorie":"SPORTS"
   },
