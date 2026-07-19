@@ -18,10 +18,6 @@
   "thumbnail":"https://od.lk/s/NDZfOTEyMDU1ODRf/sports2tv.png",
   "categorie":"SPORTS"
   }
-}
-
-
-
   "2":{
   "id":"3",
   "name":"SPORTS 3",
@@ -625,7 +621,7 @@
   "thumbnail":"https://od.lk/s/NDZfODg3NDcyNDRf/4sports.jpeg",
   "categorie":"SPORTS"
   }
-
+}
 
 
 
