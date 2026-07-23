@@ -17,7 +17,7 @@
   "live_url":"http://185.132.134.159:80/sport2/index.m3u8",
   "thumbnail":"https://od.lk/s/NDZfOTEyMDU1ODRf/sports2tv.png",
   "categorie":"SPORTS"
-  }
+  },
   "2":{
   "id":"3",
   "name":"SPORTS 3",
